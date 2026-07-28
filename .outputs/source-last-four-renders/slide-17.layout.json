@@ -1,0 +1,1927 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/14bup87q",
+    "id": "14bup87q",
+    "slide": 17,
+    "layoutId": "/ppt/slideLayouts/slideLayout7.xml",
+    "layoutName": "Blank",
+    "layoutType": "blank",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#0A0A1F",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "HK Grotesk Pro Bold",
+      "Inter",
+      "Inter Italics",
+      "JetBrains Mono",
+      "JetBrains Mono Bold"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout7.xml",
+      "name": "Blank",
+      "type": "blank",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/2",
+          "id": "2",
+          "name": "Date Placeholder 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/3",
+          "id": "3",
+          "name": "Footer Placeholder 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout7.xml/4",
+          "id": "4",
+          "name": "Slide Number Placeholder 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "Title Placeholder 1",
+          "bbox": [
+            48,
+            28.83,
+            864,
+            120
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master title style",
+          "textPreview": "Click to edit Master title style",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master title style",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master title style"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "Text Placeholder 2",
+          "bbox": [
+            48,
+            168,
+            864,
+            475.17
+          ],
+          "geometry": "rect",
+          "text": "Click to edit Master text styles\nSecond level\nThird level\nFourth level\nFifth level",
+          "textPreview": "Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Click to edit Master text styles",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Click to edit Master text styles"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Second level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Second level"
+                }
+              ]
+            },
+            {
+              "index": 3,
+              "text": "Third level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Third level"
+                }
+              ]
+            },
+            {
+              "index": 4,
+              "text": "Fourth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fourth level"
+                }
+              ]
+            },
+            {
+              "index": 5,
+              "text": "Fifth level",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Fifth level"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "Date Placeholder 3",
+          "bbox": [
+            48,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "8/1/2011",
+          "textPreview": "8/1/2011",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "8/1/2011",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "8/1/2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "Footer Placeholder 4",
+          "bbox": [
+            328,
+            667.33,
+            304,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "Slide Number Placeholder 5",
+          "bbox": [
+            688,
+            667.33,
+            224,
+            38.33
+          ],
+          "geometry": "rect",
+          "text": "‹#›",
+          "textPreview": "‹#›",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          },
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "‹#›",
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "‹#›"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbedwfmx",
+      "id": "3",
+      "name": "Freeform 3",
+      "bbox": [
+        68.46,
+        922.85,
+        8.83,
+        8.83
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(0, 229, 255, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6lwvql4v",
+      "id": "5",
+      "name": "Freeform 5",
+      "bbox": [
+        1453.08,
+        340.86,
+        8.32,
+        8.32
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 43, 214, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/snedsvml",
+      "id": "7",
+      "name": "Freeform 7",
+      "bbox": [
+        753.25,
+        176.38,
+        4.96,
+        4.96
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 225, 74, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ihcvml4j",
+      "id": "9",
+      "name": "Freeform 9",
+      "bbox": [
+        688.98,
+        879.39,
+        7.25,
+        7.25
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(0, 229, 255, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pc7qhwn6",
+      "id": "11",
+      "name": "Freeform 11",
+      "bbox": [
+        140.26,
+        739.9,
+        5.69,
+        5.69
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 43, 214, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ap8fm50",
+      "id": "13",
+      "name": "Freeform 13",
+      "bbox": [
+        1827.1,
+        207.92,
+        8.78,
+        8.78
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 225, 74, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/honqdwnu",
+      "id": "15",
+      "name": "Freeform 15",
+      "bbox": [
+        789.5,
+        813.43,
+        7.03,
+        7.03
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(0, 229, 255, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fm58bm54",
+      "id": "17",
+      "name": "Freeform 17",
+      "bbox": [
+        1667.45,
+        846.44,
+        8.93,
+        8.93
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 43, 214, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14rqpgne",
+      "id": "19",
+      "name": "Freeform 19",
+      "bbox": [
+        1420.95,
+        756.96,
+        4.99,
+        4.99
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 225, 74, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8ze9gbyx",
+      "id": "21",
+      "name": "Freeform 21",
+      "bbox": [
+        850.02,
+        994.97,
+        9.69,
+        9.69
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(0, 229, 255, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mxw7e1gr",
+      "id": "23",
+      "name": "Freeform 23",
+      "bbox": [
+        754.63,
+        930.49,
+        7.55,
+        7.55
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 43, 214, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0vepcbyl",
+      "id": "25",
+      "name": "Freeform 25",
+      "bbox": [
+        14.81,
+        1013.5,
+        7.07,
+        7.07
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 225, 74, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytc7a1gv",
+      "id": "27",
+      "name": "Freeform 27",
+      "bbox": [
+        1350.54,
+        614.01,
+        4.73,
+        4.73
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(0, 229, 255, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7up8ryp",
+      "id": "29",
+      "name": "Freeform 29",
+      "bbox": [
+        1721.82,
+        182.03,
+        9.05,
+        9.05
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 43, 214, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e1ob2d8",
+      "id": "31",
+      "name": "Freeform 31",
+      "bbox": [
+        8.66,
+        167.54,
+        4.52,
+        4.52
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 225, 74, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0j6dcvy",
+      "id": "33",
+      "name": "Freeform 33",
+      "bbox": [
+        851.05,
+        1020.56,
+        5.64,
+        5.64
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(0, 229, 255, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fah47idw",
+      "id": "35",
+      "name": "Freeform 35",
+      "bbox": [
+        1209,
+        1031.07,
+        8.92,
+        8.92
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 43, 214, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cj69sv2",
+      "id": "37",
+      "name": "Freeform 37",
+      "bbox": [
+        1882.51,
+        649.08,
+        4.85,
+        4.85
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "rgba(255, 225, 74, 0.49804)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6h43id0",
+      "id": "39",
+      "name": "Freeform 39",
+      "bbox": [
+        0,
+        0,
+        1920,
+        6
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jy1kfehg",
+      "id": "40",
+      "name": "TextBox 40",
+      "bbox": [
+        0,
+        -3,
+        1920,
+        9
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixsj690v",
+      "id": "41",
+      "name": "TextBox 41",
+      "bbox": [
+        100,
+        38,
+        600,
+        23.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "AFK · TRI DHARMA / AI AGENTS",
+      "textPreview": "AFK · TRI DHARMA / AI AGENTS",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AFK · TRI DHARMA / AI AGENTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AFK · TRI DHARMA / AI AGENTS",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AFK · TRI DHARMA / AI AGENTS",
+              "fontSize": 18,
+              "typeface": "JetBrains Mono",
+              "color": "#9AA4C7"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50j2hozm",
+      "id": "42",
+      "name": "TextBox 42",
+      "bbox": [
+        1220,
+        38,
+        600,
+        23.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "13 / 13 — ECOSYSTEM",
+      "textPreview": "13 / 13 — ECOSYSTEM",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13 / 13 — ECOSYSTEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13 / 13 — ECOSYSTEM",
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13 / 13 — ECOSYSTEM",
+              "fontSize": 18,
+              "typeface": "JetBrains Mono",
+              "color": "#9AA4C7"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vuhkbehk",
+      "id": "44",
+      "name": "Freeform 44",
+      "bbox": [
+        100,
+        1078,
+        1720,
+        1
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#2A2F5A",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at8j290z",
+      "id": "45",
+      "name": "TextBox 45",
+      "bbox": [
+        100,
+        1075,
+        1720,
+        4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwz2dozq",
+      "id": "46",
+      "name": "TextBox 46",
+      "bbox": [
+        100,
+        86,
+        1500,
+        29.6
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "▍ CLOSING · 12",
+      "textPreview": "▍ CLOSING · 12",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "▍ CLOSING · 12"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "▍ CLOSING · 12",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "▍ CLOSING · 12",
+              "fontSize": 22,
+              "typeface": "JetBrains Mono Bold",
+              "color": "#00E5FF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvq14ji5",
+      "id": "47",
+      "name": "TextBox 47",
+      "bbox": [
+        100,
+        144.6,
+        1720,
+        76.16
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "The unified academic ecosystem.",
+      "textPreview": "The unified academic ecosystem.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The unified academic ecosystem."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The unified academic ecosystem.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The unified academic ecosystem.",
+              "fontSize": 68,
+              "typeface": "HK Grotesk Pro Bold",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5ojyp03",
+      "id": "49",
+      "name": "Freeform 49",
+      "bbox": [
+        990,
+        220.76,
+        680,
+        680
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#12122E",
+      "lineColor": "#00E5FF",
+      "lineWidth": 2
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcvyh0f6",
+      "id": "51",
+      "name": "Freeform 51",
+      "bbox": [
+        1090,
+        320.76,
+        480,
+        480
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#161A3D",
+      "lineColor": "#FF2BD6",
+      "lineWidth": 2
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/radgfqx0",
+      "id": "53",
+      "name": "Freeform 53",
+      "bbox": [
+        1200,
+        430.76,
+        260,
+        260
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFE14A",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z6hcfyx",
+      "id": "54",
+      "name": "TextBox 54",
+      "bbox": [
+        1130,
+        519.76,
+        400,
+        41
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "LECTURER",
+      "textPreview": "LECTURER",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LECTURER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LECTURER",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LECTURER",
+              "fontSize": 34,
+              "typeface": "HK Grotesk Pro Bold",
+              "color": "#0A0A1F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0fylkfi",
+      "id": "55",
+      "name": "TextBox 55",
+      "bbox": [
+        1130,
+        559.76,
+        400,
+        21.8
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "core expertise",
+      "textPreview": "core expertise",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "core expertise"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "core expertise",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "core expertise",
+              "fontSize": 16,
+              "typeface": "JetBrains Mono",
+              "color": "#0A0A1F"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex4za5gr",
+      "id": "56",
+      "name": "TextBox 56",
+      "bbox": [
+        1130,
+        338.76,
+        400,
+        28
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "AFK AGENT ENGINE",
+      "textPreview": "AFK AGENT ENGINE",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AFK AGENT ENGINE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AFK AGENT ENGINE",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AFK AGENT ENGINE",
+              "fontSize": 20,
+              "typeface": "JetBrains Mono",
+              "color": "#FF2BD6"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyxgjaxc",
+      "id": "57",
+      "name": "TextBox 57",
+      "bbox": [
+        1070,
+        238.76,
+        520,
+        28
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "GITHUB HOSTING ENVIRONMENT",
+      "textPreview": "GITHUB HOSTING ENVIRONMENT",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "GITHUB HOSTING ENVIRONMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "GITHUB HOSTING ENVIRONMENT",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "GITHUB HOSTING ENVIRONMENT",
+              "fontSize": 20,
+              "typeface": "JetBrains Mono",
+              "color": "#00E5FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4by9gfy",
+      "id": "59",
+      "name": "Freeform 59",
+      "bbox": [
+        1127.7,
+        157.73,
+        180,
+        60
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#0A0A1F",
+      "lineColor": "#00E5FF",
+      "lineWidth": 2
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xoj6h83q",
+      "id": "60",
+      "name": "TextBox 60",
+      "bbox": [
+        1127.7,
+        154.73,
+        180,
+        63
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wna5o3m5",
+      "id": "61",
+      "name": "TextBox 61",
+      "bbox": [
+        1127.7,
+        173.73,
+        180,
+        23.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "I·RESEARCH",
+      "textPreview": "I·RESEARCH",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "I·RESEARCH"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "I·RESEARCH",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "I·RESEARCH",
+              "fontSize": 18,
+              "typeface": "JetBrains Mono",
+              "color": "#00E5FF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alsnmd4z",
+      "id": "63",
+      "name": "Freeform 63",
+      "bbox": [
+        1277.94,
+        898.86,
+        180,
+        60
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#0A0A1F",
+      "lineColor": "#FF2BD6",
+      "lineWidth": 2
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5s36ls3m",
+      "id": "64",
+      "name": "TextBox 64",
+      "bbox": [
+        1277.94,
+        895.86,
+        180,
+        63
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kru5snm1",
+      "id": "65",
+      "name": "TextBox 65",
+      "bbox": [
+        1277.94,
+        914.86,
+        180,
+        23.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "II·EDUCATION",
+      "textPreview": "II·EDUCATION",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "II·EDUCATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "II·EDUCATION",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "II·EDUCATION",
+              "fontSize": 18,
+              "typeface": "JetBrains Mono",
+              "color": "#FF2BD6"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ipcnqd4b",
+      "id": "67",
+      "name": "Freeform 67",
+      "bbox": [
+        890,
+        372.78,
+        180,
+        60
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#0A0A1F",
+      "lineColor": "#FFE14A",
+      "lineWidth": 2
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tg36ps3y",
+      "id": "68",
+      "name": "TextBox 68",
+      "bbox": [
+        890,
+        369.78,
+        180,
+        63
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfu5wnmd",
+      "id": "69",
+      "name": "TextBox 69",
+      "bbox": [
+        890,
+        388.78,
+        180,
+        23.4
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "III·COMMUNITY",
+      "textPreview": "III·COMMUNITY",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "III·COMMUNITY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "III·COMMUNITY",
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "III·COMMUNITY",
+              "fontSize": 18,
+              "typeface": "JetBrains Mono",
+              "color": "#FFE14A"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1o3apkv",
+      "id": "70",
+      "name": "TextBox 70",
+      "bbox": [
+        100,
+        254.76,
+        800,
+        110.5
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "The lecturer sits at the centre — supported by the AFK Agent engine and GitHub, continuously producing polished Tri Dharma outputs.",
+      "textPreview": "The lecturer sits at the centre — supported by the AFK Agent engine and GitHub, continuously producing polished Tri Dharma outputs.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The lecturer sits at the centre — supported by the AFK Agent engine"
+          },
+          {
+            "index": 2,
+            "text": "and GitHub, continuously producing polished Tri Dharma outputs."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The lecturer sits at the centre — supported by the AFK Agent engine and GitHub, continuously producing polished Tri Dharma outputs.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The lecturer sits at the centre — supported by the AFK Agent engine and GitHub, continuously producing polished Tri Dharma outputs.",
+              "fontSize": 26,
+              "typeface": "Inter",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c36lcz2l",
+      "id": "72",
+      "name": "Freeform 72",
+      "bbox": [
+        100,
+        425.26,
+        6,
+        260
+      ],
+      "rotation": 0,
+      "geometry": "custom",
+      "fillColor": "#FFE14A",
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4f2l4j6",
+      "id": "73",
+      "name": "TextBox 73",
+      "bbox": [
+        100,
+        422.26,
+        6,
+        263
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 5.33,
+          "right": 5.33,
+          "bottom": 5.33,
+          "left": 5.33
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      }
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypo3e9kr",
+      "id": "74",
+      "name": "TextBox 74",
+      "bbox": [
+        140,
+        418.26,
+        720,
+        135.3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "text": "The modern lecturer is no longer bogged down by administrative friction. By embedding an AFK Research AI agent into a GitHub foundation, the Tri Dharma becomes a continuous, interconnected, and highly polished output of your core expertise.",
+      "textPreview": "The modern lecturer is no longer bogged down by administrative friction. By embedding an AFK Research AI agent into a GitHub foundation, ...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "resizeShapeToFitText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The modern lecturer is no longer bogged down by administrative friction."
+          },
+          {
+            "index": 2,
+            "text": "By embedding an AFK Research AI agent into a GitHub foundation, the"
+          },
+          {
+            "index": 3,
+            "text": "Tri Dharma becomes a continuous, interconnected, and highly polished"
+          },
+          {
+            "index": 4,
+            "text": "output of your core expertise."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The modern lecturer is no longer bogged down by administrative friction. By embedding an AFK Research AI agent into a GitHub foundation, the Tri Dharma becomes a continuous, interconnected, and highly polished output of your core expertise.",
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The modern lecturer is no longer bogged down by administrative friction. By embedding an AFK Research AI agent into a GitHub foundation, the Tri Dharma becomes a continuous, interconnected, and highly polished output of your core expertise.",
+              "fontSize": 22,
+              "typeface": "Inter Italics",
+              "color": "#E0E6FF",
+              "italic": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

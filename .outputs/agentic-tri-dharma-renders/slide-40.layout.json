@@ -1,0 +1,920 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/58zz1v",
+    "id": "58zz1v",
+    "slide": 40,
+    "layoutId": "9c9666d3-cd89-4267-8e57-83affe24bb31",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "08246b69-4d6a-49c3-84ca-06f9caa1cc80",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#014A74",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "9c9666d3-cd89-4267-8e57-83affe24bb31",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "08246b69-4d6a-49c3-84ca-06f9caa1cc80",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "08246b69-4d6a-49c3-84ca-06f9caa1cc80",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w369g7ut",
+      "id": "1",
+      "name": "metadata-rail-40",
+      "bbox": [
+        1240,
+        0,
+        40,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F0F2F0",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2xsn2d8",
+      "id": "2",
+      "bbox": [
+        1247,
+        650,
+        26,
+        28
+      ],
+      "geometry": "rect",
+      "text": "40",
+      "textPreview": "40",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "rotation": 0,
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#014A74",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4"
+          },
+          {
+            "index": 2,
+            "text": "0"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "40",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 14,
+            "color": "#014A74",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "40",
+              "rotation": 0,
+              "fontSize": 14,
+              "color": "#014A74",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1orehcn",
+      "id": "3",
+      "bbox": [
+        1247,
+        52,
+        26,
+        500
+      ],
+      "geometry": "rect",
+      "text": "IMPLEMENTATION",
+      "textPreview": "IMPLEMENTATION",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "rotation": 90,
+        "fontSize": 12,
+        "typeface": "+mn-lt",
+        "color": "#014A74",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 14,
+        "lines": [
+          {
+            "index": 1,
+            "text": "I"
+          },
+          {
+            "index": 2,
+            "text": "M"
+          },
+          {
+            "index": 3,
+            "text": "P"
+          },
+          {
+            "index": 4,
+            "text": "L"
+          },
+          {
+            "index": 5,
+            "text": "E"
+          },
+          {
+            "index": 6,
+            "text": "M"
+          },
+          {
+            "index": 7,
+            "text": "E"
+          },
+          {
+            "index": 8,
+            "text": "N"
+          },
+          {
+            "index": 9,
+            "text": "T"
+          },
+          {
+            "index": 10,
+            "text": "A"
+          },
+          {
+            "index": 11,
+            "text": "T"
+          },
+          {
+            "index": 12,
+            "text": "I"
+          },
+          {
+            "index": 13,
+            "text": "O"
+          },
+          {
+            "index": 14,
+            "text": "N"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IMPLEMENTATION",
+          "resolvedTextStyle": {
+            "rotation": 90,
+            "fontSize": 12,
+            "color": "#014A74",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IMPLEMENTATION",
+              "rotation": 90,
+              "fontSize": 12,
+              "color": "#014A74",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszatwba",
+      "id": "4",
+      "bbox": [
+        1256,
+        568,
+        8,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D5DC",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/krq9krup",
+      "id": "5",
+      "bbox": [
+        1256,
+        583,
+        8,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D5DC",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqhsrmd4",
+      "id": "6",
+      "bbox": [
+        1256,
+        598,
+        8,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D5DC",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y58rihcj",
+      "id": "7",
+      "bbox": [
+        1256,
+        613,
+        8,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFC000",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/twjaxwb6",
+      "id": "8",
+      "bbox": [
+        1256,
+        628,
+        8,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#C8D5DC",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8vqtoru1",
+      "id": "9",
+      "name": "anchor-block-40",
+      "bbox": [
+        0,
+        0,
+        96,
+        96
+      ],
+      "geometry": "rect",
+      "fillColor": "#006CAB",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adg7atkf",
+      "id": "10",
+      "name": "slide-title",
+      "bbox": [
+        96,
+        72,
+        1090,
+        66
+      ],
+      "geometry": "rect",
+      "text": "Start with verifiable prerequisites",
+      "textPreview": "Start with verifiable prerequisites",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 48,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Start with verifiable prerequisites"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Start with verifiable prerequisites",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 48,
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Start with verifiable prerequisites",
+              "rotation": 0,
+              "fontSize": 48,
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bepo3y10",
+      "id": "11",
+      "bbox": [
+        96,
+        146,
+        160,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFC000",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfipc325",
+      "id": "12",
+      "bbox": [
+        96,
+        220,
+        336,
+        44
+      ],
+      "geometry": "rect",
+      "text": "RUNTIME",
+      "textPreview": "RUNTIME",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#FFC000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RUNTIME"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RUNTIME",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 25,
+            "color": "#FFC000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RUNTIME",
+              "rotation": 0,
+              "fontSize": 25,
+              "color": "#FFC000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xgr65ojq",
+      "id": "13",
+      "bbox": [
+        96,
+        274,
+        336,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yh07etkb",
+      "id": "14",
+      "bbox": [
+        96,
+        304,
+        336,
+        250
+      ],
+      "geometry": "rect",
+      "text": "Node.js 18.18 or newer and npm.",
+      "textPreview": "Node.js 18.18 or newer and npm.",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Node.js 18.18 or newer and"
+          },
+          {
+            "index": 2,
+            "text": "npm."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Node.js 18.18 or newer and npm.",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 23,
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Node.js 18.18 or newer and npm.",
+              "rotation": 0,
+              "fontSize": 23,
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji9o7y1w",
+      "id": "15",
+      "bbox": [
+        468,
+        220,
+        336,
+        44
+      ],
+      "geometry": "rect",
+      "text": "REPOSITORY",
+      "textPreview": "REPOSITORY",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#FFC000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "REPOSITORY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "REPOSITORY",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 25,
+            "color": "#FFC000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "REPOSITORY",
+              "rotation": 0,
+              "fontSize": 25,
+              "color": "#FFC000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3ipg32h",
+      "id": "16",
+      "bbox": [
+        468,
+        274,
+        336,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4r698j2",
+      "id": "17",
+      "bbox": [
+        468,
+        304,
+        336,
+        250
+      ],
+      "geometry": "rect",
+      "text": "An existing Git worktree with a reachable GitHub origin.",
+      "textPreview": "An existing Git worktree with a reachable GitHub origin.",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "An existing Git worktree with a"
+          },
+          {
+            "index": 2,
+            "text": "reachable GitHub origin."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "An existing Git worktree with a reachable GitHub origin.",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 23,
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "An existing Git worktree with a reachable GitHub origin.",
+              "rotation": 0,
+              "fontSize": 23,
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elwn29k7",
+      "id": "18",
+      "bbox": [
+        840,
+        220,
+        336,
+        44
+      ],
+      "geometry": "rect",
+      "text": "CHOICES",
+      "textPreview": "CHOICES",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#FFC000",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CHOICES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CHOICES",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 25,
+            "color": "#FFC000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CHOICES",
+              "rotation": 0,
+              "fontSize": 25,
+              "color": "#FFC000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zm5ovels",
+      "id": "19",
+      "bbox": [
+        840,
+        274,
+        336,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ql43a1k",
+      "id": "20",
+      "bbox": [
+        840,
+        304,
+        336,
+        250
+      ],
+      "geometry": "rect",
+      "text": "Decide whether the project needs Design, Schedule, Claude Code, or Sandcastle support.",
+      "textPreview": "Decide whether the project needs Design, Schedule, Claude Code, or Sandcastle support.",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "rotation": 0,
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Decide whether the project"
+          },
+          {
+            "index": 2,
+            "text": "needs Design, Schedule,"
+          },
+          {
+            "index": 3,
+            "text": "Claude Code, or Sandcastle"
+          },
+          {
+            "index": 4,
+            "text": "support."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Decide whether the project needs Design, Schedule, Claude Code, or Sandcastle support.",
+          "resolvedTextStyle": {
+            "rotation": 0,
+            "fontSize": 23,
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Decide whether the project needs Design, Schedule, Claude Code, or Sandcastle support.",
+              "rotation": 0,
+              "fontSize": 23,
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

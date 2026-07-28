@@ -1,0 +1,731 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"▍ ACADEMIC WORKSPACE · JULY 23, 2026","textShapes":10}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Freeform 2","bbox":[0,0,1920,1080]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"Freeform 4","bbox":[0,0,1920,1080]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"TextBox 5","bbox":[0,-3,1920,1083]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"Freeform 7","bbox":[0,0,1920,10]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"TextBox 8","bbox":[0,-3,1920,13]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"TextBox 9","text":"▍ ACADEMIC WORKSPACE · JULY 23, 2026","textPreview":"▍ ACADEMIC WORKSPACE · JULY 23, 2026","textChars":36,"textLines":1,"bbox":[120,196,1000,29.6]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"TextBox 10","text":"Empowering the Tri Dharma with AI Agents","textPreview":"Empowering the Tri Dharma with AI Agents","textChars":40,"textLines":1,"bbox":[120,271,1680,231.2]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"TextBox 11","text":"Building a modern academic workspace with AFK Research & GitHub — a visual guide for university lecturers to automate research, education, and community service.","textPreview":"Building a modern academic workspace with AFK Research & GitHub — a visual guide for university lecturers to automate research, education...","textChars":161,"textLines":1,"bbox":[120,535.2,1500,88]}
+{"kind":"shape","id":"sh/vmdcj2xw","slide":1,"name":"Freeform 13","bbox":[120,880,320,120]}
+{"kind":"shape","id":"sh/4r6dg7et","slide":1,"name":"TextBox 14","bbox":[120,877,320,123]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"name":"TextBox 15","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[144,896,100,29.6]}
+{"kind":"textbox","id":"sh/ipovexwn","slide":1,"name":"TextBox 16","text":"RESEARCH","textPreview":"RESEARCH","textChars":8,"textLines":1,"bbox":[144,941,272,41]}
+{"kind":"shape","id":"sh/sfqdkrep","slide":1,"name":"Freeform 18","bbox":[464,880,320,120]}
+{"kind":"shape","id":"sh/dgzetcfa","slide":1,"name":"TextBox 19","bbox":[464,877,320,123]}
+{"kind":"textbox","id":"sh/1cvuxc7e","slide":1,"name":"TextBox 20","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[488,896,100,29.6]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"TextBox 21","text":"EDUCATION","textPreview":"EDUCATION","textChars":9,"textLines":1,"bbox":[488,941,272,41]}
+{"kind":"shape","id":"sh/e94v2hon","slide":1,"name":"Freeform 23","bbox":[808,880,320,120]}
+{"kind":"shape","id":"sh/90ve1w7q","slide":1,"name":"TextBox 24","bbox":[808,877,320,123]}
+{"kind":"textbox","id":"sh/ozmd8r65","slide":1,"name":"TextBox 25","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[832,896,100,29.6]}
+{"kind":"textbox","id":"sh/nydczmpk","slide":1,"name":"TextBox 26","text":"COMMUNITY","textPreview":"COMMUNITY","textChars":9,"textLines":1,"bbox":[832,941,272,41]}
+{"kind":"textbox","id":"sh/mx4v6hoz","slide":1,"name":"TextBox 27","text":"23 · 07 · 2026  //  THURSDAY","textPreview":"23 · 07 · 2026  //  THURSDAY","textChars":28,"textLines":1,"bbox":[1172,916,500,32.2]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":11}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"Freeform 3","bbox":[941.6,605.65,4.69,4.69]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"Freeform 5","bbox":[468.44,478.67,7.04,7.04]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Freeform 7","bbox":[150.83,949.18,7.54,7.54]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"Freeform 9","bbox":[788.78,307.19,8.69,8.69]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Freeform 11","bbox":[1262.29,82.71,6.99,6.99]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Freeform 13","bbox":[451.35,725.72,4.95,4.95]}
+{"kind":"shape","id":"sh/xk7qlczu","slide":2,"name":"Freeform 15","bbox":[1075.97,526.24,5.06,5.06]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"Freeform 17","bbox":[96.14,1014.25,9.82,9.82]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Freeform 19","bbox":[231.87,479.76,9.73,9.73]}
+{"kind":"shape","id":"sh/s72xofmh","slide":2,"name":"Freeform 21","bbox":[363.15,452.78,7.3,7.3]}
+{"kind":"shape","id":"sh/65kfmpor","slide":2,"name":"Freeform 23","bbox":[1289.99,303.29,5.02,5.02]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"name":"Freeform 25","bbox":[1892.39,481.31,5.4,5.4]}
+{"kind":"shape","id":"sh/u94fqp4n","slide":2,"name":"Freeform 27","bbox":[1050.34,356.82,4.92,4.92]}
+{"kind":"shape","id":"sh/4zmxwzmp","slide":2,"name":"Freeform 29","bbox":[1483.84,379.83,6.1,6.1]}
+{"kind":"shape","id":"sh/nmpcj6ls","slide":2,"name":"Freeform 31","bbox":[152.91,1000.35,5.43,5.43]}
+{"kind":"shape","id":"sh/9o7ulg3y","slide":2,"name":"Freeform 33","bbox":[1697.52,508.36,5.42,5.42]}
+{"kind":"shape","id":"sh/ba9cn6l4","slide":2,"name":"Freeform 35","bbox":[1157.7,433.87,8.55,8.55]}
+{"kind":"shape","id":"sh/xcrupg3u","slide":2,"name":"Freeform 37","bbox":[1253.42,146.89,5.34,5.34]}
+{"kind":"shape","id":"sh/je9crql0","slide":2,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/ru5cbqd4","slide":2,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/69wbilcj","slide":2,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/tw7ud0va","slide":2,"name":"TextBox 42","text":"02 / 13 — PROBLEM","textPreview":"02 / 13 — PROBLEM","textChars":17,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/fypcfqdg","slide":2,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/exgvmlcv","slide":2,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/107uh0v6","slide":2,"name":"TextBox 46","text":"▍ THE PROBLEM · 01","textPreview":"▍ THE PROBLEM · 01","textChars":18,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/gzydovul","slide":2,"name":"TextBox 47","text":"The administrative weight\nof academic excellence.","textPreview":"The administrative weight | of academic excellence.","textChars":49,"textLines":2,"bbox":[100,144.6,1720,149.16]}
+{"kind":"textbox","id":"sh/v2lc36dw","slide":2,"name":"TextBox 48","text":"Indonesian higher education demands mastery of the Tri Dharma — but manual switching between research, teaching, and service creates constant operational friction.","textPreview":"Indonesian higher education demands mastery of the Tri Dharma — but manual switching between research, teaching, and service creates cons...","textChars":163,"textLines":1,"bbox":[100,348.76,900,118]}
+{"kind":"textbox","id":"sh/a1cba1wb","slide":2,"name":"TextBox 49","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[100,512.76,80,37.4]}
+{"kind":"textbox","id":"sh/0vq1o36x","slide":2,"name":"TextBox 50","text":"Research, Education & Community Service demand high-level focus","textPreview":"Research, Education & Community Service demand high-level focus","textChars":63,"textLines":1,"bbox":[200,511.76,700,63]}
+{"kind":"shape","id":"sh/1wzix87i","slide":2,"name":"AutoShape 51","bbox":[100,600.76,800,0]}
+{"kind":"textbox","id":"sh/et8zmto7","slide":2,"name":"TextBox 52","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[100,618.76,80,37.4]}
+{"kind":"textbox","id":"sh/zuh0vypc","slide":2,"name":"TextBox 53","text":"Manual task switching consumes valuable time","textPreview":"Manual task switching consumes valuable time","textChars":44,"textLines":1,"bbox":[200,617.76,700,32]}
+{"kind":"shape","id":"sh/c76hk361","slide":2,"name":"AutoShape 54","bbox":[100,684.76,800,0]}
+{"kind":"textbox","id":"sh/d8zit87m","slide":2,"name":"TextBox 55","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[100,702.76,80,37.4]}
+{"kind":"textbox","id":"sh/q5ozitov","slide":2,"name":"TextBox 56","text":"Reduces time available for real academic impact","textPreview":"Reduces time available for real academic impact","textChars":47,"textLines":1,"bbox":[200,701.76,700,32]}
+{"kind":"shape","id":"sh/r6x0rypg","slide":2,"name":"AutoShape 57","bbox":[100,768.76,800,0]}
+{"kind":"shape","id":"sh/w3a1wn65","slide":2,"name":"Freeform 58","bbox":[1040,333.76,780,700]}
+{"kind":"shape","id":"sh/5kfipszu","slide":2,"name":"Freeform 60","bbox":[1040,333.76,780,700]}
+{"kind":"shape","id":"sh/kj6hgny9","slide":2,"name":"TextBox 61","bbox":[1040,330.76,780,703]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":11}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"name":"Freeform 3","bbox":[1247.8,976.78,5.79,5.79]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"Freeform 5","bbox":[199.83,246.46,8.56,8.56]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Freeform 7","bbox":[374.07,353.64,8.81,8.81]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"Freeform 9","bbox":[650.54,668.32,9.06,9.06]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"Freeform 11","bbox":[1829.23,560.5,5.79,5.79]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"Freeform 13","bbox":[870.15,480.19,7.5,7.5]}
+{"kind":"shape","id":"sh/a5c3ql8z","slide":3,"name":"Freeform 15","bbox":[493.28,877.37,4.71,4.71]}
+{"kind":"shape","id":"sh/w7ulsvqp","slide":3,"name":"Freeform 17","bbox":[1498.64,42.05,5.89,5.89]}
+{"kind":"shape","id":"sh/i9w3u58v","slide":3,"name":"Freeform 19","bbox":[846.22,584.23,7.57,7.57]}
+{"kind":"shape","id":"sh/f29gbyx0","slide":3,"name":"Freeform 21","bbox":[1256.02,793.91,6.23,6.23]}
+{"kind":"shape","id":"sh/14ryd8fq","slide":3,"name":"Freeform 23","bbox":[1608.05,41.09,4.37,4.37]}
+{"kind":"shape","id":"sh/re9g7yxo","slide":3,"name":"Freeform 25","bbox":[782.3,935.77,4.51,4.51]}
+{"kind":"shape","id":"sh/tgry9ofu","slide":3,"name":"Freeform 27","bbox":[1498.77,687.95,9.13,9.13]}
+{"kind":"shape","id":"sh/batgjixs","slide":3,"name":"Freeform 29","bbox":[717.46,827.63,8.73,8.73]}
+{"kind":"shape","id":"sh/k3m1g7yp","slide":3,"name":"Freeform 31","bbox":[1158.37,724.81,5.82,5.82]}
+{"kind":"shape","id":"sh/y14jehgj","slide":3,"name":"Freeform 33","bbox":[1701.51,829.49,8.9,8.9]}
+{"kind":"shape","id":"sh/czmhc7id","slide":3,"name":"Freeform 35","bbox":[1226.86,511.67,8.46,8.46]}
+{"kind":"shape","id":"sh/ax4zax0n","slide":3,"name":"Freeform 37","bbox":[534.44,221.35,7.01,7.01]}
+{"kind":"shape","id":"sh/wv61obyx","slide":3,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/4nuhs7uh","slide":3,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/po3ilcvm","slide":3,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/21szqxcb","slide":3,"name":"TextBox 42","text":"03 / 13 — SOLUTION","textPreview":"03 / 13 — SOLUTION","textChars":18,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/cruhwrud","slide":3,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/ds3ipcvy","slide":3,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/qpczuhc7","slide":3,"name":"TextBox 46","text":"▍ THE SOLUTION · 02","textPreview":"▍ THE SOLUTION · 02","textChars":19,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/rql0nmds","slide":3,"name":"TextBox 47","text":"The agentic academic workspace.","textPreview":"The agentic academic workspace.","textChars":31,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/0ve10ru9","slide":3,"name":"TextBox 48","text":"The AFK Research framework in GitHub transforms a folder into an active AI agent — autonomously managing academic workflows.","textPreview":"The AFK Research framework in GitHub transforms a folder into an active AI agent — autonomously managing academic workflows.","textChars":124,"textLines":1,"bbox":[100,265.76,1720,83]}
+{"kind":"shape","id":"sh/v29cfu18","slide":3,"name":"Freeform 50","bbox":[100,408.76,560,340]}
+{"kind":"shape","id":"sh/a10b6p03","slide":3,"name":"TextBox 51","bbox":[100,405.76,560,343]}
+{"kind":"shape","id":"sh/w3it8zit","slide":3,"name":"Freeform 53","bbox":[100,408.76,560,6]}
+{"kind":"shape","id":"sh/nypcba1c","slide":3,"name":"TextBox 54","bbox":[100,405.76,560,9]}
+{"kind":"textbox","id":"sh/mxgb250r","slide":3,"name":"TextBox 55","text":".brain/","textPreview":".brain/","textChars":7,"textLines":1,"bbox":[140,443.76,480,45.2]}
+{"kind":"textbox","id":"sh/90rudkji","slide":3,"name":"TextBox 56","text":"Second Brain knowledge base for persistent research data.","textPreview":"Second Brain knowledge base for persistent research data.","textChars":57,"textLines":1,"bbox":[140,533.76,480,67]}
+{"kind":"shape","id":"sh/7utcne1g","slide":3,"name":"Freeform 58","bbox":[140,656.26,70,37.5]}
+{"kind":"shape","id":"sh/2p4f6dk3","slide":3,"name":"Freeform 60","bbox":[690,408.76,560,340]}
+{"kind":"shape","id":"sh/3qxwfilo","slide":3,"name":"TextBox 61","bbox":[690,405.76,560,343]}
+{"kind":"shape","id":"sh/psfeh83u","slide":3,"name":"Freeform 63","bbox":[690,408.76,560,6]}
+{"kind":"shape","id":"sh/qtofadkf","slide":3,"name":"TextBox 64","bbox":[690,405.76,560,9]}
+{"kind":"textbox","id":"sh/bexwjil0","slide":3,"name":"TextBox 65","text":".schedule/","textPreview":".schedule/","textChars":10,"textLines":1,"bbox":[730,443.76,480,45.2]}
+{"kind":"textbox","id":"sh/cf6xcn2l","slide":3,"name":"TextBox 66","text":"Automated syllabus and assessment management.","textPreview":"Automated syllabus and assessment management.","textChars":45,"textLines":1,"bbox":[730,533.76,480,67]}
+{"kind":"shape","id":"sh/6xkvytkb","slide":3,"name":"Freeform 68","bbox":[730,656.26,70,37.5]}
+{"kind":"shape","id":"sh/9cjidwny","slide":3,"name":"Freeform 70","bbox":[1280,408.76,560,340]}
+{"kind":"shape","id":"sh/8bahkrmt","slide":3,"name":"TextBox 71","bbox":[1280,405.76,560,343]}
+{"kind":"shape","id":"sh/m9szih4n","slide":3,"name":"Freeform 73","bbox":[1280,408.76,560,6]}
+{"kind":"shape","id":"sh/xg3ihwna","slide":3,"name":"TextBox 74","bbox":[1280,405.76,560,9]}
+{"kind":"textbox","id":"sh/wfahormp","slide":3,"name":"TextBox 75","text":".design/","textPreview":".design/","textChars":8,"textLines":1,"bbox":[1320,443.76,480,45.2]}
+{"kind":"textbox","id":"sh/ve10fm54","slide":3,"name":"TextBox 76","text":"Community education and public asset generation.","textPreview":"Community education and public asset generation.","textChars":48,"textLines":1,"bbox":[1320,533.76,480,67]}
+{"kind":"shape","id":"sh/dkzy5cn6","slide":3,"name":"Freeform 78","bbox":[1320,656.26,70,37.5]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":19}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"Freeform 3","bbox":[93.32,284.61,5.52,5.52]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"Freeform 5","bbox":[488.3,745.95,6.35,6.35]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Freeform 7","bbox":[932.18,1024.8,9.01,9.01]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"Freeform 9","bbox":[304.95,491.15,9.98,9.98]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Freeform 11","bbox":[1326.6,675,5.78,5.78]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"Freeform 13","bbox":[957.14,946.34,4.89,4.89]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"Freeform 15","bbox":[1916.58,675.19,9.83,9.83]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"Freeform 17","bbox":[1164.9,311.54,5.08,5.08]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"Freeform 19","bbox":[1422.11,305.38,5.15,5.15]}
+{"kind":"shape","id":"sh/oz29krqh","slide":4,"name":"Freeform 21","bbox":[1568.21,26.73,6.54,6.54]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"Freeform 23","bbox":[483.19,1005.58,5.75,5.75]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"Freeform 25","bbox":[887.07,451.93,5.28,5.28]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"name":"Freeform 27","bbox":[1659.84,975.77,7.63,7.63]}
+{"kind":"shape","id":"sh/sri9s7q9","slide":4,"name":"Freeform 29","bbox":[1681.49,867.12,9.3,9.3]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"Freeform 31","bbox":[1752.03,575.97,6.79,6.79]}
+{"kind":"shape","id":"sh/5ony1oj6","slide":4,"name":"Freeform 33","bbox":[751.46,552.31,8.6,8.6]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"Freeform 35","bbox":[1399.79,166.16,5.23,5.23]}
+{"kind":"shape","id":"sh/xknyx4ja","slide":4,"name":"Freeform 37","bbox":[657,947.51,5.18,5.18]}
+{"kind":"shape","id":"sh/nulw7u18","slide":4,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/fm5c3q54","slide":4,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/elwba54j","slide":4,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/18nu50nu","slide":4,"name":"TextBox 42","text":"04 / 13 — ARCHITECTURE","textPreview":"04 / 13 — ARCHITECTURE","textChars":22,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/rilczq5s","slide":4,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/qhcb6l47","slide":4,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/dknu10ny","slide":4,"name":"TextBox 46","text":"▍ ARCHITECTURE · 03","textPreview":"▍ ARCHITECTURE · 03","textChars":19,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/sjut8vmd","slide":4,"name":"TextBox 47","text":"Architecting the modern Tri Dharma.","textPreview":"Architecting the modern Tri Dharma.","textChars":35,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/3elcv65w","slide":4,"name":"TextBox 48","text":"Three pillars as architectural columns — supported by a shared technology foundation.","textPreview":"Three pillars as architectural columns — supported by a shared technology foundation.","textChars":85,"textLines":1,"bbox":[100,253.76,1720,38.2]}
+{"kind":"shape","id":"sh/8jq9c72t","slide":4,"name":"Freeform 50","bbox":[120,351.96,520,12]}
+{"kind":"shape","id":"sh/tkjq5c3e","slide":4,"name":"TextBox 51","bbox":[120,348.96,520,15]}
+{"kind":"shape","id":"sh/7ih83mlo","slide":4,"name":"Freeform 53","bbox":[180,363.96,400,480]}
+{"kind":"shape","id":"sh/gna9gr25","slide":4,"name":"TextBox 54","bbox":[180,360.96,400,483]}
+{"kind":"textbox","id":"sh/hoja9w3q","slide":4,"name":"TextBox 55","text":"I","textPreview":"I","textChars":1,"textLines":1,"bbox":[120,425.96,520,141.5]}
+{"kind":"textbox","id":"sh/ulsrehkz","slide":4,"name":"TextBox 56","text":"RESEARCH","textPreview":"RESEARCH","textChars":8,"textLines":1,"bbox":[120,591.96,520,38]}
+{"kind":"textbox","id":"sh/vm1s7mlk","slide":4,"name":"TextBox 57","text":".brain + GitHub Issues","textPreview":".brain + GitHub Issues","textChars":22,"textLines":1,"bbox":[120,647.96,520,28]}
+{"kind":"textbox","id":"sh/wr694nm1","slide":4,"name":"TextBox 58","text":"Persistent knowledge, milestone tracking, and peer-review pipelines.","textPreview":"Persistent knowledge, milestone tracking, and peer-review pipelines.","textChars":68,"textLines":1,"bbox":[160,706.96,440,60.6]}
+{"kind":"shape","id":"sh/do761ova","slide":4,"name":"Freeform 60","bbox":[120,851.96,520,20]}
+{"kind":"shape","id":"sh/cnyp8jep","slide":4,"name":"TextBox 61","bbox":[120,848.96,520,23]}
+{"kind":"shape","id":"sh/qlg769wj","slide":4,"name":"Freeform 63","bbox":[680,351.96,520,12]}
+{"kind":"shape","id":"sh/lcr658v6","slide":4,"name":"TextBox 64","bbox":[680,348.96,520,15]}
+{"kind":"shape","id":"sh/zq9o3ydg","slide":4,"name":"Freeform 66","bbox":[740,363.96,400,480]}
+{"kind":"shape","id":"sh/yp07atwv","slide":4,"name":"TextBox 67","bbox":[740,360.96,400,483]}
+{"kind":"textbox","id":"sh/9grq98vi","slide":4,"name":"TextBox 68","text":"II","textPreview":"II","textChars":2,"textLines":1,"bbox":[680,425.96,520,141.5]}
+{"kind":"textbox","id":"sh/8fipg3ex","slide":4,"name":"TextBox 69","text":"EDUCATION","textPreview":"EDUCATION","textChars":9,"textLines":1,"bbox":[680,591.96,520,38]}
+{"kind":"textbox","id":"sh/6psve183","slide":4,"name":"TextBox 70","text":".schedule + Claude Code","textPreview":".schedule + Claude Code","textChars":23,"textLines":1,"bbox":[680,647.96,520,28]}
+{"kind":"textbox","id":"sh/7a1cn6po","slide":4,"name":"TextBox 71","text":"Multi-modal content generation across slides, video, and podcast.","textPreview":"Multi-modal content generation across slides, video, and podcast.","textChars":65,"textLines":1,"bbox":[720,706.96,440,60.6]}
+{"kind":"shape","id":"sh/tcjupg7u","slide":4,"name":"Freeform 73","bbox":[680,851.96,520,20]}
+{"kind":"shape","id":"sh/udcvil8z","slide":4,"name":"TextBox 74","bbox":[680,848.96,520,23]}
+{"kind":"shape","id":"sh/gfudkvq5","slide":4,"name":"Freeform 76","bbox":[1240,351.96,520,12]}
+{"kind":"shape","id":"sh/hg3et07q","slide":4,"name":"TextBox 77","bbox":[1240,348.96,520,15]}
+{"kind":"shape","id":"sh/3ilwvqpw","slide":4,"name":"Freeform 79","bbox":[1300,363.96,400,480]}
+{"kind":"shape","id":"sh/na18b2tc","slide":4,"name":"TextBox 80","bbox":[1300,360.96,400,483]}
+{"kind":"textbox","id":"sh/29srixcr","slide":4,"name":"TextBox 81","text":"III","textPreview":"III","textChars":3,"textLines":1,"bbox":[1240,425.96,520,141.5]}
+{"kind":"textbox","id":"sh/pcjadsb2","slide":4,"name":"TextBox 82","text":"COMMUNITY","textPreview":"COMMUNITY","textChars":9,"textLines":1,"bbox":[1240,591.96,520,38]}
+{"kind":"textbox","id":"sh/oba9k7uh","slide":4,"name":"TextBox 83","text":".design + Sandcastle UI","textPreview":".design + Sandcastle UI","textChars":23,"textLines":1,"bbox":[1240,647.96,520,28]}
+{"kind":"textbox","id":"sh/bylsf2t8","slide":4,"name":"TextBox 84","text":"Infographics, training kits, and automated field feedback.","textPreview":"Infographics, training kits, and automated field feedback.","textChars":58,"textLines":1,"bbox":[1280,706.96,440,60.6]}
+{"kind":"shape","id":"sh/x03ahcbe","slide":4,"name":"Freeform 86","bbox":[1240,851.96,520,20]}
+{"kind":"shape","id":"sh/czu9o7ut","slide":4,"name":"TextBox 87","bbox":[1240,848.96,520,23]}
+{"kind":"shape","id":"sh/y1crqhcz","slide":4,"name":"Freeform 89","bbox":[100,891.96,1720,90]}
+{"kind":"shape","id":"sh/w7e9grqx","slide":4,"name":"TextBox 90","bbox":[100,888.96,1720,93]}
+{"kind":"textbox","id":"sh/h8nq9wri","slide":4,"name":"TextBox 91","text":"FOUNDATION","textPreview":"FOUNDATION","textChars":10,"textLines":1,"bbox":[130,905.96,400,29.6]}
+{"kind":"textbox","id":"sh/u5wreh8r","slide":4,"name":"TextBox 92","text":"GitHub CLI  ·  Node.js 18.18+  ·  Personal Hosted Web","textPreview":"GitHub CLI  ·  Node.js 18.18+  ·  Personal Hosted Web","textChars":53,"textLines":1,"bbox":[130,933.96,1660,32.2]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":22}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"Freeform 3","bbox":[1011.93,318,8.8,8.8]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Freeform 5","bbox":[1602.48,49.34,4.91,4.91]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Freeform 7","bbox":[1601.91,318.19,6.84,6.84]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"Freeform 9","bbox":[1810.23,494.54,5.1,5.1]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"Freeform 11","bbox":[1107.44,1028.38,8.17,8.17]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Freeform 13","bbox":[293.54,209.73,6.56,6.56]}
+{"kind":"shape","id":"sh/58vehgvy","slide":5,"name":"Freeform 15","bbox":[168.53,648.58,8.77,8.77]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"Freeform 17","bbox":[1532.4,634.93,5.3,5.3]}
+{"kind":"shape","id":"sh/tcfel0vu","slide":5,"name":"Freeform 19","bbox":[1345.17,618.77,4.65,4.65]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"Freeform 21","bbox":[406.82,1050.12,9.32,9.32]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"Freeform 23","bbox":[1437.37,218.97,9.81,9.81]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"Freeform 25","bbox":[1396.8,735.31,8.62,8.62]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"Freeform 27","bbox":[1085.12,889.16,8.25,8.25]}
+{"kind":"shape","id":"sh/kny587i9","slide":5,"name":"Freeform 29","bbox":[1302.33,50.51,5.19,5.19]}
+{"kind":"shape","id":"sh/vu5kbihc","slide":5,"name":"Freeform 31","bbox":[928.43,829.36,7.96,7.96]}
+{"kind":"shape","id":"sh/xwn2dszi","slide":5,"name":"Freeform 33","bbox":[763.42,435.7,7.05,7.05]}
+{"kind":"shape","id":"sh/ji5kf2ho","slide":5,"name":"Freeform 35","bbox":[1607.29,399.55,4.95,4.95]}
+{"kind":"shape","id":"sh/5kn2hszu","slide":5,"name":"Freeform 37","bbox":[420.06,90.9,4.18,4.18]}
+{"kind":"shape","id":"sh/zmlk3yhk","slide":5,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/fid07u98","slide":5,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/ehkzepsn","slide":5,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/1kvi94re","slide":5,"name":"TextBox 42","text":"05 / 13 — SETUP","textPreview":"05 / 13 — SETUP","textChars":15,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/3md0bu94","slide":5,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/2l4zip8j","slide":5,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/povid4ra","slide":5,"name":"TextBox 46","text":"▍ PHASE 0 · 04","textPreview":"▍ PHASE 0 · 04","textChars":14,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/onmhkzqp","slide":5,"name":"TextBox 47","text":"Establishing the digital basecamp.","textPreview":"Establishing the digital basecamp.","textChars":34,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"TextBox 48","text":"Four critical steps to prepare your environment for AFK Research agent installation.","textPreview":"Four critical steps to prepare your environment for AFK Research agent installation.","textChars":84,"textLines":1,"bbox":[100,253.76,1720,38.2]}
+{"kind":"shape","id":"sh/8f6hcj6t","slide":5,"name":"Freeform 50","bbox":[100,341.96,420,380]}
+{"kind":"shape","id":"sh/9gfy5o7e","slide":5,"name":"TextBox 51","bbox":[100,338.96,420,383]}
+{"kind":"shape","id":"sh/nexg3epo","slide":5,"name":"Freeform 53","bbox":[100,341.96,6,380]}
+{"kind":"shape","id":"sh/0r6h8z6x","slide":5,"name":"TextBox 54","bbox":[100,338.96,6,383]}
+{"kind":"textbox","id":"sh/lcfy147i","slide":5,"name":"TextBox 55","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[130,365.96,360,54]}
+{"kind":"textbox","id":"sh/yp4z69or","slide":5,"name":"TextBox 56","text":"System Check","textPreview":"System Check","textChars":12,"textLines":1,"bbox":[130,450.96,360,41]}
+{"kind":"textbox","id":"sh/zqxgzupc","slide":5,"name":"TextBox 57","text":"Node.js 18.18+  ·  Git installed","textPreview":"Node.js 18.18+  ·  Git installed","textChars":32,"textLines":1,"bbox":[130,536.96,360,29]}
+{"kind":"shape","id":"sh/dovyx476","slide":5,"name":"Freeform 59","bbox":[130,641.96,44,44]}
+{"kind":"textbox","id":"sh/t8n6lwvy","slide":5,"name":"TextBox 60","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[130,642.96,44,35.8]}
+{"kind":"shape","id":"sh/r6lojmds","slide":5,"name":"Freeform 62","bbox":[540,341.96,420,380]}
+{"kind":"shape","id":"sh/65cnahc7","slide":5,"name":"TextBox 63","bbox":[540,338.96,420,383]}
+{"kind":"shape","id":"sh/43u587uh","slide":5,"name":"Freeform 65","bbox":[540,341.96,6,380]}
+{"kind":"shape","id":"sh/j2lofmdw","slide":5,"name":"TextBox 66","bbox":[540,338.96,6,383]}
+{"kind":"textbox","id":"sh/i1cn6hcb","slide":5,"name":"TextBox 67","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[570,365.96,360,54]}
+{"kind":"textbox","id":"sh/p076tgv6","slide":5,"name":"TextBox 68","text":"Authentication","textPreview":"Authentication","textChars":14,"textLines":1,"bbox":[570,450.96,360,41]}
+{"kind":"textbox","id":"sh/ozepkbul","slide":5,"name":"TextBox 69","text":"gh auth login  //  GitHub CLI","textPreview":"gh auth login  //  GitHub CLI","textChars":29,"textLines":1,"bbox":[570,536.96,360,29]}
+{"kind":"shape","id":"sh/76hk7ito","slide":5,"name":"Freeform 71","bbox":[570,641.96,44,44]}
+{"kind":"textbox","id":"sh/87qlgna9","slide":5,"name":"TextBox 72","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[570,642.96,44,35.8]}
+{"kind":"shape","id":"sh/yho3atsr","slide":5,"name":"Freeform 74","bbox":[980,341.96,420,380]}
+{"kind":"shape","id":"sh/zihk3ytc","slide":5,"name":"TextBox 75","bbox":[980,338.96,420,383]}
+{"kind":"shape","id":"sh/lkz258bi","slide":5,"name":"Freeform 77","bbox":[980,341.96,6,380]}
+{"kind":"shape","id":"sh/ids3mxsb","slide":5,"name":"TextBox 78","bbox":[980,338.96,6,383]}
+{"kind":"textbox","id":"sh/je14f2tw","slide":5,"name":"TextBox 79","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1010,365.96,360,54]}
+{"kind":"textbox","id":"sh/ruxkz2l0","slide":5,"name":"TextBox 80","text":"Worktree Init","textPreview":"Worktree Init","textChars":13,"textLines":1,"bbox":[1010,450.96,360,41]}
+{"kind":"textbox","id":"sh/qto36xkf","slide":5,"name":"TextBox 81","text":"git worktree linked to remote repo","textPreview":"git worktree linked to remote repo","textChars":34,"textLines":1,"bbox":[1010,536.96,360,29]}
+{"kind":"shape","id":"sh/sv6l8n2l","slide":5,"name":"Freeform 83","bbox":[1010,641.96,44,44]}
+{"kind":"textbox","id":"sh/3qxkvilo","slide":5,"name":"TextBox 84","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[1010,642.96,44,35.8]}
+{"kind":"shape","id":"sh/5sf2xs3u","slide":5,"name":"Freeform 86","bbox":[1420,341.96,420,380]}
+{"kind":"shape","id":"sh/4r6l4n29","slide":5,"name":"TextBox 87","bbox":[1420,338.96,420,383]}
+{"kind":"shape","id":"sh/u14jydk7","slide":5,"name":"Freeform 89","bbox":[1420,341.96,6,380]}
+{"kind":"shape","id":"sh/0vi9cfet","slide":5,"name":"TextBox 90","bbox":[1420,338.96,6,383]}
+{"kind":"textbox","id":"sh/lwrqlkfe","slide":5,"name":"TextBox 91","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1450,365.96,360,54]}
+{"kind":"textbox","id":"sh/yt0ra5wn","slide":5,"name":"TextBox 92","text":"Baseline Commit","textPreview":"Baseline Commit","textChars":15,"textLines":1,"bbox":[1450,450.96,360,41]}
+{"kind":"textbox","id":"sh/zu98jax8","slide":5,"name":"TextBox 93","text":"Initial commit before AI edits","textPreview":"Initial commit before AI edits","textChars":30,"textLines":1,"bbox":[1450,536.96,360,29]}
+{"kind":"shape","id":"sh/9kbqpkfa","slide":5,"name":"Freeform 95","bbox":[1450,641.96,44,44]}
+{"kind":"textbox","id":"sh/mx0repwz","slide":5,"name":"TextBox 96","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[1450,642.96,44,35.8]}
+{"kind":"textbox","id":"sh/ny98nuxk","slide":5,"name":"TextBox 97","text":"▍ Note: perform installation on a secure, stable network to prevent partial installs.","textPreview":"▍ Note: perform installation on a secure, stable network to prevent partial installs.","textChars":85,"textLines":1,"bbox":[100,736.96,1720,30.6]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":18}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"Freeform 3","bbox":[1854,528.6,7.3,7.3]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"Freeform 5","bbox":[383.8,490.78,9.09,9.09]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Freeform 7","bbox":[1255.83,840.46,5.86,5.86]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"Freeform 9","bbox":[1430.07,947.64,6.11,6.11]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"Freeform 11","bbox":[1706.54,182.32,6.36,6.36]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"Freeform 13","bbox":[965.23,74.5,9.09,9.09]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"name":"Freeform 15","bbox":[6.15,1074.19,4.8,4.8]}
+{"kind":"shape","id":"sh/i54bylor","slide":6,"name":"Freeform 17","bbox":[1549.28,391.37,8.01,8.01]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"Freeform 19","bbox":[634.64,636.05,9.19,9.19]}
+{"kind":"shape","id":"sh/dcnm98zm","slide":6,"name":"Freeform 21","bbox":[1902.22,98.23,4.87,4.87]}
+{"kind":"shape","id":"sh/bq547yhw","slide":6,"name":"Freeform 23","bbox":[392.02,307.91,9.53,9.53]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"Freeform 25","bbox":[744.05,635.09,7.67,7.67]}
+{"kind":"shape","id":"sh/zep4byhs","slide":6,"name":"Freeform 27","bbox":[1838.3,449.77,7.81,7.81]}
+{"kind":"shape","id":"sh/1k3mhozu","slide":6,"name":"Freeform 29","bbox":[634.77,201.95,6.43,6.43]}
+{"kind":"shape","id":"sh/idk7ehkr","slide":6,"name":"Freeform 31","bbox":[1773.46,341.63,6.03,6.03]}
+{"kind":"shape","id":"sh/4f2pgr2h","slide":6,"name":"Freeform 33","bbox":[294.37,238.81,9.12,9.12]}
+{"kind":"shape","id":"sh/u907axkf","slide":6,"name":"Freeform 35","bbox":[837.51,343.49,6.2,6.2]}
+{"kind":"shape","id":"sh/wbipc72l","slide":6,"name":"Freeform 37","bbox":[362.86,25.67,5.76,5.76]}
+{"kind":"shape","id":"sh/m5076xkj","slide":6,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/2dkbalg3","slide":6,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/netcjqxo","slide":6,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/of2tcvy9","slide":6,"name":"TextBox 42","text":"06 / 13 — IDENTITY","textPreview":"06 / 13 — IDENTITY","textChars":18,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/ep0b6lg7","slide":6,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/fq9cfqxc","slide":6,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/0r2t8vyx","slide":6,"name":"TextBox 46","text":"▍ REPO · 05","textPreview":"▍ REPO · 05","textChars":11,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/1sbuh0fi","slide":6,"name":"TextBox 47","text":"Your academic identity,\nhosted on GitHub.","textPreview":"Your academic identity, | hosted on GitHub.","textChars":41,"textLines":2,"bbox":[100,144.6,1720,149.16]}
+{"kind":"textbox","id":"sh/ql0b21gv","slide":6,"name":"TextBox 48","text":"One repository houses the private AI agent and powers your public academic portfolio.","textPreview":"One repository houses the private AI agent and powers your public academic portfolio.","textChars":85,"textLines":1,"bbox":[100,346.76,1720,38.2]}
+{"kind":"shape","id":"sh/9gfeh4zy","slide":6,"name":"Freeform 50","bbox":[100,434.96,720,460]}
+{"kind":"shape","id":"sh/8f6x8jid","slide":6,"name":"TextBox 51","bbox":[100,431.96,720,463]}
+{"kind":"textbox","id":"sh/7exwfehs","slide":6,"name":"TextBox 52","text":"▍ PRIVATE  ·  /repo","textPreview":"▍ PRIVATE  ·  /repo","textChars":19,"textLines":1,"bbox":[130,454.96,300,59.6]}
+{"kind":"textbox","id":"sh/mdof6907","slide":6,"name":"TextBox 53","text":"▸  .brain/","textPreview":"▸  .brain/","textChars":10,"textLines":1,"bbox":[160,520.96,620,34.8]}
+{"kind":"textbox","id":"sh/lcfed4z2","slide":6,"name":"TextBox 54","text":"▸  .schedule/","textPreview":"▸  .schedule/","textChars":13,"textLines":1,"bbox":[160,575.96,620,34.8]}
+{"kind":"textbox","id":"sh/kb6d4zih","slide":6,"name":"TextBox 55","text":"▸  .design/","textPreview":"▸  .design/","textChars":11,"textLines":1,"bbox":[160,630.96,620,34.8]}
+{"kind":"textbox","id":"sh/zaxwbuhw","slide":6,"name":"TextBox 56","text":"▸  raw_data/","textPreview":"▸  raw_data/","textChars":12,"textLines":1,"bbox":[160,685.96,620,34.8]}
+{"kind":"textbox","id":"sh/y94v2p0b","slide":6,"name":"TextBox 57","text":"▸  src/","textPreview":"▸  src/","textChars":7,"textLines":1,"bbox":[160,740.96,620,34.8]}
+{"kind":"textbox","id":"sh/x8ve9kzq","slide":6,"name":"TextBox 58","text":"▸  agent_config/","textPreview":"▸  agent_config/","textChars":16,"textLines":1,"bbox":[160,795.96,620,34.8]}
+{"kind":"shape","id":"sh/c7md0zi5","slide":6,"name":"AutoShape 59","bbox":[850,644.96,210,0]}
+{"kind":"shape","id":"sh/p4j6loby","slide":6,"name":"Freeform 61","bbox":[1052,628.96,32,32]}
+{"kind":"textbox","id":"sh/21snatc7","slide":6,"name":"TextBox 62","text":"auto-publish","textPreview":"auto-publish","textChars":12,"textLines":1,"bbox":[840,582.96,260,23.4]}
+{"kind":"shape","id":"sh/0zq58ju1","slide":6,"name":"Freeform 64","bbox":[1120,434.96,700,460]}
+{"kind":"shape","id":"sh/10z6hobm","slide":6,"name":"TextBox 65","bbox":[1120,431.96,700,463]}
+{"kind":"textbox","id":"sh/ed8n69cb","slide":6,"name":"TextBox 66","text":"▍ PUBLIC  ·  github.io","textPreview":"▍ PUBLIC  ·  github.io","textChars":22,"textLines":1,"bbox":[1150,454.96,400,29.6]}
+{"kind":"shape","id":"sh/kvu5k3ul","slide":6,"name":"Freeform 68","bbox":[1150,504.96,640,40]}
+{"kind":"shape","id":"sh/lw36d8b6","slide":6,"name":"TextBox 69","bbox":[1150,501.96,640,43]}
+{"kind":"textbox","id":"sh/vq58j2d8","slide":6,"name":"TextBox 70","text":"lecturer.github.io/tri-dharma","textPreview":"lecturer.github.io/tri-dharma","textChars":29,"textLines":1,"bbox":[1170,508.96,600,28]}
+{"kind":"shape","id":"sh/hs7qlcve","slide":6,"name":"Freeform 72","bbox":[1150,574.96,640,80]}
+{"kind":"shape","id":"sh/gre9c7et","slide":6,"name":"TextBox 73","bbox":[1150,571.96,640,83]}
+{"kind":"shape","id":"sh/itgrehwz","slide":6,"name":"Freeform 75","bbox":[1166,594.96,8,40]}
+{"kind":"shape","id":"sh/5w7qpwva","slide":6,"name":"TextBox 76","bbox":[1166,591.96,8,43]}
+{"kind":"textbox","id":"sh/4vy9grep","slide":6,"name":"TextBox 77","text":"Research summaries","textPreview":"Research summaries","textChars":18,"textLines":1,"bbox":[1194,599.96,580,34]}
+{"kind":"shape","id":"sh/yxc72dwf","slide":6,"name":"Freeform 79","bbox":[1150,674.96,640,80]}
+{"kind":"shape","id":"sh/m9szm1kf","slide":6,"name":"TextBox 80","bbox":[1150,671.96,640,83]}
+{"kind":"shape","id":"sh/8bahobil","slide":6,"name":"Freeform 82","bbox":[1166,694.96,8,40]}
+{"kind":"shape","id":"sh/9cjyhgj6","slide":6,"name":"TextBox 83","bbox":[1166,691.96,8,43]}
+{"kind":"textbox","id":"sh/adszq10r","slide":6,"name":"TextBox 84","text":"Course syllabi","textPreview":"Course syllabi","textChars":14,"textLines":1,"bbox":[1194,699.96,580,34]}
+{"kind":"shape","id":"sh/wfahsbih","slide":6,"name":"Freeform 86","bbox":[1150,774.96,640,80]}
+{"kind":"shape","id":"sh/xg3ylgj2","slide":6,"name":"TextBox 87","bbox":[1150,771.96,640,83]}
+{"kind":"shape","id":"sh/rihg7m1s","slide":6,"name":"Freeform 89","bbox":[1166,794.96,8,40]}
+{"kind":"shape","id":"sh/tcn2dk3a","slide":6,"name":"TextBox 90","bbox":[1166,791.96,8,43]}
+{"kind":"textbox","id":"sh/sbe1kf2p","slide":6,"name":"TextBox 91","text":"Community posts","textPreview":"Community posts","textChars":15,"textLines":1,"bbox":[1194,799.96,580,34]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":18}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"Freeform 3","bbox":[776.07,739.21,5.81,5.81]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"Freeform 5","bbox":[1085.13,932.22,7.26,7.26]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"Freeform 7","bbox":[909.74,282.74,4.87,4.87]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"Freeform 9","bbox":[1049.92,320.75,7.13,7.13]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"Freeform 11","bbox":[385.65,416.26,4.55,4.55]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"Freeform 13","bbox":[1636.93,1019.28,5.62,5.62]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"Freeform 15","bbox":[1763.77,419.79,6.84,6.84]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"Freeform 17","bbox":[1566.16,147.81,4.71,4.71]}
+{"kind":"shape","id":"sh/eh4jil4r","slide":7,"name":"Freeform 19","bbox":[1844.12,653.32,7.74,7.74]}
+{"kind":"shape","id":"sh/jedkn654","slide":7,"name":"Freeform 21","bbox":[1477.62,226.33,6.41,6.41]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"Freeform 23","bbox":[1266.68,396.85,9.25,9.25]}
+{"kind":"shape","id":"sh/r2dkrq5g","slide":7,"name":"Freeform 25","bbox":[91.3,534.86,6.73,6.73]}
+{"kind":"shape","id":"sh/d4f2t0nm","slide":7,"name":"Freeform 27","bbox":[671.47,10.38,7.37,7.37]}
+{"kind":"shape","id":"sh/f6xkvq5c","slide":7,"name":"Freeform 29","bbox":[1887.2,353.39,7.66,7.66]}
+{"kind":"shape","id":"sh/ozq5szq9","slide":7,"name":"Freeform 31","bbox":[698.49,933.9,4.1,4.1]}
+{"kind":"shape","id":"sh/2x8nqp83","slide":7,"name":"Freeform 33","bbox":[1745.33,41.92,5.2,5.2]}
+{"kind":"shape","id":"sh/c3a5wzq5","slide":7,"name":"Freeform 35","bbox":[67.72,287.43,7.44,7.44]}
+{"kind":"shape","id":"sh/a18nup8z","slide":7,"name":"Freeform 37","bbox":[305.67,1040.44,7.34,7.34]}
+{"kind":"shape","id":"sh/kra50jqh","slide":7,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/wneps3ap","slide":7,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/honq18ru","slide":7,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/ulc7qdsj","slide":7,"name":"TextBox 42","text":"07 / 13 — RESEARCH","textPreview":"07 / 13 — RESEARCH","textChars":18,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/8jupo3ad","slide":7,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/9k3qx8ry","slide":7,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/mxc7mts7","slide":7,"name":"TextBox 46","text":"▍ PILLAR I · 06","textPreview":"▍ PILLAR I · 06","textChars":15,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/7yl8vy9s","slide":7,"name":"TextBox 47","text":"Deep research with a Second Brain.","textPreview":"Deep research with a Second Brain.","textChars":34,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/sfy907ah","slide":7,"name":"TextBox 48","text":"The .brain workspace stores raw academic data and produces peer-reviewed drafts and analyzed insights.","textPreview":"The .brain workspace stores raw academic data and produces peer-reviewed drafts and analyzed insights.","textChars":102,"textLines":1,"bbox":[100,253.76,1720,38.2]}
+{"kind":"shape","id":"sh/na9sz6tk","slide":7,"name":"Freeform 50","bbox":[130,381.96,460,380]}
+{"kind":"shape","id":"sh/290bq1cz","slide":7,"name":"TextBox 51","bbox":[130,378.96,460,383]}
+{"kind":"textbox","id":"sh/pcra1wba","slide":7,"name":"TextBox 52","text":"INPUTS","textPreview":"INPUTS","textChars":6,"textLines":1,"bbox":[160,407.96,400,34.8]}
+{"kind":"shape","id":"sh/betc36tg","slide":7,"name":"Freeform 54","bbox":[160,503.96,10,10]}
+{"kind":"textbox","id":"sh/adkbu1cv","slide":7,"name":"TextBox 55","text":"PDFs","textPreview":"PDFs","textChars":4,"textLines":1,"bbox":[190,485.96,370,34.8]}
+{"kind":"shape","id":"sh/cf2twbu1","slide":7,"name":"Freeform 57","bbox":[160,573.96,10,10]}
+{"kind":"textbox","id":"sh/ripsrmtc","slide":7,"name":"TextBox 58","text":"Datasets","textPreview":"Datasets","textChars":8,"textLines":1,"bbox":[190,555.96,370,34.8]}
+{"kind":"shape","id":"sh/uponm90b","slide":7,"name":"Freeform 60","bbox":[160,643.96,10,10]}
+{"kind":"textbox","id":"sh/vah4fehw","slide":7,"name":"TextBox 61","text":"Literature","textPreview":"Literature","textChars":10,"textLines":1,"bbox":[190,625.96,370,34.8]}
+{"kind":"shape","id":"sh/gbq5ojih","slide":7,"name":"AutoShape 62","bbox":[600,571.96,50,0]}
+{"kind":"shape","id":"sh/6loni90f","slide":7,"name":"Freeform 64","bbox":[648,559.96,24,24]}
+{"kind":"shape","id":"sh/8n65kzil","slide":7,"name":"Freeform 66","bbox":[680,381.96,460,380]}
+{"kind":"shape","id":"sh/tofmd4z6","slide":7,"name":"TextBox 67","bbox":[680,378.96,460,383]}
+{"kind":"textbox","id":"sh/yh4nep0j","slide":7,"name":"TextBox 68","text":".brain/","textPreview":".brain/","textChars":7,"textLines":1,"bbox":[710,407.96,400,34.8]}
+{"kind":"shape","id":"sh/1c3qdsj6","slide":7,"name":"Freeform 70","bbox":[710,503.96,10,10]}
+{"kind":"textbox","id":"sh/0bupkn21","slide":7,"name":"TextBox 71","text":"Second Brain","textPreview":"Second Brain","textChars":12,"textLines":1,"bbox":[740,485.96,370,34.8]}
+{"kind":"shape","id":"sh/e9c7ixkv","slide":7,"name":"Freeform 73","bbox":[710,573.96,10,10]}
+{"kind":"textbox","id":"sh/d8jq9sja","slide":7,"name":"TextBox 74","text":"Expertise-aligned","textPreview":"Expertise-aligned","textChars":17,"textLines":1,"bbox":[740,555.96,370,34.8]}
+{"kind":"shape","id":"sh/r6187i14","slide":7,"name":"Freeform 76","bbox":[710,643.96,10,10]}
+{"kind":"textbox","id":"sh/q5s7edkj","slide":7,"name":"TextBox 77","text":"Persistent memory","textPreview":"Persistent memory","textChars":17,"textLines":1,"bbox":[740,625.96,370,34.8]}
+{"kind":"shape","id":"sh/54jq58je","slide":7,"name":"AutoShape 78","bbox":[1150,571.96,50,0]}
+{"kind":"shape","id":"sh/gj2doje1","slide":7,"name":"Freeform 80","bbox":[1198,559.96,24,24]}
+{"kind":"shape","id":"sh/uhkvm9wv","slide":7,"name":"Freeform 82","bbox":[1230,381.96,460,380]}
+{"kind":"shape","id":"sh/fitcvedg","slide":7,"name":"TextBox 83","bbox":[1230,378.96,460,383]}
+{"kind":"textbox","id":"sh/4nmdsjux","slide":7,"name":"TextBox 84","text":"OUTPUTS","textPreview":"OUTPUTS","textChars":7,"textLines":1,"bbox":[1260,407.96,400,34.8]}
+{"kind":"shape","id":"sh/2l4vqtc7","slide":7,"name":"Freeform 86","bbox":[1260,503.96,10,10]}
+{"kind":"textbox","id":"sh/3mdczydc","slide":7,"name":"TextBox 87","text":"Drafts","textPreview":"Drafts","textChars":6,"textLines":1,"bbox":[1290,485.96,370,34.8]}
+{"kind":"shape","id":"sh/dcfe58vu","slide":7,"name":"Freeform 89","bbox":[1260,573.96,10,10]}
+{"kind":"textbox","id":"sh/n6hgv2xw","slide":7,"name":"TextBox 90","text":"Bundled skills","textPreview":"Bundled skills","textChars":14,"textLines":1,"bbox":[1290,555.96,370,34.8]}
+{"kind":"shape","id":"sh/98zyxcf2","slide":7,"name":"Freeform 92","bbox":[1260,643.96,10,10]}
+{"kind":"textbox","id":"sh/o7qx47eh","slide":7,"name":"TextBox 93","text":"Analyzed data","textPreview":"Analyzed data","textChars":13,"textLines":1,"bbox":[1290,625.96,370,34.8]}
+{"kind":"textbox","id":"sh/zixgr2xk","slide":7,"name":"TextBox 94","text":"▍ Autonomous milestone tracking via GitHub Issues  →  research pipeline stays visible and auditable.","textPreview":"▍ Autonomous milestone tracking via GitHub Issues  →  research pipeline stays visible and auditable.","textChars":100,"textLines":1,"bbox":[100,786.96,1720,30.6]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":15}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"Freeform 3","bbox":[1618.13,949.81,4.31,4.31]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"Freeform 5","bbox":[1786.45,293.66,5.44,5.44]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"Freeform 7","bbox":[563.66,805.01,9.89,9.89]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"Freeform 9","bbox":[669.76,773.86,8.15,8.15]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"Freeform 11","bbox":[984.75,650.2,8.74,8.74]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"Freeform 13","bbox":[388.63,884.05,8.14,8.14]}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"Freeform 15","bbox":[1601.39,845.4,8.87,8.87]}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"Freeform 17","bbox":[1583.05,984.25,7.41,7.41]}
+{"kind":"shape","id":"sh/lgbepgvm","slide":8,"name":"Freeform 19","bbox":[1133.59,670.59,6.28,6.28]}
+{"kind":"shape","id":"sh/svydgb65","slide":8,"name":"Freeform 21","bbox":[1053.02,354.44,7.96,7.96]}
+{"kind":"shape","id":"sh/6twve1oz","slide":8,"name":"Freeform 23","bbox":[221.34,485.79,8.96,8.96]}
+{"kind":"shape","id":"sh/kredcr6t","slide":8,"name":"Freeform 25","bbox":[1358.55,434.63,5.79,5.79]}
+{"kind":"shape","id":"sh/i5wva1o3","slide":8,"name":"Freeform 27","bbox":[1424.65,650.98,6.93,6.93]}
+{"kind":"shape","id":"sh/w3ed8r6x","slide":8,"name":"Freeform 29","bbox":[1219.64,504.83,8.89,8.89]}
+{"kind":"shape","id":"sh/na1sb2lg","slide":8,"name":"Freeform 31","bbox":[1543.51,446.18,8.17,8.17]}
+{"kind":"shape","id":"sh/9w3uds36","slide":8,"name":"Freeform 33","bbox":[1276.28,925.02,7.27,7.27]}
+{"kind":"shape","id":"sh/z61s7il4","slide":8,"name":"Freeform 35","bbox":[1217.93,231.37,8.69,8.69]}
+{"kind":"shape","id":"sh/l8ja9s3a","slide":8,"name":"Freeform 37","bbox":[248.48,975.22,8.93,8.93]}
+{"kind":"shape","id":"sh/b2hs3il8","slide":8,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/3u18fepo","slide":8,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/2ts769o3","slide":8,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/pwjqho7u","slide":8,"name":"TextBox 42","text":"08 / 13 — EDUCATION","textPreview":"08 / 13 — EDUCATION","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/fq1obeps","slide":8,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/up872987","slide":8,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/hsjqd47y","slide":8,"name":"TextBox 46","text":"▍ PILLAR II · 07","textPreview":"▍ PILLAR II · 07","textChars":16,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/grap4zqd","slide":8,"name":"TextBox 47","text":"Multi-modal educational materials.","textPreview":"Multi-modal educational materials.","textChars":34,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/72ho7upg","slide":8,"name":"TextBox 48","text":"Claude Code converts complex research into slides, scripts, and podcasts — from one source of truth.","textPreview":"Claude Code converts complex research into slides, scripts, and podcasts — from one source of truth.","textChars":100,"textLines":1,"bbox":[100,253.76,1720,38.2]}
+{"kind":"shape","id":"sh/cvmdsb2h","slide":8,"name":"Freeform 50","bbox":[100,351.96,560,460]}
+{"kind":"shape","id":"sh/xwvelwj2","slide":8,"name":"TextBox 51","bbox":[100,348.96,560,463]}
+{"kind":"shape","id":"sh/budwj61c","slide":8,"name":"Freeform 53","bbox":[164,425.96,72,72]}
+{"kind":"textbox","id":"sh/kjmdwbit","slide":8,"name":"TextBox 54","text":"PPT","textPreview":"PPT","textChars":3,"textLines":1,"bbox":[140,547.96,480,32.2]}
+{"kind":"textbox","id":"sh/lkvepgje","slide":8,"name":"TextBox 55","text":"Slide outlines","textPreview":"Slide outlines","textChars":14,"textLines":1,"bbox":[140,592.96,480,47]}
+{"kind":"textbox","id":"sh/yx4vu10n","slide":8,"name":"TextBox 56","text":"Visual slide outlines drawn directly from thesis points.","textPreview":"Visual slide outlines drawn directly from thesis points.","textChars":56,"textLines":1,"bbox":[140,665.96,480,65.4]}
+{"kind":"shape","id":"sh/0n2dkr2p","slide":8,"name":"Freeform 58","bbox":[690,351.96,560,460]}
+{"kind":"shape","id":"sh/1obudcju","slide":8,"name":"TextBox 59","bbox":[690,348.96,560,463]}
+{"kind":"shape","id":"sh/gjuto3ud","slide":8,"name":"Freeform 61","bbox":[754,431.96,72,60]}
+{"kind":"textbox","id":"sh/filsfyts","slide":8,"name":"TextBox 62","text":"VIDEO","textPreview":"VIDEO","textChars":5,"textLines":1,"bbox":[730,547.96,480,32.2]}
+{"kind":"textbox","id":"sh/uhsbmtc7","slide":8,"name":"TextBox 63","text":"Timed scripts","textPreview":"Timed scripts","textChars":13,"textLines":1,"bbox":[730,592.96,480,47]}
+{"kind":"textbox","id":"sh/po3ulsbu","slide":8,"name":"TextBox 64","text":"Engaging, timed lecture scripts ready for teleprompter.","textPreview":"Engaging, timed lecture scripts ready for teleprompter.","textChars":55,"textLines":1,"bbox":[730,665.96,480,65.4]}
+{"kind":"shape","id":"sh/3mlcjit4","slide":8,"name":"Freeform 66","bbox":[1280,351.96,560,460]}
+{"kind":"shape","id":"sh/2lcbqdcj","slide":8,"name":"TextBox 67","bbox":[1280,348.96,560,463]}
+{"kind":"shape","id":"sh/cbetwnul","slide":8,"name":"Freeform 69","bbox":[1356,431.96,48,66]}
+{"kind":"textbox","id":"sh/axo7qps3","slide":8,"name":"TextBox 70","text":"PODCAST","textPreview":"PODCAST","textChars":7,"textLines":1,"bbox":[1320,547.96,480,32.2]}
+{"kind":"textbox","id":"sh/vyx8ju9o","slide":8,"name":"TextBox 71","text":"Q&A dialogue","textPreview":"Q&A dialogue","textChars":12,"textLines":1,"bbox":[1320,592.96,480,47]}
+{"kind":"textbox","id":"sh/wzq9szat","slide":8,"name":"TextBox 72","text":"Conversational Q&A formats for asynchronous learners.","textPreview":"Conversational Q&A formats for asynchronous learners.","textChars":53,"textLines":1,"bbox":[1320,665.96,480,65.4]}
+{"kind":"textbox","id":"sh/x0zql4re","slide":8,"name":"TextBox 73","text":"▍ Activate multi-modal generation with the  --claude  flag during installation.","textPreview":"▍ Activate multi-modal generation with the  --claude  flag during installation.","textChars":79,"textLines":1,"bbox":[100,826.96,1720,30.6]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Producing explainer video for STEMS with AI","textShapes":2}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"TextBox 3","text":"Producing explainer video for STEMS with AI","textPreview":"Producing explainer video for STEMS with AI","textChars":43,"textLines":1,"bbox":[547.21,23.55,825.58,53.27]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"TextBox 4","text":"08 / 13 — EDUCATION","textPreview":"08 / 13 — EDUCATION","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"image","id":"im/3qxkz2do","slide":9,"name":"Picture 2","bbox":[192,108,1536,864]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Archiv","textShapes":4}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Freeform 2","bbox":[19.9,373.3,928.11,544.1]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"Freeform 3","bbox":[967.64,375.11,912.38,542.3]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"TextBox 4","text":"Archiv","textPreview":"Archiv","textChars":6,"textLines":1,"bbox":[899.84,22.63,120.33,53.27]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"TextBox 5","text":"Students shows understanding \nby communicating with AI","textPreview":"Students shows understanding  | by communicating with AI","textChars":54,"textLines":2,"bbox":[132.69,223.33,586.39,107.27]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"TextBox 6","text":"Teachers can see analysis of a student understanding","textPreview":"Teachers can see analysis of a student understanding","textChars":52,"textLines":1,"bbox":[953.04,223.33,966.96,107.27]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"TextBox 7","text":"08 / 13 — EDUCATION","textPreview":"08 / 13 — EDUCATION","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Maintaining and creating a personal website","textShapes":3}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Freeform 2","bbox":[100.92,250.12,852.42,547.68]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Freeform 3","bbox":[1065.33,214.97,730.78,617.97]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"TextBox 4","text":"Maintaining and creating a personal website","textPreview":"Maintaining and creating a personal website","textChars":43,"textLines":1,"bbox":[121.11,144.83,812.03,53.27]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"TextBox 5","text":"AI is aware with the changes","textPreview":"AI is aware with the changes","textChars":28,"textLines":1,"bbox":[1181.3,144.83,526.38,53.27]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"TextBox 6","text":"08 / 13 — EDUCATION","textPreview":"08 / 13 — EDUCATION","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Even, the design is consistent","textShapes":3}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Freeform 2","bbox":[92.29,310.2,842.21,496.91]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"Freeform 3","bbox":[976.51,310.2,807.32,496.91]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"TextBox 4","text":"Even, the design is consistent","textPreview":"Even, the design is consistent","textChars":30,"textLines":1,"bbox":[221.67,227.03,554.27,53.27]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"TextBox 5","text":"Creating a material with rich deep content","textPreview":"Creating a material with rich deep content","textChars":42,"textLines":1,"bbox":[995.63,227.03,769.08,53.27]}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"TextBox 6","text":"08 / 13 — EDUCATION","textPreview":"08 / 13 — EDUCATION","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":15}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"Freeform 3","bbox":[540.2,80.42,8.82,8.82]}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"Freeform 5","bbox":[567.78,735.1,9.61,9.61]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"Freeform 7","bbox":[217.58,247.28,8.9,8.9]}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"Freeform 9","bbox":[289.6,146.96,9.17,9.17]}
+{"kind":"shape","id":"sh/gb6x0zm9","slide":13,"name":"Freeform 11","bbox":[1583.85,884.14,6.93,6.93]}
+{"kind":"shape","id":"sh/u9ofyp43","slide":13,"name":"Freeform 13","bbox":[1060.32,748.82,4.67,4.67]}
+{"kind":"shape","id":"sh/876xwfmx","slide":13,"name":"Freeform 15","bbox":[1439.01,191,4.9,4.9]}
+{"kind":"shape","id":"sh/6l4fu547","slide":13,"name":"Freeform 17","bbox":[1599.93,740.69,4.12,4.12]}
+{"kind":"shape","id":"sh/kjmxsfm1","slide":13,"name":"Freeform 19","bbox":[423.06,687.87,4.82,4.82]}
+{"kind":"shape","id":"sh/xozyhkbi","slide":13,"name":"Freeform 21","bbox":[628.42,482.55,9.51,9.51]}
+{"kind":"shape","id":"sh/bmhgfatc","slide":13,"name":"Freeform 23","bbox":[1096,574.73,8.68,8.68]}
+{"kind":"shape","id":"sh/p0zyd0b6","slide":13,"name":"Freeform 25","bbox":[705.8,334.41,4.84,4.84]}
+{"kind":"shape","id":"sh/3yxgbqdg","slide":13,"name":"Freeform 27","bbox":[257.83,211.59,6.49,6.49]}
+{"kind":"shape","id":"sh/9wjyp4bq","slide":13,"name":"Freeform 29","bbox":[552.07,656.27,4.12,4.12]}
+{"kind":"shape","id":"sh/ipcjmtw7","slide":13,"name":"Freeform 31","bbox":[468.54,1038.45,6.24,6.24]}
+{"kind":"shape","id":"sh/4re1o3ed","slide":13,"name":"Freeform 33","bbox":[807.23,728.13,9.34,9.34]}
+{"kind":"shape","id":"sh/6dwjqtw3","slide":13,"name":"Freeform 35","bbox":[448.15,175.31,9.93,9.93]}
+{"kind":"shape","id":"sh/sfe1s3e9","slide":13,"name":"Freeform 37","bbox":[191.28,909.99,4.51,4.51]}
+{"kind":"shape","id":"sh/mhsje9wz","slide":13,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/y1wju94v","slide":13,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/z25kne5g","slide":13,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/03e1wjm1","slide":13,"name":"TextBox 42","text":"09 / 13 — SCHEDULING","textPreview":"09 / 13 — SCHEDULING","textChars":20,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/m5gjyt4r","slide":13,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/n6pkrelc","slide":13,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/8ry10jmx","slide":13,"name":"TextBox 46","text":"▍ PILLAR II · 08","textPreview":"▍ PILLAR II · 08","textChars":16,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/9s72to3i","slide":13,"name":"TextBox 47","text":"Automated assessment\n& scheduling.","textPreview":"Automated assessment | & scheduling.","textChars":34,"textLines":2,"bbox":[100,144.6,1720,149.16]}
+{"kind":"textbox","id":"sh/atgj2t43","slide":13,"name":"TextBox 48","text":"The .schedule/ workspace automates semester rhythms and assessment workflows — freeing lecturers from repetitive admin.","textPreview":"The .schedule/ workspace automates semester rhythms and assessment workflows — freeing lecturers from repetitive admin.","textChars":119,"textLines":1,"bbox":[100,346.76,1000,77.2]}
+{"kind":"textbox","id":"sh/vupkvylo","slide":13,"name":"TextBox 49","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[100,459.96,80,40]}
+{"kind":"textbox","id":"sh/50behwr2","slide":13,"name":"TextBox 50","text":"Scheduled job prompts maintain syllabus and feedback timelines","textPreview":"Scheduled job prompts maintain syllabus and feedback timelines","textChars":62,"textLines":1,"bbox":[200,462.96,800,33]}
+{"kind":"textbox","id":"sh/4z2d8rah","slide":13,"name":"TextBox 51","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[100,539.96,80,40]}
+{"kind":"textbox","id":"sh/jytcfmtw","slide":13,"name":"TextBox 52","text":"Auto-grade and batch student submissions via start-schedule-runner","textPreview":"Auto-grade and batch student submissions via start-schedule-runner","textChars":66,"textLines":1,"bbox":[200,542.96,800,33]}
+{"kind":"textbox","id":"sh/ixkv6hsb","slide":13,"name":"TextBox 53","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[100,619.96,80,40]}
+{"kind":"textbox","id":"sh/t4velwry","slide":13,"name":"TextBox 54","text":"Opt-in with the  --schedule  flag during installation","textPreview":"Opt-in with the  --schedule  flag during installation","textChars":53,"textLines":1,"bbox":[200,622.96,800,33]}
+{"kind":"shape","id":"sh/r2dwjm98","slide":13,"name":"Freeform 56","bbox":[1180,283.76,520,520]}
+{"kind":"shape","id":"sh/1svepgra","slide":13,"name":"Freeform 58","bbox":[1210,313.76,460,460]}
+{"kind":"shape","id":"sh/g7mdgbap","slide":13,"name":"AutoShape 59","bbox":[1440,287.76,0,16]}
+{"kind":"shape","id":"sh/0buxcfil","slide":13,"name":"AutoShape 60","bbox":[1560,322.06,8,13.86]}
+{"kind":"shape","id":"sh/lc3ylkz6","slide":13,"name":"AutoShape 61","bbox":[1647.85,415.76,13.86,8]}
+{"kind":"shape","id":"sh/y9cfa50v","slide":13,"name":"AutoShape 62","bbox":[1680,543.76,16,0]}
+{"kind":"shape","id":"sh/zalgjahg","slide":13,"name":"AutoShape 63","bbox":[1647.85,663.76,13.86,8]}
+{"kind":"shape","id":"sh/8zexgzix","slide":13,"name":"AutoShape 64","bbox":[1560,751.61,8,13.86]}
+{"kind":"shape","id":"sh/90nypkzi","slide":13,"name":"AutoShape 65","bbox":[1440,783.76,0,16]}
+{"kind":"shape","id":"sh/mdwfep0r","slide":13,"name":"AutoShape 66","bbox":[1312,751.61,8,13.86]}
+{"kind":"shape","id":"sh/ne5gnuhc","slide":13,"name":"AutoShape 67","bbox":[1218.3,663.76,13.86,8]}
+{"kind":"shape","id":"sh/43ax4vit","slide":13,"name":"AutoShape 68","bbox":[1184,543.76,16,0]}
+{"kind":"shape","id":"sh/p4jed0zy","slide":13,"name":"AutoShape 69","bbox":[1218.3,415.76,13.86,8]}
+{"kind":"shape","id":"sh/7y90jy1w","slide":13,"name":"AutoShape 70","bbox":[1312,322.06,8,13.86]}
+{"kind":"shape","id":"sh/6x0jqtkb","slide":13,"name":"AutoShape 71","bbox":[1440,503.76,100,40]}
+{"kind":"shape","id":"sh/t0ril8jm","slide":13,"name":"AutoShape 72","bbox":[1420,383.76,20,160]}
+{"kind":"shape","id":"sh/jup0fy1k","slide":13,"name":"Freeform 74","bbox":[1428,531.76,24,24]}
+{"kind":"textbox","id":"sh/itgjmtkz","slide":13,"name":"TextBox 75","text":"SYLLABUS","textPreview":"SYLLABUS","textChars":8,"textLines":1,"bbox":[1216.17,266.49,160,23.4]}
+{"kind":"textbox","id":"sh/5wrihojq","slide":13,"name":"TextBox 76","text":"FEEDBACK","textPreview":"FEEDBACK","textChars":8,"textLines":1,"bbox":[1646.6,618.42,160,23.4]}
+{"kind":"textbox","id":"sh/kvy1o325","slide":13,"name":"TextBox 77","text":"GRADING","textPreview":"GRADING","textChars":7,"textLines":1,"bbox":[1073.4,618.42,160,23.4]}
+{"kind":"textbox","id":"sh/v6p0be1o","slide":13,"name":"TextBox 78","text":"BATCHES","textPreview":"BATCHES","textChars":7,"textLines":1,"bbox":[1096.73,385.93,160,23.4]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":8}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"name":"Freeform 3","bbox":[1382.26,291.03,7.32,7.32]}
+{"kind":"shape","id":"sh/idgvmx8r","slide":14,"name":"Freeform 5","bbox":[1269.1,96.54,7.79,7.79]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"Freeform 7","bbox":[1791.5,769.56,7.91,7.91]}
+{"kind":"shape","id":"sh/ehwvat8n","slide":14,"name":"Freeform 9","bbox":[1829.45,600.07,4.19,4.19]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":14,"name":"Freeform 11","bbox":[262.95,38.08,5.12,5.12]}
+{"kind":"shape","id":"sh/b2507exs","slide":14,"name":"Freeform 13","bbox":[1732.02,613.6,7.2,7.2]}
+{"kind":"shape","id":"sh/ls7idofu","slide":14,"name":"Freeform 15","bbox":[1276.63,616.61,6.93,6.93]}
+{"kind":"shape","id":"sh/z650byxo","slide":14,"name":"Freeform 17","bbox":[1616.81,497.13,6.82,6.82]}
+{"kind":"shape","id":"sh/1w3i14fq","slide":14,"name":"Freeform 19","bbox":[1632.54,705.14,9.36,9.36]}
+{"kind":"shape","id":"sh/grmxwvqt","slide":14,"name":"Freeform 21","bbox":[203.82,610.65,5.05,5.05]}
+{"kind":"shape","id":"sh/up4fal83","slide":14,"name":"Freeform 23","bbox":[50.66,663.67,8.4,8.4]}
+{"kind":"shape","id":"sh/4vmh0vq5","slide":14,"name":"Freeform 25","bbox":[53.05,234.18,9.9,9.9]}
+{"kind":"shape","id":"sh/2t4fyl8z","slide":14,"name":"Freeform 27","bbox":[1011,852.19,6.05,6.05]}
+{"kind":"shape","id":"sh/cz6h4fq1","slide":14,"name":"Freeform 29","bbox":[1804.51,807.71,5.35,5.35]}
+{"kind":"shape","id":"sh/bup4rils","slide":14,"name":"Freeform 31","bbox":[1313.57,550.72,4.31,4.31]}
+{"kind":"shape","id":"sh/xw7mts3y","slide":14,"name":"Freeform 33","bbox":[338.19,531.24,5.42,5.42]}
+{"kind":"shape","id":"sh/jyp4fil4","slide":14,"name":"Freeform 35","bbox":[1598.36,119.25,5.18,5.18]}
+{"kind":"shape","id":"sh/lkrmhsju","slide":14,"name":"Freeform 37","bbox":[134.09,844.76,6.1,6.1]}
+{"kind":"shape","id":"sh/7m94j210","slide":14,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/fi5432t4","slide":14,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/uhw3axcj","slide":14,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/h4nm5sba","slide":14,"name":"TextBox 42","text":"10 / 13 — COMMUNITY","textPreview":"10 / 13 — COMMUNITY","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/365472tg","slide":14,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/25w3excv","slide":14,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/p87m9cb6","slide":14,"name":"TextBox 46","text":"▍ PILLAR III · 09","textPreview":"▍ PILLAR III · 09","textChars":17,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/47y5g7u1","slide":14,"name":"TextBox 47","text":"Empowering the community.","textPreview":"Empowering the community.","textChars":25,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/jal4vidw","slide":14,"name":"TextBox 48","text":"The .design/ workspace and Sandcastle UI agent simplify public education materials and community feedback loops.","textPreview":"The .design/ workspace and Sandcastle UI agent simplify public education materials and community feedback loops.","textChars":112,"textLines":1,"bbox":[100,253.76,1000,77.2]}
+{"kind":"shape","id":"sh/ofq1cja9","slide":14,"name":"Freeform 50","bbox":[100,370.96,6,90]}
+{"kind":"shape","id":"sh/9gji5oru","slide":14,"name":"TextBox 51","bbox":[100,367.96,6,93]}
+{"kind":"textbox","id":"sh/mt8ja9sj","slide":14,"name":"TextBox 52","text":"Translate research into accessible infographics and training materials.","textPreview":"Translate research into accessible infographics and training materials.","textChars":71,"textLines":1,"bbox":[140,375.96,800,33]}
+{"kind":"shape","id":"sh/0rq18zad","slide":14,"name":"Freeform 54","bbox":[100,500.96,6,90]}
+{"kind":"shape","id":"sh/1szi14by","slide":14,"name":"TextBox 55","bbox":[100,497.96,6,93]}
+{"kind":"textbox","id":"sh/ep8j6ps7","slide":14,"name":"TextBox 56","text":"Sandcastle browser agent automates community data collection and feedback.","textPreview":"Sandcastle browser agent automates community data collection and feedback.","textChars":74,"textLines":1,"bbox":[140,505.96,800,67]}
+{"kind":"shape","id":"sh/knu1k3ah","slide":14,"name":"Freeform 58","bbox":[100,630.96,6,90]}
+{"kind":"shape","id":"sh/5o32d8r2","slide":14,"name":"TextBox 59","bbox":[100,627.96,6,93]}
+{"kind":"textbox","id":"sh/t4zixoj6","slide":14,"name":"TextBox 60","text":"Opt-in via the  --sandcastle  flag during installation.","textPreview":"Opt-in via the  --sandcastle  flag during installation.","textChars":55,"textLines":1,"bbox":[140,635.96,800,33]}
+{"kind":"shape","id":"sh/s3q1oj2l","slide":14,"name":"Freeform 61","bbox":[1080,260.76,740,780]}
+{"kind":"shape","id":"sh/61ojmtkv","slide":14,"name":"Freeform 63","bbox":[1080,260.76,740,780]}
+{"kind":"shape","id":"sh/50fitoja","slide":14,"name":"TextBox 64","bbox":[1080,257.76,740,783]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":21}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"name":"Freeform 3","bbox":[304.33,501.63,5.82,5.82]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"name":"Freeform 5","bbox":[50.43,537.98,5.97,5.97]}
+{"kind":"shape","id":"sh/s7y5sv2x","slide":15,"name":"Freeform 7","bbox":[1445.42,211.83,6.93,6.93]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"Freeform 9","bbox":[1449.29,1053.18,5.21,5.21]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"name":"Freeform 11","bbox":[862.06,272.02,9.31,9.31]}
+{"kind":"shape","id":"sh/vqdsrqx4","slide":15,"name":"Freeform 13","bbox":[483.71,478.37,9.73,9.73]}
+{"kind":"shape","id":"sh/5wvax0f6","slide":15,"name":"Freeform 15","bbox":[1114.26,1042.22,8.97,8.97]}
+{"kind":"shape","id":"sh/judsvqxg","slide":15,"name":"Freeform 17","bbox":[1633.69,253.56,9.53,9.53]}
+{"kind":"shape","id":"sh/l0bqlgf2","slide":15,"name":"Freeform 19","bbox":[922.01,722.41,7.9,7.9]}
+{"kind":"shape","id":"sh/gjax03m9","slide":15,"name":"Freeform 21","bbox":[1699.22,738.76,6.6,6.6]}
+{"kind":"shape","id":"sh/ehsfyt43","slide":15,"name":"Freeform 23","bbox":[925.32,752.61,8.12,8.12]}
+{"kind":"shape","id":"sh/o7ah4nm5","slide":15,"name":"Freeform 25","bbox":[1320.3,133.95,8.95,8.95]}
+{"kind":"shape","id":"sh/25sf2d4z","slide":15,"name":"Freeform 27","bbox":[1764.18,412.8,5.61,5.61]}
+{"kind":"shape","id":"sh/cbuh8nmh","slide":15,"name":"Freeform 29","bbox":[1136.95,959.15,6.58,6.58]}
+{"kind":"shape","id":"sh/vixcvu14","slide":15,"name":"Freeform 31","bbox":[238.6,63,8.38,8.38]}
+{"kind":"shape","id":"sh/hkfexkja","slide":15,"name":"Freeform 33","bbox":[1789.14,334.34,7.49,7.49]}
+{"kind":"shape","id":"sh/jmxwzu1g","slide":15,"name":"Freeform 35","bbox":[828.58,63.19,6.43,6.43]}
+{"kind":"shape","id":"sh/5ofe14j6","slide":15,"name":"Freeform 37","bbox":[76.9,779.54,7.68,7.68]}
+{"kind":"shape","id":"sh/rqhw3e1c","slide":15,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/f6dcnetg","slide":15,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/e54ve9cv","slide":15,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/18vup4bm","slide":15,"name":"TextBox 42","text":"11 / 13 — MATRIX","textPreview":"11 / 13 — MATRIX","textChars":16,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/nadwrets","slide":15,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/294vi9c7","slide":15,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/pwfetobi","slide":15,"name":"TextBox 46","text":"▍ MATRIX · 10","textPreview":"▍ MATRIX · 10","textChars":13,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/ovmdkjud","slide":15,"name":"TextBox 47","text":"The Tri Dharma\ntransformation matrix.","textPreview":"The Tri Dharma | transformation matrix.","textChars":37,"textLines":2,"bbox":[100,144.6,1720,149.16]}
+{"kind":"textbox","id":"sh/3etcfut8","slide":15,"name":"TextBox 48","text":"One raw input is instantly multiplied into deliverables across three professional obligations.","textPreview":"One raw input is instantly multiplied into deliverables across three professional obligations.","textChars":94,"textLines":1,"bbox":[100,346.76,1720,38.2]}
+{"kind":"shape","id":"sh/87e10r6p","slide":15,"name":"Freeform 50","bbox":[100,434.96,560,460]}
+{"kind":"shape","id":"sh/987itwnu","slide":15,"name":"TextBox 51","bbox":[100,431.96,560,463]}
+{"kind":"shape","id":"sh/n650rm54","slide":15,"name":"Freeform 53","bbox":[100,434.96,560,100]}
+{"kind":"shape","id":"sh/03e1w76d","slide":15,"name":"TextBox 54","bbox":[100,431.96,560,103]}
+{"kind":"textbox","id":"sh/l4nipcny","slide":15,"name":"TextBox 55","text":"I","textPreview":"I","textChars":1,"textLines":1,"bbox":[130,455.96,100,47]}
+{"kind":"textbox","id":"sh/y1wjuho7","slide":15,"name":"TextBox 56","text":"RESEARCH","textPreview":"RESEARCH","textChars":8,"textLines":1,"bbox":[230,473.96,400,32]}
+{"kind":"textbox","id":"sh/z250nm5s","slide":15,"name":"TextBox 57","text":"Peer-reviewed drafts","textPreview":"Peer-reviewed drafts","textChars":20,"textLines":1,"bbox":[130,580.96,500,32.2]}
+{"kind":"shape","id":"sh/4zi18b6h","slide":15,"name":"AutoShape 58","bbox":[130,654.96,500,0]}
+{"kind":"textbox","id":"sh/50r21gn2","slide":15,"name":"TextBox 59","text":"GitHub automated tracking","textPreview":"GitHub automated tracking","textChars":25,"textLines":1,"bbox":[130,690.96,500,32.2]}
+{"kind":"shape","id":"sh/dgnilgf6","slide":15,"name":"AutoShape 60","bbox":[130,764.96,500,0]}
+{"kind":"textbox","id":"sh/sfe1sbe1","slide":15,"name":"TextBox 61","text":"Milestone-linked issues","textPreview":"Milestone-linked issues","textChars":23,"textLines":1,"bbox":[130,800.96,500,32.2]}
+{"kind":"shape","id":"sh/qtcjq1gv","slide":15,"name":"Freeform 63","bbox":[690,434.96,560,460]}
+{"kind":"shape","id":"sh/5s3ihwfa","slide":15,"name":"TextBox 64","bbox":[690,431.96,560,463]}
+{"kind":"shape","id":"sh/3ql0fmx4","slide":15,"name":"Freeform 66","bbox":[690,434.96,560,100]}
+{"kind":"shape","id":"sh/ipcjm1gj","slide":15,"name":"TextBox 67","bbox":[690,431.96,560,103]}
+{"kind":"textbox","id":"sh/ho3idwfy","slide":15,"name":"TextBox 68","text":"II","textPreview":"II","textChars":2,"textLines":1,"bbox":[720,455.96,100,47]}
+{"kind":"textbox","id":"sh/wnu1kryt","slide":15,"name":"TextBox 69","text":"EDUCATION","textPreview":"EDUCATION","textChars":9,"textLines":1,"bbox":[820,473.96,400,32]}
+{"kind":"textbox","id":"sh/mt8fuxwb","slide":15,"name":"TextBox 70","text":"15-slide PPT","textPreview":"15-slide PPT","textChars":12,"textLines":1,"bbox":[720,580.96,500,32.2]}
+{"kind":"shape","id":"sh/7uhgnidw","slide":15,"name":"AutoShape 71","bbox":[720,654.96,500,0]}
+{"kind":"textbox","id":"sh/8vaxwneh","slide":15,"name":"TextBox 72","text":"Interactive quiz","textPreview":"Interactive quiz","textChars":16,"textLines":1,"bbox":[720,690.96,500,32.2]}
+{"kind":"shape","id":"sh/9wjypsv2","slide":15,"name":"AutoShape 73","bbox":[720,764.96,500,0]}
+{"kind":"textbox","id":"sh/yp8fqdwf","slide":15,"name":"TextBox 74","text":"Automated grading batch","textPreview":"Automated grading batch","textChars":23,"textLines":1,"bbox":[720,800.96,500,32.2]}
+{"kind":"shape","id":"sh/krqxsnel","slide":15,"name":"Freeform 76","bbox":[1280,434.96,560,460]}
+{"kind":"shape","id":"sh/lszylsvq","slide":15,"name":"TextBox 77","bbox":[1280,431.96,560,463]}
+{"kind":"shape","id":"sh/b2xgfydo","slide":15,"name":"Freeform 79","bbox":[1280,434.96,560,100]}
+{"kind":"shape","id":"sh/fq183qtw","slide":15,"name":"TextBox 80","bbox":[1280,431.96,560,103]}
+{"kind":"textbox","id":"sh/epsrulsb","slide":15,"name":"TextBox 81","text":"III","textPreview":"III","textChars":3,"textLines":1,"bbox":[1310,455.96,100,47]}
+{"kind":"textbox","id":"sh/1sjq5gbm","slide":15,"name":"TextBox 82","text":"COMMUNITY","textPreview":"COMMUNITY","textChars":9,"textLines":1,"bbox":[1410,473.96,400,32]}
+{"kind":"textbox","id":"sh/0ra9wbah","slide":15,"name":"TextBox 83","text":"1-page infographic","textPreview":"1-page infographic","textChars":18,"textLines":1,"bbox":[1310,580.96,500,32.2]}
+{"kind":"shape","id":"sh/rmh8z6tk","slide":15,"name":"AutoShape 84","bbox":[1310,654.96,500,0]}
+{"kind":"textbox","id":"sh/ql8rq1sz","slide":15,"name":"TextBox 85","text":"Public website update","textPreview":"Public website update","textChars":21,"textLines":1,"bbox":[1310,690.96,500,32.2]}
+{"kind":"shape","id":"sh/dojq1gbq","slide":15,"name":"AutoShape 86","bbox":[1310,764.96,500,0]}
+{"kind":"textbox","id":"sh/snq9sba5","slide":15,"name":"TextBox 87","text":"Training kit generation","textPreview":"Training kit generation","textChars":23,"textLines":1,"bbox":[1310,800.96,500,32.2]}
+{"kind":"textbox","id":"sh/bilsbat4","slide":15,"name":"TextBox 88","text":"One raw input, instantly multiplied across your three professional obligations.","textPreview":"One raw input, instantly multiplied across your three professional obligations.","textChars":79,"textLines":1,"bbox":[100,923.96,1720,34]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":20}
+{"kind":"shape","id":"sh/9kby1g7m","slide":16,"name":"Freeform 3","bbox":[1222.95,535.02,9.1,9.1]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"Freeform 5","bbox":[1164.6,921.37,4.52,4.52]}
+{"kind":"shape","id":"sh/lwbyxwra","slide":16,"name":"Freeform 7","bbox":[195.14,585.22,4.76,4.76]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Freeform 9","bbox":[1034.58,1056.56,6.32,6.32]}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"Freeform 11","bbox":[642.9,625.41,5.7,5.7]}
+{"kind":"shape","id":"sh/gnax8v6t","slide":16,"name":"Freeform 13","bbox":[1740.11,821.76,5.39,5.39]}
+{"kind":"shape","id":"sh/2pcfa5oz","slide":16,"name":"Freeform 15","bbox":[1286.21,1015.61,7.91,7.91]}
+{"kind":"shape","id":"sh/oruhcf65","slide":16,"name":"Freeform 17","bbox":[81.19,576.95,9.75,9.75]}
+{"kind":"shape","id":"sh/atczepob","slide":16,"name":"Freeform 19","bbox":[845.07,1035.8,7.4,7.4]}
+{"kind":"shape","id":"sh/7qp0zepo","slide":16,"name":"Freeform 21","bbox":[537.84,682.15,9.38,9.38]}
+{"kind":"shape","id":"sh/9c7i1o7u","slide":16,"name":"Freeform 23","bbox":[1879.49,1046,6.17,6.17]}
+{"kind":"shape","id":"sh/zm50veps","slide":16,"name":"Freeform 25","bbox":[1830.03,417.34,6.29,6.29]}
+{"kind":"shape","id":"sh/lo7ixo7y","slide":16,"name":"Freeform 27","bbox":[1189.46,326.19,6.22,6.22]}
+{"kind":"shape","id":"sh/ji9k7ypw","slide":16,"name":"Freeform 29","bbox":[757.79,142.54,8.47,8.47]}
+{"kind":"shape","id":"sh/sb2l47at","slide":16,"name":"Freeform 31","bbox":[1335,316.38,9.55,9.55]}
+{"kind":"shape","id":"sh/69k32xsn","slide":16,"name":"Freeform 33","bbox":[1801.09,217.73,5.94,5.94]}
+{"kind":"shape","id":"sh/47il0nah","slide":16,"name":"Freeform 35","bbox":[1036.08,296.58,6.15,6.15]}
+{"kind":"shape","id":"sh/i503ydsr","slide":16,"name":"Freeform 37","bbox":[1759.96,1002.93,6.68,6.68]}
+{"kind":"shape","id":"sh/o3m5crq1","slide":16,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/wnadcrqh","slide":16,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/xoju5wr2","slide":16,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/alsbahsb","slide":16,"name":"TextBox 42","text":"12 / 13 — ONBOARDING","textPreview":"12 / 13 — ONBOARDING","textChars":20,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/kbudgrqt","slide":16,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/5c3u9wry","slide":16,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/i9sve18n","slide":16,"name":"TextBox 46","text":"▍ ONBOARDING · 11","textPreview":"▍ ONBOARDING · 11","textChars":17,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/ja1c7m98","slide":16,"name":"TextBox 47","text":"The agent onboarding journey.","textPreview":"The agent onboarding journey.","textChars":29,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"textbox","id":"sh/sfudkbqp","slide":16,"name":"TextBox 48","text":"Five critical steps to onboard the AFK Research AI agent — from configuration to verified install.","textPreview":"Five critical steps to onboard the AFK Research AI agent — from configuration to verified install.","textChars":98,"textLines":1,"bbox":[100,253.76,1720,38.2]}
+{"kind":"shape","id":"sh/tg3udgra","slide":16,"name":"AutoShape 49","bbox":[160,451.96,1600,0]}
+{"kind":"shape","id":"sh/29wfa5sr","slide":16,"name":"Freeform 51","bbox":[242,421.96,60,60]}
+{"kind":"textbox","id":"sh/pc7y5kbi","slide":16,"name":"TextBox 52","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[232,431.96,80,29.6]}
+{"kind":"shape","id":"sh/f65wzqtg","slide":16,"name":"Freeform 54","bbox":[120,521.96,304,300]}
+{"kind":"shape","id":"sh/u5wf6lcv","slide":16,"name":"TextBox 55","bbox":[120,518.96,304,303]}
+{"kind":"shape","id":"sh/g7ex8va1","slide":16,"name":"Freeform 57","bbox":[120,521.96,304,4]}
+{"kind":"shape","id":"sh/z29gbutk","slide":16,"name":"TextBox 58","bbox":[120,518.96,304,7]}
+{"kind":"textbox","id":"sh/y10fipsz","slide":16,"name":"TextBox 59","text":"Configure","textPreview":"Configure","textChars":9,"textLines":1,"bbox":[140,550.96,264,32]}
+{"kind":"textbox","id":"sh/axkjatc7","slide":16,"name":"TextBox 60","text":"target dir · issue tracker","textPreview":"target dir · issue tracker","textChars":26,"textLines":1,"bbox":[140,649.96,264,48.4]}
+{"kind":"shape","id":"sh/wz21c3ud","slide":16,"name":"Freeform 62","bbox":[586,421.96,60,60]}
+{"kind":"textbox","id":"sh/x0bi58vy","slide":16,"name":"TextBox 63","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[576,431.96,80,29.6]}
+{"kind":"shape","id":"sh/j2d07yd4","slide":16,"name":"Freeform 65","bbox":[464,521.96,304,300]}
+{"kind":"shape","id":"sh/k3m1g3u9","slide":16,"name":"TextBox 66","bbox":[464,518.96,304,303]}
+{"kind":"shape","id":"sh/y50z29cz","slide":16,"name":"Freeform 68","bbox":[464,521.96,304,4]}
+{"kind":"shape","id":"sh/z690vedk","slide":16,"name":"TextBox 69","bbox":[464,518.96,304,7]}
+{"kind":"textbox","id":"sh/hkzmhcf2","slide":16,"name":"TextBox 70","text":"Select workspaces","textPreview":"Select workspaces","textChars":17,"textLines":1,"bbox":[484,550.96,264,32]}
+{"kind":"textbox","id":"sh/gj6l87eh","slide":16,"name":"TextBox 71","text":"--claude --design --schedule --sandcastle","textPreview":"--claude --design --schedule --sandcastle","textChars":41,"textLines":1,"bbox":[484,649.96,264,48.4]}
+{"kind":"shape","id":"sh/uxo36xwr","slide":16,"name":"Freeform 73","bbox":[930,421.96,60,60]}
+{"kind":"textbox","id":"sh/pozm5cfe","slide":16,"name":"TextBox 74","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[920,431.96,80,29.6]}
+{"kind":"shape","id":"sh/3mh4jmx8","slide":16,"name":"Freeform 76","bbox":[808,521.96,304,300]}
+{"kind":"shape","id":"sh/2l83ahwn","slide":16,"name":"TextBox 77","bbox":[808,518.96,304,303]}
+{"kind":"shape","id":"sh/krml0nep","slide":16,"name":"Freeform 79","bbox":[808,521.96,304,4]}
+{"kind":"shape","id":"sh/wr2p0b65","slide":16,"name":"TextBox 80","bbox":[808,518.96,304,7]}
+{"kind":"textbox","id":"sh/xsbq9gnq","slide":16,"name":"TextBox 81","text":"Dry-run","textPreview":"Dry-run","textChars":7,"textLines":1,"bbox":[828,550.96,264,32]}
+{"kind":"textbox","id":"sh/apk7yloz","slide":16,"name":"TextBox 82","text":"review file actions & warnings","textPreview":"review file actions & warnings","textChars":30,"textLines":1,"bbox":[828,649.96,264,48.4]}
+{"kind":"shape","id":"sh/on2pwb69","slide":16,"name":"Freeform 84","bbox":[1274,421.96,60,60]}
+{"kind":"textbox","id":"sh/9obq5gne","slide":16,"name":"TextBox 85","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1264,431.96,80,29.6]}
+{"kind":"shape","id":"sh/nmt8365o","slide":16,"name":"Freeform 87","bbox":[1152,521.96,304,300]}
+{"kind":"shape","id":"sh/8jmp8v6d","slide":16,"name":"TextBox 88","bbox":[1152,518.96,304,303]}
+{"kind":"shape","id":"sh/3ehs7up0","slide":16,"name":"Freeform 90","bbox":[1152,521.96,304,4]}
+{"kind":"shape","id":"sh/id8byp8f","slide":16,"name":"TextBox 91","bbox":[1152,518.96,304,7]}
+{"kind":"textbox","id":"sh/5gza9476","slide":16,"name":"TextBox 92","text":"Real install","textPreview":"Real install","textChars":12,"textLines":1,"bbox":[1172,550.96,264,32]}
+{"kind":"textbox","id":"sh/4fqt0zql","slide":16,"name":"TextBox 93","text":"npx · non-interactive","textPreview":"npx · non-interactive","textChars":21,"textLines":1,"bbox":[1172,649.96,264,23.4]}
+{"kind":"shape","id":"sh/qh8b298r","slide":16,"name":"Freeform 95","bbox":[1618,421.96,60,60]}
+{"kind":"textbox","id":"sh/d4jado72","slide":16,"name":"TextBox 96","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1608,431.96,80,29.6]}
+{"kind":"shape","id":"sh/7mxszaps","slide":16,"name":"Freeform 98","bbox":[1496,521.96,304,300]}
+{"kind":"shape","id":"sh/6lorq587","slide":16,"name":"TextBox 99","bbox":[1496,518.96,304,303]}
+{"kind":"shape","id":"sh/29sje5wv","slide":16,"name":"Freeform 101","bbox":[1496,521.96,304,4]}
+{"kind":"shape","id":"sh/pwji90f6","slide":16,"name":"TextBox 102","bbox":[1496,518.96,304,7]}
+{"kind":"textbox","id":"sh/ova1gfe1","slide":16,"name":"TextBox 103","text":"Verify","textPreview":"Verify","textChars":6,"textLines":1,"bbox":[1516,550.96,264,32]}
+{"kind":"textbox","id":"sh/f6103qx4","slide":16,"name":"TextBox 104","text":"CLI success summary","textPreview":"CLI success summary","textChars":19,"textLines":1,"bbox":[1516,649.96,264,23.4]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"AFK · TRI DHARMA / AI AGENTS","textShapes":13}
+{"kind":"shape","id":"sh/gbedwfmx","slide":17,"name":"Freeform 3","bbox":[68.46,922.85,8.83,8.83]}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"Freeform 5","bbox":[1453.08,340.86,8.32,8.32]}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"name":"Freeform 7","bbox":[753.25,176.38,4.96,4.96]}
+{"kind":"shape","id":"sh/ihcvml4j","slide":17,"name":"Freeform 9","bbox":[688.98,879.39,7.25,7.25]}
+{"kind":"shape","id":"sh/pc7qhwn6","slide":17,"name":"Freeform 11","bbox":[140.26,739.9,5.69,5.69]}
+{"kind":"shape","id":"sh/3ap8fm50","slide":17,"name":"Freeform 13","bbox":[1827.1,207.92,8.78,8.78]}
+{"kind":"shape","id":"sh/honqdwnu","slide":17,"name":"Freeform 15","bbox":[789.5,813.43,7.03,7.03]}
+{"kind":"shape","id":"sh/fm58bm54","slide":17,"name":"Freeform 17","bbox":[1667.45,846.44,8.93,8.93]}
+{"kind":"shape","id":"sh/14rqpgne","slide":17,"name":"Freeform 19","bbox":[1420.95,756.96,4.99,4.99]}
+{"kind":"shape","id":"sh/8ze9gbyx","slide":17,"name":"Freeform 21","bbox":[850.02,994.97,9.69,9.69]}
+{"kind":"shape","id":"sh/mxw7e1gr","slide":17,"name":"Freeform 23","bbox":[754.63,930.49,7.55,7.55]}
+{"kind":"shape","id":"sh/0vepcbyl","slide":17,"name":"Freeform 25","bbox":[14.81,1013.5,7.07,7.07]}
+{"kind":"shape","id":"sh/ytc7a1gv","slide":17,"name":"Freeform 27","bbox":[1350.54,614.01,4.73,4.73]}
+{"kind":"shape","id":"sh/c7up8ryp","slide":17,"name":"Freeform 29","bbox":[1721.82,182.03,9.05,9.05]}
+{"kind":"shape","id":"sh/3e1ob2d8","slide":17,"name":"Freeform 31","bbox":[8.66,167.54,4.52,4.52]}
+{"kind":"shape","id":"sh/p0j6dcvy","slide":17,"name":"Freeform 33","bbox":[851.05,1020.56,5.64,5.64]}
+{"kind":"shape","id":"sh/fah47idw","slide":17,"name":"Freeform 35","bbox":[1209,1031.07,8.92,8.92]}
+{"kind":"shape","id":"sh/1cj69sv2","slide":17,"name":"Freeform 37","bbox":[1882.51,649.08,4.85,4.85]}
+{"kind":"shape","id":"sh/r6h43id0","slide":17,"name":"Freeform 39","bbox":[0,0,1920,6]}
+{"kind":"shape","id":"sh/jy1kfehg","slide":17,"name":"TextBox 40","bbox":[0,-3,1920,9]}
+{"kind":"textbox","id":"sh/ixsj690v","slide":17,"name":"TextBox 41","text":"AFK · TRI DHARMA / AI AGENTS","textPreview":"AFK · TRI DHARMA / AI AGENTS","textChars":28,"textLines":1,"bbox":[100,38,600,23.4]}
+{"kind":"textbox","id":"sh/50j2hozm","slide":17,"name":"TextBox 42","text":"13 / 13 — ECOSYSTEM","textPreview":"13 / 13 — ECOSYSTEM","textChars":19,"textLines":1,"bbox":[1220,38,600,23.4]}
+{"kind":"shape","id":"sh/vuhkbehk","slide":17,"name":"Freeform 44","bbox":[100,1078,1720,1]}
+{"kind":"shape","id":"sh/at8j290z","slide":17,"name":"TextBox 45","bbox":[100,1075,1720,4]}
+{"kind":"textbox","id":"sh/xwz2dozq","slide":17,"name":"TextBox 46","text":"▍ CLOSING · 12","textPreview":"▍ CLOSING · 12","textChars":14,"textLines":1,"bbox":[100,86,1500,29.6]}
+{"kind":"textbox","id":"sh/wvq14ji5","slide":17,"name":"TextBox 47","text":"The unified academic ecosystem.","textPreview":"The unified academic ecosystem.","textChars":31,"textLines":1,"bbox":[100,144.6,1720,76.16]}
+{"kind":"shape","id":"sh/m5ojyp03","slide":17,"name":"Freeform 49","bbox":[990,220.76,680,680]}
+{"kind":"shape","id":"sh/dcvyh0f6","slide":17,"name":"Freeform 51","bbox":[1090,320.76,480,480]}
+{"kind":"shape","id":"sh/radgfqx0","slide":17,"name":"Freeform 53","bbox":[1200,430.76,260,260]}
+{"kind":"textbox","id":"sh/0z6hcfyx","slide":17,"name":"TextBox 54","text":"LECTURER","textPreview":"LECTURER","textChars":8,"textLines":1,"bbox":[1130,519.76,400,41]}
+{"kind":"textbox","id":"sh/l0fylkfi","slide":17,"name":"TextBox 55","text":"core expertise","textPreview":"core expertise","textChars":14,"textLines":1,"bbox":[1130,559.76,400,21.8]}
+{"kind":"textbox","id":"sh/ex4za5gr","slide":17,"name":"TextBox 56","text":"AFK AGENT ENGINE","textPreview":"AFK AGENT ENGINE","textChars":16,"textLines":1,"bbox":[1130,338.76,400,28]}
+{"kind":"textbox","id":"sh/zyxgjaxc","slide":17,"name":"TextBox 57","text":"GITHUB HOSTING ENVIRONMENT","textPreview":"GITHUB HOSTING ENVIRONMENT","textChars":26,"textLines":1,"bbox":[1070,238.76,520,28]}
+{"kind":"shape","id":"sh/h4by9gfy","slide":17,"name":"Freeform 59","bbox":[1127.7,157.73,180,60]}
+{"kind":"shape","id":"sh/xoj6h83q","slide":17,"name":"TextBox 60","bbox":[1127.7,154.73,180,63]}
+{"kind":"textbox","id":"sh/wna5o3m5","slide":17,"name":"TextBox 61","text":"I·RESEARCH","textPreview":"I·RESEARCH","textChars":10,"textLines":1,"bbox":[1127.7,173.73,180,23.4]}
+{"kind":"shape","id":"sh/alsnmd4z","slide":17,"name":"Freeform 63","bbox":[1277.94,898.86,180,60]}
+{"kind":"shape","id":"sh/5s36ls3m","slide":17,"name":"TextBox 64","bbox":[1277.94,895.86,180,63]}
+{"kind":"textbox","id":"sh/kru5snm1","slide":17,"name":"TextBox 65","text":"II·EDUCATION","textPreview":"II·EDUCATION","textChars":12,"textLines":1,"bbox":[1277.94,914.86,180,23.4]}
+{"kind":"shape","id":"sh/ipcnqd4b","slide":17,"name":"Freeform 67","bbox":[890,372.78,180,60]}
+{"kind":"shape","id":"sh/tg36ps3y","slide":17,"name":"TextBox 68","bbox":[890,369.78,180,63]}
+{"kind":"textbox","id":"sh/sfu5wnmd","slide":17,"name":"TextBox 69","text":"III·COMMUNITY","textPreview":"III·COMMUNITY","textChars":13,"textLines":1,"bbox":[890,388.78,180,23.4]}
+{"kind":"textbox","id":"sh/q1o3apkv","slide":17,"name":"TextBox 70","text":"The lecturer sits at the centre — supported by the AFK Agent engine and GitHub, continuously producing polished Tri Dharma outputs.","textPreview":"The lecturer sits at the centre — supported by the AFK Agent engine and GitHub, continuously producing polished Tri Dharma outputs.","textChars":131,"textLines":1,"bbox":[100,254.76,800,110.5]}
+{"kind":"shape","id":"sh/c36lcz2l","slide":17,"name":"Freeform 72","bbox":[100,425.26,6,260]}
+{"kind":"shape","id":"sh/d4f2l4j6","slide":17,"name":"TextBox 73","bbox":[100,422.26,6,263]}
+{"kind":"textbox","id":"sh/ypo3e9kr","slide":17,"name":"TextBox 74","text":"The modern lecturer is no longer bogged down by administrative friction. By embedding an AFK Research AI agent into a GitHub foundation, the Tri Dharma becomes a continuous, interconnected, and highly polished output of your core expertise.","textPreview":"The modern lecturer is no longer bogged down by administrative friction. By embedding an AFK Research AI agent into a GitHub foundation, ...","textChars":240,"textLines":1,"bbox":[140,418.26,720,135.3]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":""}

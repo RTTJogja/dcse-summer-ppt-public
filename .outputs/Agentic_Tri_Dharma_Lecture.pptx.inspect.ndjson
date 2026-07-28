@@ -1,0 +1,1125 @@
+{"kind":"deck","id":"pr/9hu2kr","name":"Deck"}
+{"kind":"layout","layoutId":"08246b69-4d6a-49c3-84ca-06f9caa1cc80","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"9c9666d3-cd89-4267-8e57-83affe24bb31","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/givy9j","slide":1,"title":"EMPOWERING THE TRI DHARMA","textShapes":4}
+{"kind":"shape","id":"sh/8bu5sz69","slide":1,"bbox":[0,0,96,720]}
+{"kind":"shape","id":"sh/7a1oju5o","slide":1,"bbox":[1030,0,210,720]}
+{"kind":"shape","id":"sh/69snqpo3","slide":1,"bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/l8j6hkni","slide":1,"text":"EMPOWERING THE TRI DHARMA","textPreview":"EMPOWERING THE TRI DHARMA","textChars":25,"textLines":1,"bbox":[150,128,800,190]}
+{"kind":"shape","id":"sh/k7a5of6x","slide":1,"bbox":[154,350,210,6]}
+{"kind":"textbox","id":"sh/j61ofa5c","slide":1,"text":"AI agents—from foundations and theory to a governed academic workspace","textPreview":"AI agents—from foundations and theory to a governed academic workspace","textChars":70,"textLines":1,"bbox":[154,390,730,110]}
+{"kind":"textbox","id":"sh/y5snm5or","slide":1,"text":"DCSE Summer Lecture · 2026","textPreview":"DCSE Summer Lecture · 2026","textChars":26,"textLines":1,"bbox":[154,610,620,34]}
+{"kind":"textbox","id":"sh/x4j6d0nm","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"notes","id":"nt/givy9j","slide":1,"text":"Open by positioning the lecture as a bridge from foundations to implementation. The central claim is that useful academic agents are governed systems, not merely smarter chat interfaces.\n\n[Sources]\n- https://peraturan.bpk.go.id/Details/%2039063/uu-no-12-tahun-2012\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md"}
+{"kind":"slide","id":"sl/4y5w2x","slide":2,"title":"02","textShapes":9}
+{"kind":"shape","id":"sh/pcr69cjq","slide":2,"name":"metadata-rail-2","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/2p0nex0f","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/3q9o7210","slide":2,"text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/gni5cn29","slide":2,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/hor65sju","slide":2,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/ulgnaxk3","slide":2,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/fmpo3i1o","slide":2,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/0j2porid","slide":2,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/lkb6hwjy","slide":2,"name":"anchor-block-2","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/tcjmpgvu","slide":2,"name":"slide-title","text":"Three outcomes for this lecture","textPreview":"Three outcomes for this lecture","textChars":31,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/8ralwbup","slide":2,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/7q14n6d4","slide":2,"text":"EXPLAIN","textPreview":"EXPLAIN","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/6ps3u1cj","slide":2,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/lojmlgvy","slide":2,"text":"Distinguish a language model, an assistant, and an agentic system.","textPreview":"Distinguish a language model, an assistant, and an agentic system.","textChars":66,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/knalsbud","slide":2,"text":"DESIGN","textPreview":"DESIGN","textChars":6,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/jmh4j6ds","slide":2,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/yl83q1c7","slide":2,"text":"Connect planning, tools, memory, evidence, and human review.","textPreview":"Connect planning, tools, memory, evidence, and human review.","textChars":60,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/5k3mx0b2","slide":2,"text":"IMPLEMENT","textPreview":"IMPLEMENT","textChars":9,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/4ju54vuh","slide":2,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/on250z2t","slide":2,"text":"Prototype a repository-based workflow across Tri Dharma.","textPreview":"Prototype a repository-based workflow across Tri Dharma.","textChars":56,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/4y5w2x","slide":2,"text":"Set expectations: this is not a product pitch. It is a conceptual and practical lecture that ends with a concrete implementation model.\n\n[Sources]\n- Original lecture synthesis; no external claim on this slide."}
+{"kind":"slide","id":"sl/i3gohj","slide":3,"title":"03","textShapes":9}
+{"kind":"shape","id":"sh/u1kvihw7","slide":3,"name":"metadata-rail-3","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/hobedcfy","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/w32dk7ed","slide":3,"text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/jqtwfmxo","slide":3,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/ipkvmhw3","slide":3,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/5svehwfu","slide":3,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/4rmdore9","slide":3,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/zu9c3ixk","slide":3,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/yt0vaxwz","slide":3,"name":"anchor-block-3","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/srex87ah","slide":3,"name":"slide-title","text":"Tri Dharma is one connected mandate","textPreview":"Tri Dharma is one connected mandate","textChars":35,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/dsnehcb2","slide":3,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/qpwf6xsb","slide":3,"text":"RESEARCH","textPreview":"RESEARCH","textChars":8,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/rq5wf2tw","slide":3,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/0fyxc7ad","slide":3,"text":"Produce, validate, preserve, and communicate knowledge.","textPreview":"Produce, validate, preserve, and communicate knowledge.","textChars":55,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/1g7ylcby","slide":3,"text":"EDUCATION","textPreview":"EDUCATION","textChars":9,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/edgfaxsn","slide":3,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/fepgj2t8","slide":3,"text":"Design learning, assessment, feedback, and scholarly teaching.","textPreview":"Design learning, assessment, feedback, and scholarly teaching.","textChars":62,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/gjux0na9","slide":3,"text":"COMMUNITY SERVICE","textPreview":"COMMUNITY SERVICE","textChars":17,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/hk3e9sbu","slide":3,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/x4vmhkzm","slide":3,"text":"Translate expertise into public value with local accountability.","textPreview":"Translate expertise into public value with local accountability.","textChars":64,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/i3gohj","slide":3,"text":"Use the legal and institutional frame only to establish the three obligations. The rest of the lecture asks how one academic workspace can support them without collapsing their distinct responsibilities.\n\n[Sources]\n- https://peraturan.bpk.go.id/Details/%2039063/uu-no-12-tahun-2012\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md"}
+{"kind":"slide","id":"sl/bgbe01","slide":4,"title":"04","textShapes":5}
+{"kind":"shape","id":"sh/lon6poze","slide":4,"name":"metadata-rail-4","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/y1cnu9g3","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/zm5oneho","slide":4,"text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/8re503y5","slide":4,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/9sn6tozq","slide":4,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/mpwnytgz","slide":4,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/7q5oryhk","slide":4,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/wvyp43y1","slide":4,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/hw76x8zm","slide":4,"name":"anchor-block-4","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/xor2xw3u","slide":4,"text":"The constraint is not ideas.","textPreview":"The constraint is not ideas.","textChars":28,"textLines":1,"bbox":[96,130,1040,86]}
+{"kind":"textbox","id":"sh/wnil4rm9","slide":4,"text":"It is continuity across dozens of small academic workflows.","textPreview":"It is continuity across dozens of small academic workflows.","textChars":59,"textLines":1,"bbox":[96,226,1040,160]}
+{"kind":"textbox","id":"sh/b2pkvmlo","slide":4,"text":"Files, sources, deadlines, design choices, feedback, and publication decisions are distributed across tools—and across time.","textPreview":"Files, sources, deadlines, design choices, feedback, and publication decisions are distributed across tools—and across time.","textChars":124,"textLines":1,"bbox":[100,490,980,96]}
+{"kind":"notes","id":"nt/bgbe01","slide":4,"text":"Files, sources, deadlines, design choices, feedback, and publication decisions are distributed across tools—and across time.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md"}
+{"kind":"slide","id":"sl/etg0k0","slide":5,"title":"05","textShapes":9}
+{"kind":"shape","id":"sh/5czylsnq","slide":5,"name":"metadata-rail-5","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/i98fqxoz","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/3ahgji5k","slide":5,"text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/sfahw76h","slide":5,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/dgjypcnm","slide":5,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/qd8fuxob","slide":5,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/re1gn25w","slide":5,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/8j6xk36x","slide":5,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/tkfyd8ni","slide":5,"name":"anchor-block-5","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/lo3a9kvy","slide":5,"name":"slide-title","text":"Isolated prompts reset the work","textPreview":"Isolated prompts reset the work","textChars":31,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/knu9gfed","slide":5,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/zm1s7ad8","slide":5,"text":"CONTEXT","textPreview":"CONTEXT","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/ylsre5wn","slide":5,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/9c3ad4va","slide":5,"text":"The model sees what is in the current conversation, not the whole project history.","textPreview":"The model sees what is in the current conversation, not the whole project history.","textChars":82,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/8butkzep","slide":5,"text":"EVIDENCE","textPreview":"EVIDENCE","textChars":8,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/7qlsbud4","slide":5,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/mpcbipwj","slide":5,"text":"Sources and decisions become detached from the outputs they informed.","textPreview":"Sources and decisions become detached from the outputs they informed.","textChars":69,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/hgnah4v6","slide":5,"text":"FOLLOW-THROUGH","textPreview":"FOLLOW-THROUGH","textChars":14,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/wfetozul","slide":5,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/0vml0769","slide":5,"text":"A useful answer still leaves scheduling, files, review, and publication to the lecturer.","textPreview":"A useful answer still leaves scheduling, files, review, and publication to the lecturer.","textChars":88,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/etg0k0","slide":5,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md"}
+{"kind":"slide","id":"sl/dprmg6","slide":6,"title":"06","textShapes":5}
+{"kind":"shape","id":"sh/29grqxcv","slide":6,"name":"metadata-rail-6","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/pc7a1cbm","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/4by9s7u1","slide":6,"text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/reps3mtc","slide":6,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/qdgruhc7","slide":6,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/dgra5cbi","slide":6,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/cfi9wrax","slide":6,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/zi9s7mto","slide":6,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/yh0ryhs3","slide":6,"name":"anchor-block-6","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/obyxgfuh","slide":6,"text":"The key shift:","textPreview":"The key shift:","textChars":14,"textLines":1,"bbox":[96,130,1040,86]}
+{"kind":"textbox","id":"sh/9c7e9kb2","slide":6,"text":"from a clever chat to a governed workspace.","textPreview":"from a clever chat to a governed workspace.","textChars":43,"textLines":1,"bbox":[96,226,1040,160]}
+{"kind":"textbox","id":"sh/mpgfepcb","slide":6,"text":"An agentic workspace gives work a durable home, bounded tools, repeatable workflows, and a visible review trail.","textPreview":"An agentic workspace gives work a durable home, bounded tools, repeatable workflows, and a visible review trail.","textChars":112,"textLines":1,"bbox":[100,490,980,96]}
+{"kind":"notes","id":"nt/dprmg6","slide":6,"text":"An agentic workspace gives work a durable home, bounded tools, repeatable workflows, and a visible review trail.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"}
+{"kind":"slide","id":"sl/tyront","slide":7,"title":"01","textShapes":4}
+{"kind":"shape","id":"sh/4fqdkvad","slide":7,"bbox":[0,0,390,720]}
+{"kind":"shape","id":"sh/3exwbqts","slide":7,"bbox":[390,0,850,720]}
+{"kind":"shape","id":"sh/2dovi5s7","slide":7,"bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/hcfep0bm","slide":7,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[80,92,250,180]}
+{"kind":"textbox","id":"sh/gr6dgvuh","slide":7,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[460,180,700,160]}
+{"kind":"textbox","id":"sh/fqxwnqtw","slide":7,"text":"What changes when a language model becomes part of a working system?","textPreview":"What changes when a language model becomes part of a working system?","textChars":68,"textLines":1,"bbox":[464,374,650,110]}
+{"kind":"textbox","id":"sh/upovelcb","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"notes","id":"nt/tyront","slide":7,"text":"Use this divider to reset the room. What changes when a language model becomes part of a working system?\n\n[Sources]\n- Original lecture synthesis; no external claim on this slide."}
+{"kind":"slide","id":"sl/n4u78b","slide":8,"title":"08","textShapes":15}
+{"kind":"shape","id":"sh/m9cjehk3","slide":8,"name":"metadata-rail-8","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/9c3ipw3u","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/obu1gr29","slide":8,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/bel0r6l0","slide":8,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/adcji1kf","slide":8,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/x0nitgjq","slide":8,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/wfu1kb2l","slide":8,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/ri10f2lg","slide":8,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/qhsz6xkv","slide":8,"name":"anchor-block-8","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/w3utcjeh","slide":8,"name":"slide-title","text":"AI is a stack, not one thing","textPreview":"AI is a stack, not one thing","textChars":28,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/x43alov2","slide":8,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/a1cba9wb","slide":8,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/b2lsjedw","slide":8,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/k7etg3ed","slide":8,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/l8nap8vy","slide":8,"text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/y5cbetw7","slide":8,"text":"Systems performing tasks associated with intelligence.","textPreview":"Systems performing tasks associated with intelligence.","textChars":54,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/j6lsnyds","slide":8,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/0bat4ze9","slide":8,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/1cjad4vu","slide":8,"text":"Machine learning","textPreview":"Machine learning","textChars":16,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/18bqh0ni","slide":8,"text":"Systems learning patterns from data.","textPreview":"Systems learning patterns from data.","textChars":36,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/g7298v6x","slide":8,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/f6t8fqpc","slide":8,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/e5kr6lor","slide":8,"text":"Generative AI","textPreview":"Generative AI","textChars":13,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/pwvql0ne","slide":8,"text":"Models producing new content from learned patterns.","textPreview":"Models producing new content from learned patterns.","textChars":51,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/ovm9cv69","slide":8,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/3ut8ja5o","slide":8,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/2tkra5o3","slide":8,"text":"LLM","textPreview":"LLM","textChars":3,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/d0vqpknq","slide":8,"text":"A generative model specialized in language sequences.","textPreview":"A generative model specialized in language sequences.","textChars":53,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/n4u78b","slide":8,"text":"Keep the distinctions functional. An LLM is a model. An agent is a system built around a model.\n\n[Sources]\n- Original lecture synthesis; no external claim on this slide."}
+{"kind":"slide","id":"sl/1kdwiv","slide":9,"title":"09","textShapes":9}
+{"kind":"shape","id":"sh/47618nat","slide":9,"name":"metadata-rail-9","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/36x0fi98","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/i5oj6ds3","slide":9,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/h4fidsri","slide":9,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/g3614nax","slide":9,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/v2x0bitc","slide":9,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/u1oj2dsr","slide":9,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/10j2pcrm","slide":9,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/0za1g7a1","slide":9,"name":"anchor-block-9","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/q5gzql4n","slide":9,"name":"slide-title","text":"An LLM predicts a useful continuation","textPreview":"An LLM predicts a useful continuation","textChars":37,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/b6p0jqls","slide":9,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/c7ihsvmd","slide":9,"text":"INPUT","textPreview":"INPUT","textChars":5,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/x8ril03y","slide":9,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/2hgzml4b","slide":9,"text":"Instructions, examples, retrieved evidence, and conversation context.","textPreview":"Instructions, examples, retrieved evidence, and conversation context.","textChars":69,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/3ipgvqlw","slide":9,"text":"MODEL","textPreview":"MODEL","textChars":5,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/ojyhovmh","slide":9,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/pk7yx032","slide":9,"text":"A learned probability distribution over possible token sequences.","textPreview":"A learned probability distribution over possible token sequences.","textChars":65,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/md0zy54f","slide":9,"text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/7e90ral0","slide":9,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/j6143ixg","slide":9,"text":"A generated continuation—not a database lookup and not a guaranteed fact.","textPreview":"A generated continuation—not a database lookup and not a guaranteed fact.","textChars":73,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/1kdwiv","slide":9,"text":"Explain that fluent generation and factual grounding are separate design problems. This is why external tools and evidence matter.\n\n[Sources]\n- https://arxiv.org/abs/2302.04761"}
+{"kind":"slide","id":"sl/jx9088","slide":10,"title":"10","textShapes":9}
+{"kind":"shape","id":"sh/7ud8fa9c","slide":10,"name":"metadata-rail-10","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/8vmp8vqx","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/twvqh0ri","slide":10,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/y5k72l8v","slide":10,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/z6tobq9g","slide":10,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/k72p4vq1","slide":10,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/l8vqd0rm","slide":10,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/i1o7ep8z","slide":10,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/32x8nupk","slide":10,"name":"anchor-block-10","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/r6hk3qpw","slide":10,"name":"slide-title","text":"A prompt is temporary working context","textPreview":"A prompt is temporary working context","textChars":37,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/q58jalob","slide":10,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/dsz2507m","slide":10,"text":"INSTRUCTION","textPreview":"INSTRUCTION","textChars":11,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/c7q1cv61","slide":10,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/zu1k7aps","slide":10,"text":"What should be done, for whom, and under which constraints?","textPreview":"What should be done, for whom, and under which constraints?","textChars":59,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/etsje5o7","slide":10,"text":"CONTEXT","textPreview":"CONTEXT","textChars":7,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/lwj2907y","slide":10,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/0va1gf6d","slide":10,"text":"What evidence, examples, state, and prior decisions are available now?","textPreview":"What evidence, examples, state, and prior decisions are available now?","textChars":70,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/ny1kbap4","slide":10,"text":"OUTPUT CONTRACT","textPreview":"OUTPUT CONTRACT","textChars":15,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/mxsji5oj","slide":10,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/itwna98r","slide":10,"text":"What form, quality bar, and review conditions define success?","textPreview":"What form, quality bar, and review conditions define success?","textChars":61,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/jx9088","slide":10,"text":"A stronger prompt improves a single interaction. Persistent project memory and workflows improve continuity across interactions.\n\n[Sources]\n- Original lecture synthesis; no external claim on this slide."}
+{"kind":"slide","id":"sl/vb9sgr","slide":11,"title":"11","textShapes":12}
+{"kind":"shape","id":"sh/tc3m9gve","slide":11,"name":"metadata-rail-11","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/69cny1wn","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/7al476d8","slide":11,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/gfe54bep","slide":11,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/hgnmdgva","slide":11,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/udcn2lwz","slide":11,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/fe54b6dk","slide":11,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/wjalsrel","slide":11,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/xkjm1wv6","slide":11,"name":"anchor-block-11","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/hwrqxwny","slide":11,"name":"slide-title","text":"Systems turn models into agents","textPreview":"Systems turn models into agents","textChars":31,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/gvip4rmd","slide":11,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/vu98vm5s","slide":11,"text":"MODEL","textPreview":"MODEL","textChars":5,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/ut072ho7","slide":11,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/50rq1wnu","slide":11,"text":"Generates a response from supplied context.","textPreview":"Generates a response from supplied context.","textChars":43,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/4zip8rm9","slide":11,"text":"No independent action loop","textPreview":"No independent action loop","textChars":26,"textLines":1,"bbox":[96,580,336,50]}
+{"kind":"textbox","id":"sh/3y98zm5o","slide":11,"text":"ASSISTANT","textPreview":"ASSISTANT","textChars":9,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/ix076h4j","slide":11,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/dobq5gn6","slide":11,"text":"Adds interface, instructions, and selected tools.","textPreview":"Adds interface, instructions, and selected tools.","textChars":49,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/s329cbml","slide":11,"text":"Usually user-steered","textPreview":"Usually user-steered","textChars":20,"textLines":1,"bbox":[468,580,336,50]}
+{"kind":"textbox","id":"sh/c7a98fuh","slide":11,"text":"AGENTIC SYSTEM","textPreview":"AGENTIC SYSTEM","textChars":14,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/d8ja1kv2","slide":11,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/q5sr65cr","slide":11,"text":"Pursues a goal through observation, planning, tool use, and feedback.","textPreview":"Pursues a goal through observation, planning, tool use, and feedback.","textChars":69,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"textbox","id":"sh/b61szadc","slide":11,"text":"Bounded autonomy","textPreview":"Bounded autonomy","textChars":16,"textLines":1,"bbox":[840,580,336,50]}
+{"kind":"notes","id":"nt/vb9sgr","slide":11,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://arxiv.org/abs/2210.03629\n- https://arxiv.org/abs/2302.04761"}
+{"kind":"slide","id":"sl/igriac","slide":12,"title":"12","textShapes":15}
+{"kind":"shape","id":"sh/9g7at03u","slide":12,"name":"metadata-rail-12","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/mtgri5k3","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/nupsralo","slide":12,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/0re9gv2x","slide":12,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/ls7ap03i","slide":12,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/ypwrelk7","slide":12,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/zq5snqlc","slide":12,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/knitsz2h","slide":12,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/5ora1kjm","slide":12,"name":"anchor-block-12","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/l8f2dgn2","slide":12,"name":"slide-title","text":"The minimal agent loop","textPreview":"The minimal agent loop","textChars":22,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/07614b6h","slide":12,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/z6dkb65w","slide":12,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/y54j21or","slide":12,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/d4v29wn6","slide":12,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/c3m10r6l","slide":12,"text":"Observe","textPreview":"Observe","textChars":7,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/b2dk7m50","slide":12,"text":"Read the request and current environment.","textPreview":"Read the request and current environment.","textChars":41,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/q14jyhof","slide":12,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/h0z2l0na","slide":12,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/wzqlcv6p","slide":12,"text":"Plan","textPreview":"Plan","textChars":4,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/g3yl8ze1","slide":12,"text":"Choose a next step or decompose the task.","textPreview":"Choose a next step or decompose the task.","textChars":41,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/h47mh4vm","slide":12,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/u1w36pwv","slide":12,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/f254fudg","slide":12,"text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/sfel4zep","slide":12,"text":"Use a tool or produce an artifact.","textPreview":"Use a tool or produce an artifact.","textChars":34,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/t0nmdkva","slide":12,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/6dw32pwz","slide":12,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/7e54budk","slide":12,"text":"Evaluate","textPreview":"Evaluate","textChars":8,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/kbel0fet","slide":12,"text":"Check the result, update state, and continue.","textPreview":"Check the result, update state, and continue.","textChars":45,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/igriac","slide":12,"text":"The loop is the central mental model for the lecture. Agent quality depends on every part of the loop, not only on the model.\n\n[Sources]\n- https://arxiv.org/abs/2210.03629"}
+{"kind":"slide","id":"sl/ivp48h","slide":13,"title":"13","textShapes":9}
+{"kind":"shape","id":"sh/relwnq1o","slide":13,"name":"metadata-rail-13","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/cfudwv29","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/dg3epgju","slide":13,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/29svq1k7","slide":13,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/3a1wj61s","slide":13,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/4badsb2x","slide":13,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/pcjelgji","slide":13,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/m5wv25kb","slide":13,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/n65wva1w","slide":13,"name":"anchor-block-13","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/valwzatc","slide":13,"name":"slide-title","text":"Tools convert language into consequences","textPreview":"Tools convert language into consequences","textChars":40,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/a9cfq5sr","slide":13,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/xc3e1kbi","slide":13,"text":"READ","textPreview":"READ","textChars":4,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/wbuxsfax","slide":13,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/jelw3ut8","slide":13,"text":"Search, inspect files, retrieve sources, read calendars, or query data.","textPreview":"Search, inspect files, retrieve sources, read calendars, or query data.","textChars":71,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/idcfups3","slide":13,"text":"CREATE","textPreview":"CREATE","textChars":6,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/5gny54be","slide":13,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/kfexwzat","slide":13,"text":"Draft documents, generate presentations, transform datasets, or write code.","textPreview":"Draft documents, generate presentations, transform datasets, or write code.","textChars":75,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/725g7utk","slide":13,"text":"CHANGE","textPreview":"CHANGE","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/6hwfypsz","slide":13,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/2xgzqtc7","slide":13,"text":"Send messages, update records, publish content, or run external processes.","textPreview":"Send messages, update records, publish content, or run external processes.","textChars":74,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/ivp48h","slide":13,"text":"Risk rises as tools move from reading to creating to changing external state. Permissions and approval gates must rise with it.\n\n[Sources]\n- https://arxiv.org/abs/2302.04761"}
+{"kind":"slide","id":"sl/oisylp","slide":14,"title":"14","textShapes":9}
+{"kind":"shape","id":"sh/q1w7e54f","slide":14,"name":"metadata-rail-14","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/d476pkn6","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/s3epgfml","slide":14,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/f6poru5c","slide":14,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/e5g7ip4r","slide":14,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/1876tkn2","slide":14,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/07ypkzmh","slide":14,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/valofq5s","slide":14,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/u9cn6l47","slide":14,"name":"anchor-block-14","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/wfa5gvyp","slide":14,"name":"slide-title","text":"Memory gives an agent continuity","textPreview":"Memory gives an agent continuity","textChars":32,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/xg3690fa","slide":14,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/adsne5gz","slide":14,"text":"WORKING MEMORY","textPreview":"WORKING MEMORY","textChars":14,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/be1o7axk","slide":14,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/k3u54fy1","slide":14,"text":"The immediate context needed for the current step.","textPreview":"The immediate context needed for the current step.","textChars":50,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/l436dkfm","slide":14,"text":"PROJECT MEMORY","textPreview":"PROJECT MEMORY","textChars":14,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/yhcni5gv","slide":14,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/j2lobaxg","slide":14,"text":"Durable sources, decisions, terminology, and outputs.","textPreview":"Durable sources, decisions, terminology, and outputs.","textChars":53,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/07q58byx","slide":14,"text":"EVENT HISTORY","textPreview":"EVENT HISTORY","textChars":13,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/18jm1gf2","slide":14,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/hsrup8nu","slide":14,"text":"What happened, when, through which tool, with what result.","textPreview":"What happened, when, through which tool, with what result.","textChars":58,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/oisylp","slide":14,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://arxiv.org/abs/2304.03442\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md"}
+{"kind":"slide","id":"sl/956t0s","slide":15,"title":"15","textShapes":9}
+{"kind":"shape","id":"sh/1sfy94r2","slide":15,"name":"metadata-rail-15","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/epofe98b","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/fqxg7u9w","slide":15,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/snmxczq5","slide":15,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/tofy54rq","slide":15,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/6l4fap8z","slide":15,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/rmdw3u9k","slide":15,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/cjqxojqp","slide":15,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/dkzyhoru","slide":15,"name":"anchor-block-15","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/p0bapwny","slide":15,"name":"slide-title","text":"The environment defines what is possible","textPreview":"The environment defines what is possible","textChars":40,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/ozi9wrmd","slide":15,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/ny9snm5s","slide":15,"text":"AVAILABLE STATE","textPreview":"AVAILABLE STATE","textChars":15,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/2x0ruh47","slide":15,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/1wralcnm","slide":15,"text":"Files, repositories, applications, databases, and connected services.","textPreview":"Files, repositories, applications, databases, and connected services.","textChars":69,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/0vi9s7mh","slide":15,"text":"PERMISSIONS","textPreview":"PERMISSIONS","textChars":11,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/fa9sjm5w","slide":15,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/e90rqhob","slide":15,"text":"What the agent may read, modify, send, schedule, or publish.","textPreview":"What the agent may read, modify, send, schedule, or publish.","textChars":60,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/lsvaxgn6","slide":15,"text":"BOUNDARIES","textPreview":"BOUNDARIES","textChars":10,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/kr294bml","slide":15,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/4nulgjyt","slide":15,"text":"Which actions require a person, a policy check, or a separate release path.","textPreview":"Which actions require a person, a policy check, or a separate release path.","textChars":75,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/956t0s","slide":15,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research"}
+{"kind":"slide","id":"sl/lyepso","slide":16,"title":"16","textShapes":9}
+{"kind":"shape","id":"sh/yhgv25gr","slide":16,"name":"metadata-rail-16","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/lk7ex0z2","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/kjyx4fyh","slide":16,"text":"FOUNDATIONS","textPreview":"FOUNDATIONS","textChars":11,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/be5wrqh0","slide":16,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/adwvylgf","slide":16,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/xg7et0z6","slide":16,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/wfyd0vyl","slide":16,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/nq5wnqh4","slide":16,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/mpwvul0j","slide":16,"name":"anchor-block-16","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/o7el0jmx","slide":16,"name":"slide-title","text":"Artifacts make agent work reviewable","textPreview":"Artifacts make agent work reviewable","textChars":36,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/98n29oni","slide":16,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/m5w3yt47","slide":16,"text":"FILES","textPreview":"FILES","textChars":5,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/n65k7e5c","slide":16,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/03elwjm1","slide":16,"text":"Drafts, plans, data, slides, and outputs can be inspected directly.","textPreview":"Drafts, plans, data, slides, and outputs can be inspected directly.","textChars":67,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/14n25onm","slide":16,"text":"HISTORY","textPreview":"HISTORY","textChars":7,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/e1cju9ov","slide":16,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/z2lk3e5g","slide":16,"text":"Commits and issue activity show when and why work changed.","textPreview":"Commits and issue activity show when and why work changed.","textChars":58,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/kzyl83m5","slide":16,"text":"PROVENANCE","textPreview":"PROVENANCE","textChars":10,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/l07mh8nq","slide":16,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/tg3218fu","slide":16,"text":"Sources in notes and metadata connect claims to evidence.","textPreview":"Sources in notes and metadata connect claims to evidence.","textChars":57,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/lyepso","slide":16,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md"}
+{"kind":"slide","id":"sl/vz7nxg","slide":17,"title":"02","textShapes":4}
+{"kind":"shape","id":"sh/29gjmlwv","slide":17,"bbox":[0,0,390,720]}
+{"kind":"shape","id":"sh/pcrih0vm","slide":17,"bbox":[390,0,850,720]}
+{"kind":"shape","id":"sh/4by1ove1","slide":17,"bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/f6p0b6dk","slide":17,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[80,92,250,180]}
+{"kind":"textbox","id":"sh/u5gji1wz","slide":17,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[460,180,700,160]}
+{"kind":"textbox","id":"sh/h87idgva","slide":17,"text":"Planning, acting, remembering, reflecting, and governing the loop.","textPreview":"Planning, acting, remembering, reflecting, and governing the loop.","textChars":66,"textLines":1,"bbox":[464,374,650,110]}
+{"kind":"textbox","id":"sh/g7y1kbep","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"notes","id":"nt/vz7nxg","slide":17,"text":"Use this divider to reset the room. Planning, acting, remembering, reflecting, and governing the loop.\n\n[Sources]\n- Original lecture synthesis; no external claim on this slide."}
+{"kind":"slide","id":"sl/xn3nxe","slide":18,"title":"18","textShapes":15}
+{"kind":"shape","id":"sh/69snehsz","slide":18,"name":"metadata-rail-18","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/twjmpwrq","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/8ba5gra5","slide":18,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/vyl4rm9w","slide":18,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/uxcnihsb","slide":18,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/h03mtwrm","slide":18,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/gzu5kra1","slide":18,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/b2h4f2tc","slide":18,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/a1836xsr","slide":18,"name":"anchor-block-18","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/wnat0zu1","slide":18,"name":"slide-title","text":"ReAct interleaves reasoning and action","textPreview":"ReAct interleaves reasoning and action","textChars":38,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/xoju94vm","slide":18,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/al8bypcb","slide":18,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/bmhc7udw","slide":18,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/krat4jud","slide":18,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/lsjudovy","slide":18,"text":"Reason","textPreview":"Reason","textChars":6,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/ypsb29c7","slide":18,"text":"Form a hypothesis or decide what is missing.","textPreview":"Form a hypothesis or decide what is missing.","textChars":44,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/jq1cbeds","slide":18,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/0vqtsfu9","slide":18,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/1wzu1kve","slide":18,"text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/hsrapgni","slide":18,"text":"Call a tool or interact with the environment.","textPreview":"Call a tool or interact with the environment.","textChars":45,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/gri9wb6x","slide":18,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/fqpsn65c","slide":18,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/upgru1or","slide":18,"text":"Observe","textPreview":"Observe","textChars":7,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/pgratgne","slide":18,"text":"Receive new evidence or a tool result.","textPreview":"Receive new evidence or a tool result.","textChars":38,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/4fi90b6t","slide":18,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/3e9srq58","slide":18,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/2t0rylo3","slide":18,"text":"Revise","textPreview":"Revise","textChars":6,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/dkbax0nq","slide":18,"text":"Update the plan and repeat as needed.","textPreview":"Update the plan and repeat as needed.","textChars":37,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/xn3nxe","slide":18,"text":"The ReAct paper shows the value of interleaving reasoning traces and actions. In deployed systems, internal reasoning need not be exposed; the important operational pattern is plan–act–observe–revise.\n\n[Sources]\n- https://arxiv.org/abs/2210.03629"}
+{"kind":"slide","id":"sl/6edchi","slide":19,"title":"19","textShapes":9}
+{"kind":"shape","id":"sh/vy9w7e50","slide":19,"name":"metadata-rail-19","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/gzid0jml","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/h0re9on6","slide":19,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/69gvu94j","slide":19,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/7apc3u54","slide":19,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/8bydwzm9","slide":19,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/tcre54nu","slide":19,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/q5kv6t4n","slide":19,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/r6twfyl8","slide":19,"name":"anchor-block-19","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/valszulk","slide":19,"name":"slide-title","text":"Planning turns goals into tractable steps","textPreview":"Planning turns goals into tractable steps","textChars":41,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/upsr6p4z","slide":19,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/hc3a1k3a","slide":19,"text":"DECOMPOSE","textPreview":"DECOMPOSE","textChars":9,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/wbut8zmp","slide":19,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/jels3ulg","slide":19,"text":"Break a broad objective into smaller deliverables or checks.","textPreview":"Break a broad objective into smaller deliverables or checks.","textChars":60,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/idcbup4v","slide":19,"text":"ORDER","textPreview":"ORDER","textChars":5,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/5g3a543m","slide":19,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/4futwzm1","slide":19,"text":"Place dependencies, approvals, and evidence gathering in a safe sequence.","textPreview":"Place dependencies, approvals, and evidence gathering in a safe sequence.","textChars":73,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/ri5s7els","slide":19,"text":"REPLAN","textPreview":"REPLAN","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/6hcby947","slide":19,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/2p03mxsb","slide":19,"text":"Change course when tools fail, evidence conflicts, or constraints appear.","textPreview":"Change course when tools fail, evidence conflicts, or constraints appear.","textChars":73,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/6edchi","slide":19,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://arxiv.org/abs/2210.03629"}
+{"kind":"slide","id":"sl/s030ue","slide":20,"title":"20","textShapes":9}
+{"kind":"shape","id":"sh/8n65sjmh","slide":20,"name":"metadata-rail-20","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/nmx4zelw","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/ml4nqt4b","slide":20,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/xcfm583y","slide":20,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/wb65w3md","slide":20,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/vax43yls","slide":20,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/aponut4n","slide":20,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/dgvmt4nu","slide":20,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/cfmlkzm9","slide":20,"name":"anchor-block-20","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/qhsjehg3","slide":20,"name":"slide-title","text":"Tool selection is a policy decision","textPreview":"Tool selection is a policy decision","textChars":35,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/bi1k7mho","slide":20,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/cja1gryt","slide":20,"text":"WHEN","textPreview":"WHEN","textChars":4,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/dkj29cze","slide":20,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/ylsjihgz","slide":20,"text":"Use a tool when the model lacks current state, precision, or the ability to act.","textPreview":"Use a tool when the model lacks current state, precision, or the ability to act.","textChars":80,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/zmlkbmxk","slide":20,"text":"WHICH","textPreview":"WHICH","textChars":5,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/07u1kry5","slide":20,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/l832dwfq","slide":20,"text":"Choose the narrowest tool whose capability and permissions match the step.","textPreview":"Choose the narrowest tool whose capability and permissions match the step.","textChars":74,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/m9cjm1gb","slide":20,"text":"HOW","textPreview":"HOW","textChars":3,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/nalkf6xw","slide":20,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/je5036do","slide":20,"text":"Validate arguments, inspect results, and stop loops that do not converge.","textPreview":"Validate arguments, inspect results, and stop loops that do not converge.","textChars":73,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/s030ue","slide":20,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://arxiv.org/abs/2302.04761\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"}
+{"kind":"slide","id":"sl/b0zmr4","slide":21,"title":"21","textShapes":15}
+{"kind":"shape","id":"sh/hw7yhsrq","slide":21,"name":"metadata-rail-21","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/utgf6d8z","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/fupgfi9k","slide":21,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/sryx43q9","slide":21,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/ts7yd8ru","slide":21,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/6pwf2d83","slide":21,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/7q5gbi9o","slide":21,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/knex03qx","slide":21,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/5ony98ri","slide":21,"name":"anchor-block-21","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/p8bah8rm","slide":21,"name":"slide-title","text":"Memory is a lifecycle","textPreview":"Memory is a lifecycle","textChars":21,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/472983a1","slide":21,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/36tsfy9w","slide":21,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/25kr6tsb","slide":21,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/h4radorq","slide":21,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/g3i94ja5","slide":21,"text":"Capture","textPreview":"Capture","textChars":7,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/f29sbe9k","slide":21,"text":"Record sources, events, decisions, and artifacts.","textPreview":"Record sources, events, decisions, and artifacts.","textChars":49,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/u10r29sz","slide":21,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/t0ra9ore","slide":21,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/sfi90ja9","slide":21,"text":"Organize","textPreview":"Organize","textChars":8,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/kjm9wjip","slide":21,"text":"Structure knowledge for future retrieval.","textPreview":"Structure knowledge for future retrieval.","textChars":41,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/lkvapoza","slide":21,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/yhkru90z","slide":21,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/jitsnehk","slide":21,"text":"Retrieve","textPreview":"Retrieve","textChars":8,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/wf29szit","slide":21,"text":"Bring only relevant evidence into working context.","textPreview":"Bring only relevant evidence into working context.","textChars":50,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/xgbal4ze","slide":21,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/atkrq90n","slide":21,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/butsjeh8","slide":21,"text":"Update","textPreview":"Update","textChars":6,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/gb6t43ix","slide":21,"text":"Correct, supersede, or archive knowledge as the project changes.","textPreview":"Correct, supersede, or archive knowledge as the project changes.","textChars":64,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/b0zmr4","slide":21,"text":"Walk left to right; emphasize that the loop repeats after feedback.\n\n[Sources]\n- https://arxiv.org/abs/2304.03442\n- https://arxiv.org/abs/2005.11401\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md"}
+{"kind":"slide","id":"sl/mjxslv","slide":22,"title":"22","textShapes":9}
+{"kind":"shape","id":"sh/md07yt0f","slide":22,"name":"metadata-rail-22","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/9gbq9oj6","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/8f2p0jil","slide":22,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/za983e1o","slide":22,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/y907u9kj","slide":22,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/lcrq5oju","slide":22,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/0bipwj29","slide":22,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/j6d8fy18","slide":22,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/i5k76d0n","slide":22,"name":"anchor-block-22","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/o3y18bmt","slide":22,"name":"slide-title","text":"RAG grounds generation in retrieved evidence","textPreview":"RAG grounds generation in retrieved evidence","textChars":44,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/p4721g3e","slide":22,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/21wj614n","slide":22,"text":"RETRIEVE","textPreview":"RETRIEVE","textChars":8,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/325kz658","slide":22,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/gze14bmh","slide":22,"text":"Find relevant passages from an external, updateable knowledge source.","textPreview":"Find relevant passages from an external, updateable knowledge source.","textChars":69,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/10n2xwn2","slide":22,"text":"AUGMENT","textPreview":"AUGMENT","textChars":7,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/exwj214r","slide":22,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/fy5kv65w","slide":22,"text":"Place those passages and provenance in the model’s context.","textPreview":"Place those passages and provenance in the model’s context.","textChars":59,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/sbe10rml","slide":22,"text":"GENERATE","textPreview":"GENERATE","textChars":8,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/tcn2twn6","slide":22,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/9gvqhobi","slide":22,"text":"Produce an answer conditioned on both model knowledge and retrieved evidence.","textPreview":"Produce an answer conditioned on both model knowledge and retrieved evidence.","textChars":77,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/mjxslv","slide":22,"text":"RAG improves access to explicit knowledge and provenance. It does not make every retrieved source correct, relevant, or current; retrieval quality remains part of the system.\n\n[Sources]\n- https://arxiv.org/abs/2005.11401"}
+{"kind":"slide","id":"sl/jh5237","slide":23,"title":"23","textShapes":9}
+{"kind":"shape","id":"sh/raxkrqlc","slide":23,"name":"metadata-rail-23","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/sb6l0vmx","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/tcf2t03i","slide":23,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/ed832l43","slide":23,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/fehkvqlo","slide":23,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/gfql4vmt","slide":23,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/10z2x03e","slide":23,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/2183654z","slide":23,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/32hkzalk","slide":23,"name":"anchor-block-23","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/jy18bilw","slide":23,"name":"slide-title","text":"Reflection converts outcomes into guidance","textPreview":"Reflection converts outcomes into guidance","textChars":42,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/ix8ridkb","slide":23,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/50jads32","slide":23,"text":"COMPARE","textPreview":"COMPARE","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/kza9kn2h","slide":23,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/vuh87yl0","slide":23,"text":"Did the result satisfy the objective, constraints, and evidence standard?","textPreview":"Did the result satisfy the objective, constraints, and evidence standard?","textChars":73,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/at8retkf","slide":23,"text":"DIAGNOSE","textPreview":"DIAGNOSE","textChars":8,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/xwzq9836","slide":23,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/wvq9g32l","slide":23,"text":"Was the failure caused by the plan, tool, data, permissions, or model?","textPreview":"Was the failure caused by the plan, tool, data, permissions, or model?","textChars":70,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/fqlsj214","slide":23,"text":"ADAPT","textPreview":"ADAPT","textChars":5,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/epcrqxkj","slide":23,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/axg3yl83","slide":23,"text":"Revise the next step or store a durable lesson for future work.","textPreview":"Revise the next step or store a durable lesson for future work.","textChars":63,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/jh5237","slide":23,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://arxiv.org/abs/2304.03442"}
+{"kind":"slide","id":"sl/ymo48z","slide":24,"title":"24","textShapes":9}
+{"kind":"shape","id":"sh/r6t8fmlg","slide":24,"name":"metadata-rail-24","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/s72por21","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/t8bqhw3m","slide":24,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/ih07ihkz","slide":24,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/ji98bmlk","slide":24,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/kjipkr25","slide":24,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/54rqdw3q","slide":24,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/adg7eh43","slide":24,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/ve9o72l8","slide":24,"name":"anchor-block-24","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/bi1o36ds","slide":24,"name":"slide-title","text":"Orchestration can stay simple","textPreview":"Orchestration can stay simple","textChars":29,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/ahs7a1w7","slide":24,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/xk365gvy","slide":24,"text":"SEQUENTIAL","textPreview":"SEQUENTIAL","textChars":10,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/cjupcbed","slide":24,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/zmlo76do","slide":24,"text":"One step feeds the next. Best when dependencies are clear.","textPreview":"One step feeds the next. Best when dependencies are clear.","textChars":58,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/ylc7e1cj","slide":24,"text":"PARALLEL","textPreview":"PARALLEL","textChars":8,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/l8369gvu","slide":24,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/k7upgbu9","slide":24,"text":"Independent subtasks run together. Best when evidence can be reconciled.","textPreview":"Independent subtasks run together. Best when evidence can be reconciled.","textChars":72,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/fqhobmdk","slide":24,"text":"ROUTED","textPreview":"ROUTED","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/ep8n2hwz","slide":24,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/i5grapwn","slide":24,"text":"A coordinator selects a specialized workflow. Best for recurring task families.","textPreview":"A coordinator selects a specialized workflow. Best for recurring task families.","textChars":79,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/ymo48z","slide":24,"text":"More agents do not automatically mean better results. Start with the smallest orchestration that makes the workflow observable and testable.\n\n[Sources]\n- https://arxiv.org/abs/2210.03629"}
+{"kind":"slide","id":"sl/5hni5o","slide":25,"title":"25","textShapes":15}
+{"kind":"shape","id":"sh/q1gb2p4r","slide":25,"name":"metadata-rail-25","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/d47ax4ni","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/c3yt4zmx","slide":25,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/zq9sze5o","slide":25,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/e50b6943","slide":25,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/1sra14ne","slide":25,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/0rit8zmt","slide":25,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/nu9s3e5k","slide":25,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/mt0ba94z","slide":25,"name":"anchor-block-25","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/gnu9wzuh","slide":25,"name":"slide-title","text":"Autonomy should rise with evidence","textPreview":"Autonomy should rise with evidence","textChars":34,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/1onqp4b2","slide":25,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/elcru9cb","slide":25,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/fml8netw","slide":25,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/ore90jud","slide":25,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/psnqtoby","slide":25,"text":"Suggest","textPreview":"Suggest","textChars":7,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/2pwry9cn","slide":25,"text":"Draft options; a person chooses.","textPreview":"Draft options; a person chooses.","textChars":32,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/3q58ret8","slide":25,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/cfy94jup","slide":25,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/dg7axoba","slide":25,"text":"Prepare","textPreview":"Prepare","textChars":7,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/lc3qho3e","slide":25,"text":"Create artifacts; a person reviews.","textPreview":"Create artifacts; a person reviews.","textChars":35,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/kbu9ojmt","slide":25,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/zal8fel8","slide":25,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/y9srm94n","slide":25,"text":"Execute","textPreview":"Execute","textChars":7,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/903ql83a","slide":25,"text":"Act within narrow, reversible limits.","textPreview":"Act within narrow, reversible limits.","textChars":37,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/8zu9s3mp","slide":25,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/7el8jylk","slide":25,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/mdcrqt4z","slide":25,"text":"Monitor","textPreview":"Monitor","textChars":7,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/p4jq9436","slide":25,"text":"Run repeatedly with logs, thresholds, and stop conditions.","textPreview":"Run repeatedly with logs, thresholds, and stop conditions.","textChars":58,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/5hni5o","slide":25,"text":"Walk left to right; emphasize that the loop repeats after feedback.\n\n[Sources]\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research"}
+{"kind":"slide","id":"sl/ppvbpm","slide":26,"title":"26","textShapes":9}
+{"kind":"shape","id":"sh/fi94rqd0","slide":26,"name":"metadata-rail-26","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/gji5kvel","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/hkbmt0v6","slide":26,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/2lknm5wr","slide":26,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/3mt4vadc","slide":26,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/4n25ovex","slide":26,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/pobmx0vi","slide":26,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/ipg3a1wn","slide":26,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/jqp4j6ds","slide":26,"name":"anchor-block-26","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/bipgvm94","slide":26,"name":"slide-title","text":"Failure is usually systemic","textPreview":"Failure is usually systemic","textChars":27,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/ahwf2h8z","slide":26,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/xk7yxwra","slide":26,"text":"KNOWLEDGE","textPreview":"KNOWLEDGE","textChars":9,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/wjyx4rqp","slide":26,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/ne5wr298","slide":26,"text":"Hallucinated facts, stale evidence, weak retrieval, missing context.","textPreview":"Hallucinated facts, stale evidence, weak retrieval, missing context.","textChars":68,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/mdwfyx8n","slide":26,"text":"ACTION","textPreview":"ACTION","textChars":6,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/9gnetcre","slide":26,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/ofex07qt","slide":26,"text":"Wrong tool, malformed arguments, unintended writes, repeated loops.","textPreview":"Wrong tool, malformed arguments, unintended writes, repeated loops.","textChars":67,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/zqlwn29c","slide":26,"text":"GOVERNANCE","textPreview":"GOVERNANCE","textChars":10,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/epcfux8r","slide":26,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/2lcf6xcj","slide":26,"text":"Unclear ownership, hidden provenance, privacy leakage, premature publication.","textPreview":"Unclear ownership, hidden provenance, privacy leakage, premature publication.","textChars":77,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/ppvbpm","slide":26,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://arxiv.org/abs/2302.04761\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research"}
+{"kind":"slide","id":"sl/e41vpv","slide":27,"title":"27","textShapes":18}
+{"kind":"shape","id":"sh/i5gn6twn","slide":27,"name":"metadata-rail-27","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/5s7m18fe","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/4ry583et","slide":27,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/rup43yx4","slide":27,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/6tgnatwz","slide":27,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/twrm58fa","slide":27,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/svi5c3ep","slide":27,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/7y54rex0","slide":27,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/mxw3y9gf","slide":27,"name":"anchor-block-27","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/kj61o3ad","slide":27,"name":"slide-title","text":"Keep the human at the decision boundary","textPreview":"Keep the human at the decision boundary","textChars":39,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/lkz2x8ry","slide":27,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/yxojmts7","slide":27,"text":"AREA","textPreview":"AREA","textChars":4,"textLines":1,"bbox":[96,210,240,34]}
+{"kind":"textbox","id":"sh/zixkvy9s","slide":27,"text":"AGENT PREPARES","textPreview":"AGENT PREPARES","textChars":14,"textLines":1,"bbox":[360,210,370,34]}
+{"kind":"textbox","id":"sh/8nq1sna9","slide":27,"text":"HUMAN DECIDES","textPreview":"HUMAN DECIDES","textChars":13,"textLines":1,"bbox":[760,210,400,34]}
+{"kind":"shape","id":"sh/9oz21sru","slide":27,"bbox":[96,252,1060,2]}
+{"kind":"textbox","id":"sh/ml8jqds3","slide":27,"text":"Research","textPreview":"Research","textChars":8,"textLines":1,"bbox":[96,278,240,70]}
+{"kind":"textbox","id":"sh/7mhkzi9o","slide":27,"text":"Search, organize, draft, compare","textPreview":"Search, organize, draft, compare","textChars":32,"textLines":1,"bbox":[360,278,370,70]}
+{"kind":"textbox","id":"sh/orm1gja5","slide":27,"text":"Validate sources, interpretation, and claims","textPreview":"Validate sources, interpretation, and claims","textChars":44,"textLines":1,"bbox":[760,278,400,70]}
+{"kind":"shape","id":"sh/psfiporq","slide":27,"bbox":[96,356,1060,1]}
+{"kind":"textbox","id":"sh/po7ytk3e","slide":27,"text":"Education","textPreview":"Education","textChars":9,"textLines":1,"bbox":[96,372,240,70]}
+{"kind":"textbox","id":"sh/4nehkf2t","slide":27,"text":"Prepare materials, examples, feedback drafts","textPreview":"Prepare materials, examples, feedback drafts","textChars":44,"textLines":1,"bbox":[360,372,370,70]}
+{"kind":"textbox","id":"sh/3m5gral8","slide":27,"text":"Approve objectives, assessment, grades","textPreview":"Approve objectives, assessment, grades","textChars":38,"textLines":1,"bbox":[760,372,400,70]}
+{"kind":"shape","id":"sh/2lwzi5kn","slide":27,"bbox":[96,450,1060,1]}
+{"kind":"textbox","id":"sh/dc7ixkja","slide":27,"text":"Community","textPreview":"Community","textChars":9,"textLines":1,"bbox":[96,466,240,70]}
+{"kind":"textbox","id":"sh/cbyhof25","slide":27,"text":"Adapt formats and draft public assets","textPreview":"Adapt formats and draft public assets","textChars":37,"textLines":1,"bbox":[360,466,370,70]}
+{"kind":"textbox","id":"sh/rqp0valk","slide":27,"text":"Confirm consent, context, accessibility","textPreview":"Confirm consent, context, accessibility","textChars":39,"textLines":1,"bbox":[760,466,400,70]}
+{"kind":"shape","id":"sh/qpgzmpkz","slide":27,"bbox":[96,544,1060,1]}
+{"kind":"textbox","id":"sh/1gri14jm","slide":27,"text":"Publication","textPreview":"Publication","textChars":11,"textLines":1,"bbox":[96,560,240,70]}
+{"kind":"textbox","id":"sh/0fyhsz21","slide":27,"text":"Assemble a reviewed export","textPreview":"Assemble a reviewed export","textChars":26,"textLines":1,"bbox":[360,560,370,70]}
+{"kind":"textbox","id":"sh/yp8n6xw7","slide":27,"text":"Approve the exact release","textPreview":"Approve the exact release","textChars":25,"textLines":1,"bbox":[760,560,400,70]}
+{"kind":"notes","id":"nt/e41vpv","slide":27,"text":"The division of labor is explicit: preparation may be delegated; accountability is not.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/human-in-the-loop-academic-agent.md\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"}
+{"kind":"slide","id":"sl/sflpnq","slide":28,"title":"28","textShapes":9}
+{"kind":"shape","id":"sh/2p4bipw7","slide":28,"name":"metadata-rail-28","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/psvatkfi","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/ormtkfed","slide":28,"text":"THEORY","textPreview":"THEORY","textChars":6,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/fmtsnaxg","slide":28,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/elkbe5wv","slide":28,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/1obapkfm","slide":28,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/0n2tgfe1","slide":28,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/zixczex0","slide":28,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/yhobq9wf","slide":28,"name":"anchor-block-28","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/gvihwnm1","slide":28,"name":"slide-title","text":"Evaluate the whole agent system","textPreview":"Evaluate the whole agent system","textChars":31,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/hwrypsn6","slide":28,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/ut0fud4v","slide":28,"text":"QUALITY","textPreview":"QUALITY","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/fu9gni5g","slide":28,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/s7yxsnmp","slide":28,"text":"Correctness, relevance, clarity, and traceable evidence.","textPreview":"Correctness, relevance, clarity, and traceable evidence.","textChars":56,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/t87yl8na","slide":28,"text":"PROCESS","textPreview":"PROCESS","textChars":7,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/65gfqd4j","slide":28,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/76pgji54","slide":28,"text":"Task completion, tool reliability, recovery, cost, and time.","textPreview":"Task completion, tool reliability, recovery, cost, and time.","textChars":60,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/k3yxo3mt","slide":28,"text":"RISK","textPreview":"RISK","textChars":4,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/547yh8ne","slide":28,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/lofm50bq","slide":28,"text":"Privacy, bias, security, reversibility, and human oversight.","textPreview":"Privacy, bias, security, reversibility, and human oversight.","textChars":60,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/sflpnq","slide":28,"text":"A model benchmark is not an evaluation of an academic workflow. Test the artifact, the process, and the governance together.\n\n[Sources]\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/\n- https://www.oecd.org/en/publications/policies-supporting-responsible-and-systematic-genai-adoption-in-higher-education_c4e5621f-en.html"}
+{"kind":"slide","id":"sl/hixt3b","slide":29,"title":"03","textShapes":4}
+{"kind":"shape","id":"sh/07ihsfmx","slide":29,"bbox":[0,0,390,720]}
+{"kind":"shape","id":"sh/z69gjulc","slide":29,"bbox":[390,0,850,720]}
+{"kind":"shape","id":"sh/e50zqp4r","slide":29,"bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/d4ryhk3m","slide":29,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[80,92,250,180]}
+{"kind":"textbox","id":"sh/c3ihofm1","slide":29,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[460,180,700,160]}
+{"kind":"textbox","id":"sh/r29gfalg","slide":29,"text":"Map one agentic workspace to the distinct responsibilities of Tri Dharma.","textPreview":"Map one agentic workspace to the distinct responsibilities of Tri Dharma.","textChars":73,"textLines":1,"bbox":[464,374,650,110]}
+{"kind":"textbox","id":"sh/q10zm54v","slide":29,"text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"notes","id":"nt/hixt3b","slide":29,"text":"Use this divider to reset the room. Map one agentic workspace to the distinct responsibilities of Tri Dharma.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md"}
+{"kind":"slide","id":"sl/o16wfx","slide":30,"title":"30","textShapes":12}
+{"kind":"shape","id":"sh/94fqt4v2","slide":30,"name":"metadata-rail-30","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/m147ypwb","slide":30,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/72d8rudw","slide":30,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/w7694jed","slide":30,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/h8fqx4vy","slide":30,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/u5or29w7","slide":30,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/v6x8veds","slide":30,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/4vq98jep","slide":30,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/5wzq1ovu","slide":30,"name":"anchor-block-30","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/1s3id0fu","slide":30,"name":"slide-title","text":"Three obligations need three operational homes","textPreview":"Three obligations need three operational homes","textChars":46,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/gruh4vy9","slide":30,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/fq1gbqx4","slide":30,"text":".BRAIN","textPreview":".BRAIN","textChars":6,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/epsz2lgj","slide":30,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/pg3ih0f6","slide":30,"text":"Sources, knowledge, questions, syntheses, and research outputs.","textPreview":"Sources, knowledge, questions, syntheses, and research outputs.","textChars":63,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/ofuh8vyl","slide":30,"text":"Research continuity","textPreview":"Research continuity","textChars":19,"textLines":1,"bbox":[96,580,336,50]}
+{"kind":"textbox","id":"sh/3ul0fqx0","slide":30,"text":".SCHEDULE","textPreview":".SCHEDULE","textChars":9,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/2tcz65gf","slide":30,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/5kjy5gzm","slide":30,"text":"Recurring prompts, teaching rhythms, checks, and planned follow-ups.","textPreview":"Recurring prompts, teaching rhythms, checks, and planned follow-ups.","textChars":68,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/4jqhwbyh","slide":30,"text":"Operational continuity","textPreview":"Operational continuity","textChars":22,"textLines":1,"bbox":[468,580,336,50]}
+{"kind":"textbox","id":"sh/wfe98va9","slide":30,"text":".DESIGN","textPreview":".DESIGN","textChars":7,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/hgnq10bu","slide":30,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/udw765s3","slide":30,"text":"Visual rules, templates, examples, and consistent audience-facing artifacts.","textPreview":"Visual rules, templates, examples, and consistent audience-facing artifacts.","textChars":76,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"textbox","id":"sh/ve58zato","slide":30,"text":"Communication continuity","textPreview":"Communication continuity","textChars":24,"textLines":1,"bbox":[840,580,336,50]}
+{"kind":"notes","id":"nt/o16wfx","slide":30,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md"}
+{"kind":"slide","id":"sl/jhjayn","slide":31,"title":"31","textShapes":15}
+{"kind":"shape","id":"sh/2pk3udwv","slide":31,"name":"metadata-rail-31","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/pcvmpsvm","slide":31,"text":"31","textPreview":"31","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/ormlwne1","slide":31,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/bed4r2ds","slide":31,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/ad43yxw7","slide":31,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/xgvmtcvi","slide":31,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/cfml07ed","slide":31,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/ri94fyd8","slide":31,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/6h03mtwn","slide":31,"name":"anchor-block-31","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/47u9grax","slide":31,"name":"slide-title","text":"One source, three reviewed outcomes","textPreview":"One source, three reviewed outcomes","textChars":35,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/p83apwr2","slide":31,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/25srehsr","slide":31,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/361snm9c","slide":31,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/cbu9krat","slide":31,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/dc3atwre","slide":31,"text":"Ingest","textPreview":"Ingest","textChars":6,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/q9crihsn","slide":31,"text":"Capture the source and its provenance.","textPreview":"Capture the source and its provenance.","textChars":38,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/ralsrm98","slide":31,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/sfq987ap","slide":31,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/tgjqhcra","slide":31,"text":"Synthesize","textPreview":"Synthesize","textChars":10,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/9wb6lojy","slide":31,"text":"Extract concepts, claims, and open questions.","textPreview":"Extract concepts, claims, and open questions.","textChars":45,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/8vipcj2d","slide":31,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/na9ojy1s","slide":31,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/m907atk7","slide":31,"text":"Transform","textPreview":"Transform","textChars":9,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/x0bqp8ju","slide":31,"text":"Adapt for research, teaching, or community use.","textPreview":"Adapt for research, teaching, or community use.","textChars":47,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/wz2pg329","slide":31,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/vyt8ny14","slide":31,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/axk7etkj","slide":31,"text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/54vqt8j6","slide":31,"text":"Apply domain, privacy, and release checks.","textPreview":"Apply domain, privacy, and release checks.","textChars":42,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/jhjayn","slide":31,"text":"This is a workflow hypothesis, not a proven one-click MVP capability. The important word is reviewed: reuse should preserve provenance and responsibility.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/syntheses/afk-research-presentation-to-mvp-gap.md"}
+{"kind":"slide","id":"sl/omhpuc","slide":32,"title":"32","textShapes":9}
+{"kind":"shape","id":"sh/a507mh03","slide":32,"name":"metadata-rail-32","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/x8r6xcze","slide":32,"text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/c7ipori9","slide":32,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/nipor2hc","slide":32,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/2hg7ix0r","slide":32,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/p476tczi","slide":32,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/o3ypk7ix","slide":32,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/7yt836hw","slide":32,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/mdk7u10b","slide":32,"name":"anchor-block-32","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/cjq9sjq1","slide":32,"name":"slide-title","text":"Research workspace: evidence before output","textPreview":"Research workspace: evidence before output","textChars":42,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/xkja1orm","slide":32,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/ah8rqt8v","slide":32,"text":"RAW","textPreview":"RAW","textChars":3,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/bihszy9g","slide":32,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/ovq9ojq5","slide":32,"text":"Immutable captures and provenance records.","textPreview":"Immutable captures and provenance records.","textChars":42,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/pwzaxorq","slide":32,"text":"WIKI","textPreview":"WIKI","textChars":4,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/2t8rm98z","slide":32,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/nuhsve9k","slide":32,"text":"Maintained concepts, claims, questions, and syntheses.","textPreview":"Maintained concepts, claims, questions, and syntheses.","textChars":54,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/0r69kzqt","slide":32,"text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/1sfat4re","slide":32,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/ho7qh0j2","slide":32,"text":"Drafts and artifacts that link back to evidence.","textPreview":"Drafts and artifacts that link back to evidence.","textChars":48,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/omhpuc","slide":32,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md"}
+{"kind":"slide","id":"sl/el5beb","slide":33,"title":"33","textShapes":9}
+{"kind":"shape","id":"sh/pwzilszy","slide":33,"name":"metadata-rail-33","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/2tozqdgn","slide":33,"text":"33","textPreview":"33","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/nux0jih8","slide":33,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/cjqhw7yp","slide":33,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/xkzipsza","slide":33,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/ah8zuxgj","slide":33,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/bih0n2h4","slide":33,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/knah07yl","slide":33,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/lojitcz6","slide":33,"name":"anchor-block-33","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/9sfud436","slide":33,"name":"slide-title","text":"Education workspace: repeatable preparation","textPreview":"Education workspace: repeatable preparation","textChars":43,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/8r6tkz2l","slide":33,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/7qxcbelg","slide":33,"text":"DESIGN","textPreview":"DESIGN","textChars":6,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/m5obi9kv","slide":33,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/hwzuhoji","slide":33,"text":"Start from learning outcomes, misconceptions, and authentic tasks.","textPreview":"Start from learning outcomes, misconceptions, and authentic tasks.","textChars":66,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/wvqtoj2x","slide":33,"text":"PRODUCE","textPreview":"PRODUCE","textChars":7,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/vuhcfe1c","slide":33,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/ut8bm9kr","slide":33,"text":"Generate examples, slides, activities, rubrics, and feedback drafts.","textPreview":"Generate examples, slides, activities, rubrics, and feedback drafts.","textChars":68,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/x0va5k3y","slide":33,"text":"REVIEW","textPreview":"REVIEW","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/czmtcf2t","slide":33,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/ojqtsza9","slide":33,"text":"Check pedagogy, accessibility, integrity, and student data handling.","textPreview":"Check pedagogy, accessibility, integrity, and student data handling.","textChars":68,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/el5beb","slide":33,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n- https://www.oecd.org/en/publications/policies-supporting-responsible-and-systematic-genai-adoption-in-higher-education_c4e5621f-en.html\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md"}
+{"kind":"slide","id":"sl/e1m8dy","slide":34,"title":"34","textShapes":9}
+{"kind":"shape","id":"sh/al0f6lgz","slide":34,"name":"metadata-rail-34","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/xoreh0fq","slide":34,"text":"34","textPreview":"34","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/wnix8ve5","slide":34,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/jq9wjaxg","slide":34,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/yp0fa5wv","slide":34,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/lsbelkfm","slide":34,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/kr2xcfe1","slide":34,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/7utwnaxs","slide":34,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/6tkfe5w7","slide":34,"name":"anchor-block-34","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/83mdo7i5","slide":34,"name":"slide-title","text":"Community workspace: translate with context","textPreview":"Community workspace: translate with context","textChars":43,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/94vehcja","slide":34,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/m1kvmx0z","slide":34,"text":"CONTEXT","textPreview":"CONTEXT","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/n2dwf21k","slide":34,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/w7mds7i1","slide":34,"text":"Identify community goals, language, constraints, and consent.","textPreview":"Identify community goals, language, constraints, and consent.","textChars":61,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/h8velczm","slide":34,"text":"FORMAT","textPreview":"FORMAT","textChars":6,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/a54vqh0v","slide":34,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/v6dwj21g","slide":34,"text":"Choose accessible media, visual conventions, and distribution channels.","textPreview":"Choose accessible media, visual conventions, and distribution channels.","textChars":71,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/4v6xwrix","slide":34,"text":"FEEDBACK","textPreview":"FEEDBACK","textChars":8,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/5wfepwzi","slide":34,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/dsbe9wrm","slide":34,"text":"Record questions and outcomes as new evidence for the project.","textPreview":"Record questions and outcomes as new evidence for the project.","textChars":62,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/e1m8dy","slide":34,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/human-in-the-loop-academic-agent.md"}
+{"kind":"slide","id":"sl/bmq0q4","slide":35,"title":"35","textShapes":9}
+{"kind":"shape","id":"sh/pcby9oz2","slide":35,"name":"metadata-rail-35","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/290fy90r","slide":35,"text":"35","textPreview":"35","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/3a9g7ehc","slide":35,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/cf2h4jit","slide":35,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/dgbydoze","slide":35,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/qdkf2t0n","slide":35,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/retgbeh8","slide":35,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/0jmh83i5","slide":35,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/l4vyh8za","slide":35,"name":"anchor-block-35","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/9oni1kve","slide":35,"name":"slide-title","text":"GitHub becomes the coordination backbone","textPreview":"GitHub becomes the coordination backbone","textChars":40,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/one18fut","slide":35,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/nm50zad8","slide":35,"text":"ISSUES","textPreview":"ISSUES","textChars":6,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/m1wj65c3","slide":35,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/xs7i5kbq","slide":35,"text":"Turn goals and open questions into visible, assignable work.","textPreview":"Turn goals and open questions into visible, assignable work.","textChars":60,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/wry1cfu5","slide":35,"text":"COMMITS","textPreview":"COMMITS","textChars":7,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/bqp03adk","slide":35,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/apgja5cz","slide":35,"text":"Preserve incremental changes and the reasoning attached to them.","textPreview":"Preserve incremental changes and the reasoning attached to them.","textChars":64,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/dw3it0v6","slide":35,"text":"REVIEWS","textPreview":"REVIEWS","textChars":7,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/cvuh0vul","slide":35,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/4fy1gv2h","slide":35,"text":"Create explicit checkpoints before sensitive changes or releases.","textPreview":"Create explicit checkpoints before sensitive changes or releases.","textChars":65,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/bmq0q4","slide":35,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md"}
+{"kind":"slide","id":"sl/k0j7am","slide":36,"title":"36","textShapes":9}
+{"kind":"shape","id":"sh/87y9cnm5","slide":36,"name":"metadata-rail-36","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/76p83ilk","slide":36,"text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/6lgrax4z","slide":36,"text":"ACADEMIC DESIGN","textPreview":"ACADEMIC DESIGN","textChars":15,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/hcra9c3m","slide":36,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/gbi9g7mh","slide":36,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/va9s72lw","slide":36,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/u90rex4b","slide":36,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/xgnqx83i","slide":36,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/wfe943mx","slide":36,"name":"anchor-block-36","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/i18fi5or","slide":36,"name":"slide-title","text":"Separate private work from public release","textPreview":"Separate private work from public release","textChars":41,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/j2hgrapw","slide":36,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/43axkf6h","slide":36,"text":"PRIVATE SOURCE","textPreview":"PRIVATE SOURCE","textChars":14,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/54jyt072","slide":36,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/65sfm5on","slide":36,"text":"Raw data, student information, internal notes, unpublished research, and full history.","textPreview":"Raw data, student information, internal notes, unpublished research, and full history.","textChars":86,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/r61gvap8","slide":36,"text":"REVIEWED EXPORT","textPreview":"REVIEWED EXPORT","textChars":15,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/s7axof6t","slide":36,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/t8jyxk7e","slide":36,"text":"Only selected files, checked for rights, privacy, accuracy, and context.","textPreview":"Only selected files, checked for rights, privacy, accuracy, and context.","textChars":72,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/e9sfqpoj","slide":36,"text":"PUBLIC RELEASE","textPreview":"PUBLIC RELEASE","textChars":14,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/fa1gzup4","slide":36,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/bylwnu5c","slide":36,"text":"Separate history and explicit human approval for each publication.","textPreview":"Separate history and explicit human approval for each publication.","textChars":66,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/k0j7am","slide":36,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/human-in-the-loop-academic-agent.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/syntheses/afk-research-presentation-to-mvp-gap.md\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research"}
+{"kind":"slide","id":"sl/ea4m2j","slide":37,"title":"04","textShapes":4}
+{"kind":"shape","id":"sh/tsry9g3e","slide":37,"bbox":[0,0,390,720]}
+{"kind":"shape","id":"sh/6p0fy1kn","slide":37,"bbox":[390,0,850,720]}
+{"kind":"shape","id":"sh/7q9g76l8","slide":37,"bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/gf2x4b2p","slide":37,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[80,92,250,180]}
+{"kind":"textbox","id":"sh/hgbydg3a","slide":37,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[460,180,700,160]}
+{"kind":"textbox","id":"sh/utkf2lkz","slide":37,"text":"Build the workspace carefully—and separate the MVP from the vision.","textPreview":"Build the workspace carefully—and separate the MVP from the vision.","textChars":67,"textLines":1,"bbox":[464,374,650,110]}
+{"kind":"textbox","id":"sh/futgbqlk","slide":37,"text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"notes","id":"nt/ea4m2j","slide":37,"text":"Use this divider to reset the room. Build the workspace carefully—and separate the MVP from the vision.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/syntheses/afk-research-presentation-to-mvp-gap.md"}
+{"kind":"slide","id":"sl/cdxisa","slide":38,"title":"38","textShapes":9}
+{"kind":"shape","id":"sh/q1cnux87","slide":38,"name":"metadata-rail-38","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/d4n65c7i","slide":38,"text":"38","textPreview":"38","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/c3e5w7qx","slide":38,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/3yl4zipg","slide":38,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/2xcnqx8v","slide":38,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/p0361s7m","slide":38,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/4zu5snq1","slide":38,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/fu14vipk","slide":38,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/utsnmd8z","slide":38,"name":"anchor-block-38","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/83mtoje1","slide":38,"name":"slide-title","text":"AFK Research: what exists today","textPreview":"AFK Research: what exists today","textChars":31,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/94vuxofm","slide":38,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/m14bm9wv","slide":38,"text":"IMPLEMENTED","textPreview":"IMPLEMENTED","textChars":11,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/n2dcvexg","slide":38,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/0z2tkzep","slide":38,"text":"A private GitHub-hosted setup CLI, workspace scaffolding, bundled skills, managed updates, and Schedule Runner infrastructure.","textPreview":"A private GitHub-hosted setup CLI, workspace scaffolding, bundled skills, managed updates, and Schedule Runner infrastructure.","textChars":126,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/l0vut4fa","slide":38,"text":"COMPOSED","textPreview":"COMPOSED","textChars":8,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/yxkbi9wz","slide":38,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/zytcrux4","slide":38,"text":"Research ingestion, presentations, design, and scheduled prompts can be assembled through installed skills and tools.","textPreview":"Research ingestion, presentations, design, and scheduled prompts can be assembled through installed skills and tools.","textChars":117,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/4v6dw3e9","slide":38,"text":"VISION","textPreview":"VISION","textChars":6,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/5wfu58fe","slide":38,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/dcbup8ny","slide":38,"text":"One-command Tri Dharma transformation, automatic grading, and automatic public portfolio updates remain unverified.","textPreview":"One-command Tri Dharma transformation, automatic grading, and automatic public portfolio updates remain unverified.","textChars":115,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/cdxisa","slide":38,"text":"Anchor this slide to snapshot commit 6c76a25. The deck distinguishes repository evidence from the broader product narrative.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/syntheses/afk-research-presentation-to-mvp-gap.md"}
+{"kind":"slide","id":"sl/d53db4","slide":39,"title":"39","textShapes":18}
+{"kind":"shape","id":"sh/cj6xsbm9","slide":39,"name":"metadata-rail-39","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/rixwj6lo","slide":39,"text":"39","textPreview":"39","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/qhofq143","slide":39,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/pgfehg3i","slide":39,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/4f6xobmx","slide":39,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/3edwf6ls","slide":39,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/2d4fm147","slide":39,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/hcvedw3m","slide":39,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/gbmxkrm1","slide":39,"name":"anchor-block-39","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/610j6tcb","slide":39,"name":"slide-title","text":"The implemented architecture is layered","textPreview":"The implemented architecture is layered","textChars":39,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/72tkfytg","slide":39,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/s32183a1","slide":39,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/t4b2h8bm","slide":39,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/ix0j2tcz","slide":39,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/jy90bytk","slide":39,"text":"Project","textPreview":"Project","textChars":7,"textLines":1,"bbox":[104,360,180,58]}
+{"kind":"textbox","id":"sh/kzi143u5","slide":39,"text":"An existing GitHub-backed worktree.","textPreview":"An existing GitHub-backed worktree.","textChars":35,"textLines":1,"bbox":[104,422,176,110]}
+{"kind":"shape","id":"sh/50rid8bq","slide":39,"bbox":[310,288,42,42]}
+{"kind":"textbox","id":"sh/atgjy9c3","slide":39,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[310,292,42,28]}
+{"kind":"textbox","id":"sh/vup07eto","slide":39,"text":"Installer","textPreview":"Installer","textChars":9,"textLines":1,"bbox":[308,360,180,58]}
+{"kind":"textbox","id":"sh/ze5gza9g","slide":39,"text":"CLI verifies, plans, applies, and checks setup.","textPreview":"CLI verifies, plans, applies, and checks setup.","textChars":47,"textLines":1,"bbox":[308,422,176,110]}
+{"kind":"shape","id":"sh/ydwf6psv","slide":39,"bbox":[514,288,42,42]}
+{"kind":"textbox","id":"sh/l0ny1kr6","slide":39,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[514,292,42,28]}
+{"kind":"textbox","id":"sh/0zeh8fal","slide":39,"text":"Workspaces","textPreview":"Workspaces","textChars":10,"textLines":1,"bbox":[512,360,180,58]}
+{"kind":"textbox","id":"sh/n25g3u9c","slide":39,"text":".brain plus optional .design and .schedule.","textPreview":".brain plus optional .design and .schedule.","textChars":43,"textLines":1,"bbox":[512,422,176,110]}
+{"kind":"shape","id":"sh/m1wzapsr","slide":39,"bbox":[718,288,42,42]}
+{"kind":"textbox","id":"sh/947y54ri","slide":39,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[718,292,42,28]}
+{"kind":"textbox","id":"sh/83yhczax","slide":39,"text":"Skills","textPreview":"Skills","textChars":6,"textLines":1,"bbox":[716,360,180,58]}
+{"kind":"textbox","id":"sh/36lgrq98","slide":39,"text":"Reusable workflows for agents to follow.","textPreview":"Reusable workflows for agents to follow.","textChars":40,"textLines":1,"bbox":[716,422,176,110]}
+{"kind":"shape","id":"sh/25cfy5sn","slide":39,"bbox":[922,288,42,42]}
+{"kind":"textbox","id":"sh/sbqd8rq5","slide":39,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[922,292,42,28]}
+{"kind":"textbox","id":"sh/tcje1w7q","slide":39,"text":"History","textPreview":"History","textChars":7,"textLines":1,"bbox":[920,360,180,58]}
+{"kind":"textbox","id":"sh/6p8v618f","slide":39,"text":"Issues, commits, manifests, and logs.","textPreview":"Issues, commits, manifests, and logs.","textChars":37,"textLines":1,"bbox":[920,422,176,110]}
+{"kind":"notes","id":"nt/d53db4","slide":39,"text":"Walk left to right; emphasize that the loop repeats after feedback.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/raw/2026-07-27_afk-research-mvp/README.md"}
+{"kind":"slide","id":"sl/58zz1v","slide":40,"title":"40","textShapes":9}
+{"kind":"shape","id":"sh/w369g7ut","slide":40,"name":"metadata-rail-40","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/b2xsn2d8","slide":40,"text":"40","textPreview":"40","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/a1orehcn","slide":40,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/lszatwba","slide":40,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/krq9krup","slide":40,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/jqhsrmd4","slide":40,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/y58rihcj","slide":40,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/twjaxwb6","slide":40,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/8vqtoru1","slide":40,"name":"anchor-block-40","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/adg7atkf","slide":40,"name":"slide-title","text":"Start with verifiable prerequisites","textPreview":"Start with verifiable prerequisites","textChars":35,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/bepo3y10","slide":40,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/wfipc325","slide":40,"text":"RUNTIME","textPreview":"RUNTIME","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/xgr65ojq","slide":40,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/yh07etkb","slide":40,"text":"Node.js 18.18 or newer and npm.","textPreview":"Node.js 18.18 or newer and npm.","textChars":31,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/ji9o7y1w","slide":40,"text":"REPOSITORY","textPreview":"REPOSITORY","textChars":10,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/k3ipg32h","slide":40,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/l4r698j2","slide":40,"text":"An existing Git worktree with a reachable GitHub origin.","textPreview":"An existing Git worktree with a reachable GitHub origin.","textChars":56,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/elwn29k7","slide":40,"text":"CHOICES","textPreview":"CHOICES","textChars":7,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/zm5ovels","slide":40,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/3ql43a1k","slide":40,"text":"Decide whether the project needs Design, Schedule, Claude Code, or Sandcastle support.","textPreview":"Decide whether the project needs Design, Schedule, Claude Code, or Sandcastle support.","textChars":86,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/58zz1v","slide":40,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/raw/2026-07-27_afk-research-mvp/README.md"}
+{"kind":"slide","id":"sl/hq91vg","slide":41,"title":"41","textShapes":10}
+{"kind":"shape","id":"sh/wjmtcnup","slide":41,"name":"metadata-rail-41","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/bidsjid4","slide":41,"text":"41","textPreview":"41","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/ahkbadcj","slide":41,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/9gbahsvy","slide":41,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/of2t8nud","slide":41,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/netsfids","slide":41,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/mdkb6dc7","slide":41,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/tcfutcv2","slide":41,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/8b6tk7uh","slide":41,"name":"anchor-block-41","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/29g7atgb","slide":41,"name":"slide-title","text":"Preview before applying setup","textPreview":"Preview before applying setup","textChars":29,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/3apojyhw","slide":41,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/ovypcjyh","slide":41,"bbox":[96,216,686,374]}
+{"kind":"textbox","id":"sh/pw76loz2","slide":41,"text":"# 1. Preview\nnpx --yes --package github:ORG/AFK-RESEARCH-REPO \\\n  afk-research init --dry-run --yes\n\n# 2. Apply after review\nnpx --yes --package github:ORG/AFK-RESEARCH-REPO \\\n  afk-research init --design --schedule","textPreview":"# 1. Preview | npx --yes --package github:ORG/AFK-RESEARCH-REPO \\ |   afk-research init --dry-run --yes |  | # 2. Apply after review | np...","textChars":215,"textLines":7,"bbox":[126,246,626,316]}
+{"kind":"textbox","id":"sh/u5wn69gf","slide":41,"text":"VERIFY","textPreview":"VERIFY","textChars":6,"textLines":1,"bbox":[834,232,320,38]}
+{"kind":"textbox","id":"sh/f6pofeh0","slide":41,"text":"The target project and GitHub remote must already exist.","textPreview":"The target project and GitHub remote must already exist.","textChars":56,"textLines":1,"bbox":[834,270,320,64]}
+{"kind":"textbox","id":"sh/g7y58jy5","slide":41,"text":"PREVIEW","textPreview":"PREVIEW","textChars":7,"textLines":1,"bbox":[834,344,320,38]}
+{"kind":"textbox","id":"sh/h876hozq","slide":41,"text":"Dry run shows planned files and dependencies without writing.","textPreview":"Dry run shows planned files and dependencies without writing.","textChars":61,"textLines":1,"bbox":[834,382,320,64]}
+{"kind":"textbox","id":"sh/y107idgj","slide":41,"text":"CHOOSE","textPreview":"CHOOSE","textChars":6,"textLines":1,"bbox":[834,456,320,38]}
+{"kind":"textbox","id":"sh/z29orix4","slide":41,"text":"Optional workspaces are explicit setup decisions.","textPreview":"Optional workspaces are explicit setup decisions.","textChars":49,"textLines":1,"bbox":[834,494,320,64]}
+{"kind":"notes","id":"nt/hq91vg","slide":41,"text":"Read the command as a safety workflow, not as a magic incantation. Preview, verify, choose features, then apply.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/raw/2026-07-27_afk-research-mvp/README.md"}
+{"kind":"slide","id":"sl/t14sjq","slide":42,"title":"42","textShapes":9}
+{"kind":"shape","id":"sh/vi9c3ytk","slide":42,"name":"metadata-rail-42","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/wjidw3u5","slide":42,"text":"42","textPreview":"42","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/x4ru58bq","slide":42,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/i50vydsb","slide":42,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/j69c7ytw","slide":42,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/k72d03ah","slide":42,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/58bu98b2","slide":42,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/y9gbm9c7","slide":42,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/zapcvetc","slide":42,"name":"anchor-block-42","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/fqh0fep0","slide":42,"name":"slide-title","text":"The workspace has a readable anatomy","textPreview":"The workspace has a readable anatomy","textChars":36,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/e58jm98f","slide":42,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/1sziho76","slide":42,"text":".BRAIN/","textPreview":".BRAIN/","textChars":7,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/grq1ojql","slide":42,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/r2x0bep4","slide":42,"text":"Raw provenance, maintained wiki knowledge, indexes, logs, and durable outputs.","textPreview":"Raw provenance, maintained wiki knowledge, indexes, logs, and durable outputs.","textChars":78,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/61oji98j","slide":42,"text":".DESIGN/","textPreview":".DESIGN/","textChars":8,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/t4fido7u","slide":42,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/s361kjq9","slide":42,"text":"Named Design Systems with DESIGN.md, tokens, templates, and examples.","textPreview":"Named Design Systems with DESIGN.md, tokens, templates, and examples.","textChars":69,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/jyx07u9s","slide":42,"text":".SCHEDULE/","textPreview":".SCHEDULE/","textChars":10,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/ix4jep87","slide":42,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/mt4jqpsf","slide":42,"text":"Task Prompts, runner guidance, and machine-local operational state.","textPreview":"Task Prompts, runner guidance, and machine-local operational state.","textChars":67,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/t14sjq","slide":42,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/raw/2026-07-27_afk-research-mvp/README.md"}
+{"kind":"slide","id":"sl/iuq3tl","slide":43,"title":"43","textShapes":15}
+{"kind":"shape","id":"sh/07m9wnml","slide":43,"name":"metadata-rail-43","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/z6d83il0","slide":43,"text":"43","textPreview":"43","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/y5krud4f","slide":43,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/9wvq9s32","slide":43,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/8vm907mh","slide":43,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/nad872lc","slide":43,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/m94ryx4r","slide":43,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/p0bqx83y","slide":43,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/4z2po3md","slide":43,"name":"anchor-block-43","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/yhcj6p4r","slide":43,"name":"slide-title","text":"Implement a research workflow","textPreview":"Implement a research workflow","textChars":29,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/zilkfulc","slide":43,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/0jul8z2h","slide":43,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/lk32h432","slide":43,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/m5c3a9kn","slide":43,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/n6lkjul8","slide":43,"text":"Capture","textPreview":"Capture","textChars":7,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/87ulcz2t","slide":43,"text":"Save the source and provenance without rewriting it.","textPreview":"Save the source and provenance without rewriting it.","textChars":52,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/98n2l43e","slide":43,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/a9w3e9kz","slide":43,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/va5knel4","slide":43,"text":"Extract","textPreview":"Extract","textChars":7,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/7e5kve1c","slide":43,"text":"Create source notes, concepts, claims, and questions.","textPreview":"Create source notes, concepts, claims, and questions.","textChars":53,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/6dwj290r","slide":43,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/tg72xoji","slide":43,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/sfy14jix","slide":43,"text":"Query","textPreview":"Query","textChars":5,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/ja50re1g","slide":43,"text":"Answer from maintained knowledge with precise citations.","textPreview":"Answer from maintained knowledge with precise citations.","textChars":56,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/i9wjy90v","slide":43,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/5cn2t4jm","slide":43,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/kbe10zi1","slide":43,"text":"Validate","textPreview":"Validate","textChars":8,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/vml0nu14","slide":43,"text":"Inspect original evidence before making consequential claims.","textPreview":"Inspect original evidence before making consequential claims.","textChars":61,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/iuq3tl","slide":43,"text":"Walk left to right; emphasize that the loop repeats after feedback.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/agentic-academic-workspace.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md"}
+{"kind":"slide","id":"sl/jhhfy9","slide":44,"title":"44","textShapes":15}
+{"kind":"shape","id":"sh/wbypgja9","slide":44,"name":"metadata-rail-44","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/bap8nyto","slide":44,"text":"44","textPreview":"44","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/a9g7ets3","slide":44,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/5grqt8bq","slide":44,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/kfipk3al","slide":44,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/je98ryt0","slide":44,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/yd07itsf","slide":44,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/1k7qh4bm","slide":44,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/0jep8zu1","slide":44,"name":"anchor-block-44","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/65w76tg3","slide":44,"name":"slide-title","text":"Implement a teaching workflow","textPreview":"Implement a teaching workflow","textChars":29,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/7658fyho","slide":44,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/87ep83y9","slide":44,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/t8nq18zu","slide":44,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/u9w7adgf","slide":44,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/va583ih0","slide":44,"text":"Define","textPreview":"Define","textChars":6,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/gbe9cnyl","slide":44,"text":"Set learning outcomes and audience assumptions.","textPreview":"Set learning outcomes and audience assumptions.","textChars":47,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/hc7q5sz6","slide":44,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/idgredgb","slide":44,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/3yp87ihw","slide":44,"text":"Retrieve","textPreview":"Retrieve","textChars":8,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/f2povid4","slide":44,"text":"Bring relevant evidence and prior decisions into context.","textPreview":"Bring relevant evidence and prior decisions into context.","textChars":57,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/e1g72xwj","slide":44,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/14rqxsva","slide":44,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/03ip4nep","slide":44,"text":"Generate","textPreview":"Generate","textChars":8,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/reporid8","slide":44,"text":"Create lecture materials, examples, activities, and notes.","textPreview":"Create lecture materials, examples, activities, and notes.","textChars":58,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/qdg7ydwn","slide":44,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/d076tsvy","slide":44,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/sfyp0ned","slide":44,"text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/3a5onydw","slide":44,"text":"Check accuracy, pedagogy, accessibility, and integrity.","textPreview":"Check accuracy, pedagogy, accessibility, and integrity.","textChars":55,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/jhhfy9","slide":44,"text":"Walk left to right; emphasize that the loop repeats after feedback.\n\n[Sources]\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n- https://www.oecd.org/en/publications/policies-supporting-responsible-and-systematic-genai-adoption-in-higher-education_c4e5621f-en.html\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md"}
+{"kind":"slide","id":"sl/s9kddr","slide":45,"title":"45","textShapes":15}
+{"kind":"shape","id":"sh/1cra9cry","slide":45,"name":"metadata-rail-45","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/epgryh87","slide":45,"text":"45","textPreview":"45","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/za9s7m9s","slide":45,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/cny9w7q1","slide":45,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/do7a5crm","slide":45,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/qlgrux8b","slide":45,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/rmp8329g","slide":45,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/4jy9s7q5","slide":45,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/pk7q1srq","slide":45,"name":"anchor-block-45","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/5w3ipwzq","slide":45,"name":"slide-title","text":"Implement a community workflow","textPreview":"Implement a community workflow","textChars":30,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/4vu1wbi5","slide":45,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/3ul0n6hk","slide":45,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/itczu10f","slide":45,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/hs3ilwzu","slide":45,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/gruhsri9","slide":45,"text":"Listen","textPreview":"Listen","textChars":6,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/v6l0jmho","slide":45,"text":"Record community needs, language, and constraints.","textPreview":"Record community needs, language, and constraints.","textChars":50,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/u5czqh03","slide":45,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/t4jihczi","slide":45,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/83ahorix","slide":45,"text":"Adapt","textPreview":"Adapt","textChars":5,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/k7e14rqt","slide":45,"text":"Translate expertise into appropriate formats.","textPreview":"Translate expertise into appropriate formats.","textChars":45,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/l8nixw7e","slide":45,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/ylwj2h83","slide":45,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/z650vmp8","slide":45,"text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/cjeh07qx","slide":45,"text":"Check consent, rights, privacy, and local relevance.","textPreview":"Check consent, rights, privacy, and local relevance.","textChars":52,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/xknitc7i","slide":45,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/ahczyx8r","slide":45,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/bil0r2pc","slide":45,"text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/wfy1cbq1","slide":45,"text":"Capture feedback as evidence for the next iteration.","textPreview":"Capture feedback as evidence for the next iteration.","textChars":52,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/s9kddr","slide":45,"text":"Walk left to right; emphasize that the loop repeats after feedback.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/human-in-the-loop-academic-agent.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/tri-dharma-workspace-architecture.md"}
+{"kind":"slide","id":"sl/vckat6","slide":46,"title":"46","textShapes":9}
+{"kind":"shape","id":"sh/tcnytcv2","slide":46,"name":"metadata-rail-46","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/69wfyxwr","slide":46,"text":"46","textPreview":"46","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/ra5wr2dc","slide":46,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/47uxwnel","slide":46,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/58nepsv6","slide":46,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/i5cfudwf","slide":46,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/j6lwnid0","slide":46,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/wjuxsnep","slide":46,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/x43elsvu","slide":46,"name":"anchor-block-46","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/tgja58zq","slide":46,"name":"slide-title","text":"Schedule recurring work, not judgment","textPreview":"Schedule recurring work, not judgment","textChars":37,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/sfatc3y5","slide":46,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/re1s3yh0","slide":46,"text":"GOOD CANDIDATES","textPreview":"GOOD CANDIDATES","textChars":15,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/6dsbatgf","slide":46,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/5cja1ozu","slide":46,"text":"Status checks, inbox triage, reminders, source monitoring, and draft preparation.","textPreview":"Status checks, inbox triage, reminders, source monitoring, and draft preparation.","textChars":81,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/4bat8jy9","slide":46,"text":"REQUIRE REVIEW","textPreview":"REQUIRE REVIEW","textChars":14,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/jahszeho","slide":46,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/i98b69g3","slide":46,"text":"Grades, student feedback, research conclusions, external messages, and publication.","textPreview":"Grades, student feedback, research conclusions, external messages, and publication.","textChars":83,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/h8zaxozi","slide":46,"text":"RUNNER CONTROLS","textPreview":"RUNNER CONTROLS","textChars":15,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/wnq94jid","slide":46,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/83e103u5","slide":46,"text":"Readiness checks, explicit start/stop, logs, wake handling, and task-level prompts.","textPreview":"Readiness checks, explicit start/stop, logs, wake handling, and task-level prompts.","textChars":83,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/vckat6","slide":46,"text":"Compare the 3 parts as one system.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/raw/2026-07-27_afk-research-mvp/README.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/human-in-the-loop-academic-agent.md"}
+{"kind":"slide","id":"sl/oabe3m","slide":47,"title":"47","textShapes":15}
+{"kind":"shape","id":"sh/9w3ipkva","slide":47,"name":"metadata-rail-47","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/m9sju5wj","slide":47,"text":"47","textPreview":"47","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/na10nad4","slide":47,"text":"IMPLEMENTATION","textPreview":"IMPLEMENTATION","textChars":14,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/wzu10fel","slide":47,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/x03itkv6","slide":47,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/axcjypwv","slide":47,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/byl0radg","slide":47,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/k3e14zex","slide":47,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/l4n2x4vi","slide":47,"name":"anchor-block-47","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/xcz2l4zu","slide":47,"name":"slide-title","text":"Managed updates preserve project ownership","textPreview":"Managed updates preserve project ownership","textChars":42,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/wbqlszi9","slide":47,"bbox":[96,146,160,4]}
+{"kind":"shape","id":"sh/vahkjuh4","slide":47,"bbox":[104,308,1020,3]}
+{"kind":"shape","id":"sh/a983qp0j","slide":47,"bbox":[106,288,42,42]}
+{"kind":"textbox","id":"sh/50jmpoz6","slide":47,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[106,292,42,28]}
+{"kind":"textbox","id":"sh/kfalwjil","slide":47,"text":"Compare","textPreview":"Compare","textChars":7,"textLines":1,"bbox":[104,360,231,58]}
+{"kind":"textbox","id":"sh/je14neh0","slide":47,"text":"Read intended managed files and current hashes.","textPreview":"Read intended managed files and current hashes.","textChars":47,"textLines":1,"bbox":[104,422,227,110]}
+{"kind":"shape","id":"sh/ids3u90f","slide":47,"bbox":[361,288,42,42]}
+{"kind":"textbox","id":"sh/l4f2dkzm","slide":47,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[361,292,42,28]}
+{"kind":"textbox","id":"sh/0j6lkfih","slide":47,"text":"Update","textPreview":"Update","textChars":6,"textLines":1,"bbox":[359,360,231,58]}
+{"kind":"textbox","id":"sh/cnal0fqx","slide":47,"text":"Replace only unchanged installer-owned files.","textPreview":"Replace only unchanged installer-owned files.","textChars":45,"textLines":1,"bbox":[359,422,227,110]}
+{"kind":"shape","id":"sh/dojmtkri","slide":47,"bbox":[616,288,42,42]}
+{"kind":"textbox","id":"sh/qls3yp87","slide":47,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[616,292,42,28]}
+{"kind":"textbox","id":"sh/rm1kra9s","slide":47,"text":"Preserve","textPreview":"Preserve","textChars":8,"textLines":1,"bbox":[614,360,231,58]}
+{"kind":"textbox","id":"sh/0rul4zq9","slide":47,"text":"Keep user-edited files and unknown local skills.","textPreview":"Keep user-edited files and unknown local skills.","textChars":48,"textLines":1,"bbox":[614,422,227,110]}
+{"kind":"shape","id":"sh/1s3mx47u","slide":47,"bbox":[871,288,42,42]}
+{"kind":"textbox","id":"sh/eps32p83","slide":47,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[871,292,42,28]}
+{"kind":"textbox","id":"sh/zq14vu9o","slide":47,"text":"Sidecar","textPreview":"Sidecar","textChars":7,"textLines":1,"bbox":[869,360,231,58]}
+{"kind":"textbox","id":"sh/oful8zq5","slide":47,"text":"Write the new generated alternative beside conflicts.","textPreview":"Write the new generated alternative beside conflicts.","textChars":53,"textLines":1,"bbox":[869,422,227,110]}
+{"kind":"notes","id":"nt/oabe3m","slide":47,"text":"This is the strongest concrete example of human ownership in the MVP: the setup does not silently overwrite project-authored edits.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/managed-file-reconciliation.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md"}
+{"kind":"slide","id":"sl/q7mohh","slide":48,"title":"48","textShapes":9}
+{"kind":"shape","id":"sh/etgnq10z","slide":48,"name":"metadata-rail-48","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/1w7m1wzq","slide":48,"text":"48","textPreview":"48","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/gvy5sri5","slide":48,"text":"ADOPTION","textPreview":"ADOPTION","textChars":8,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/rq54vmh8","slide":48,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/6pwnmh03","slide":48,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/ts7mxwze","slide":48,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/sre5orit","slide":48,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/jm54r2hc","slide":48,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/i1w3ih0r","slide":48,"name":"anchor-block-48","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/sna1srel","slide":48,"name":"slide-title","text":"A 30-day adoption path","textPreview":"A 30-day adoption path","textChars":22,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/doji1wf6","slide":48,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/6l8jqhwv","slide":48,"text":"WEEK 1 · BASELINE","textPreview":"WEEK 1 · BASELINE","textChars":17,"textLines":1,"bbox":[96,220,336,44]}
+{"kind":"shape","id":"sh/rm10zmx0","slide":48,"bbox":[96,274,336,2]}
+{"kind":"textbox","id":"sh/4jq1o7ep","slide":48,"text":"Choose one low-risk workflow and define evidence, owner, and success criteria.","textPreview":"Choose one low-risk workflow and define evidence, owner, and success criteria.","textChars":78,"textLines":1,"bbox":[96,304,336,250]}
+{"kind":"textbox","id":"sh/5kzixcfa","slide":48,"text":"WEEK 2 · PROTOTYPE","textPreview":"WEEK 2 · PROTOTYPE","textChars":18,"textLines":1,"bbox":[468,220,336,44]}
+{"kind":"shape","id":"sh/ih8jmxwj","slide":48,"bbox":[468,274,336,2]}
+{"kind":"textbox","id":"sh/jih0v2x4","slide":48,"text":"Create the workspace, run manually, and record every failure.","textPreview":"Create the workspace, run manually, and record every failure.","textChars":61,"textLines":1,"bbox":[468,304,336,250]}
+{"kind":"textbox","id":"sh/ofu10bet","slide":48,"text":"WEEK 3–4 · GOVERN","textPreview":"WEEK 3–4 · GOVERN","textChars":17,"textLines":1,"bbox":[840,220,336,44]}
+{"kind":"shape","id":"sh/pg329gfe","slide":48,"bbox":[840,274,336,2]}
+{"kind":"textbox","id":"sh/xwzidwni","slide":48,"text":"Add review gates, evaluate outputs, then automate only stable preparation steps.","textPreview":"Add review gates, evaluate outputs, then automate only stable preparation steps.","textChars":80,"textLines":1,"bbox":[840,304,336,250]}
+{"kind":"notes","id":"nt/q7mohh","slide":48,"text":"The adoption principle is deliberately conservative: prove a bounded workflow before increasing autonomy or connecting external write actions.\n\n[Sources]\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research"}
+{"kind":"slide","id":"sl/45z90w","slide":49,"title":"49","textShapes":19}
+{"kind":"shape","id":"sh/3m58z21w","slide":49,"name":"metadata-rail-49","bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/4ne9s7ih","slide":49,"text":"49","textPreview":"49","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"textbox","id":"sh/5o7q1cj2","slide":49,"text":"REFERENCES","textPreview":"REFERENCES","textChars":10,"textLines":1,"bbox":[1247,52,26,500]}
+{"kind":"shape","id":"sh/qpgruh0n","slide":49,"bbox":[1256,568,8,8]}
+{"kind":"shape","id":"sh/rqp83m18","slide":49,"bbox":[1256,583,8,8]}
+{"kind":"shape","id":"sh/sby9writ","slide":49,"bbox":[1256,598,8,8]}
+{"kind":"shape","id":"sh/dc7q5wje","slide":49,"bbox":[1256,613,8,8]}
+{"kind":"shape","id":"sh/edgry10j","slide":49,"bbox":[1256,628,8,8]}
+{"kind":"shape","id":"sh/fep87m14","slide":49,"name":"anchor-block-49","bbox":[0,0,96,96]}
+{"kind":"textbox","id":"sh/3a5g329c","slide":49,"name":"slide-title","text":"Key references","textPreview":"Key references","textChars":14,"textLines":1,"bbox":[96,72,1090,66]}
+{"kind":"shape","id":"sh/29wzuxsr","slide":49,"bbox":[96,146,160,4]}
+{"kind":"textbox","id":"sh/pcny5cri","slide":49,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[104,220,54,38]}
+{"kind":"textbox","id":"sh/obehw7ax","slide":49,"text":"Indonesia · Law No. 12/2012 on Higher Education","textPreview":"Indonesia · Law No. 12/2012 on Higher Education","textChars":47,"textLines":1,"bbox":[162,216,450,58]}
+{"kind":"textbox","id":"sh/f6lgzi90","slide":49,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[104,312,54,38]}
+{"kind":"textbox","id":"sh/e5czqdsf","slide":49,"text":"Yao et al. · ReAct (2023)","textPreview":"Yao et al. · ReAct (2023)","textChars":25,"textLines":1,"bbox":[162,308,450,58]}
+{"kind":"textbox","id":"sh/183y1sr6","slide":49,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[104,404,54,38]}
+{"kind":"textbox","id":"sh/g7uhsnal","slide":49,"text":"Schick et al. · Toolformer (2023)","textPreview":"Schick et al. · Toolformer (2023)","textChars":33,"textLines":1,"bbox":[162,400,450,58]}
+{"kind":"textbox","id":"sh/z2p0bm9k","slide":49,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[104,496,54,38]}
+{"kind":"textbox","id":"sh/y1gz2hsz","slide":49,"text":"Park et al. · Generative Agents (2023)","textPreview":"Park et al. · Generative Agents (2023)","textChars":38,"textLines":1,"bbox":[162,492,450,58]}
+{"kind":"textbox","id":"sh/ux0julc7","slide":49,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[644,220,54,38]}
+{"kind":"textbox","id":"sh/vy9k3qts","slide":49,"text":"Lewis et al. · Retrieval-Augmented Generation (2020)","textPreview":"Lewis et al. · Retrieval-Augmented Generation (2020)","textChars":52,"textLines":1,"bbox":[702,216,450,58]}
+{"kind":"textbox","id":"sh/wzi1wvud","slide":49,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[644,312,54,38]}
+{"kind":"textbox","id":"sh/h0b25gbi","slide":49,"text":"UNESCO · Guidance for GenAI in Education and Research (2023)","textPreview":"UNESCO · Guidance for GenAI in Education and Research (2023)","textChars":60,"textLines":1,"bbox":[702,308,450,58]}
+{"kind":"textbox","id":"sh/i1kjylc3","slide":49,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[644,404,54,38]}
+{"kind":"textbox","id":"sh/j2tk7qto","slide":49,"text":"NIST · AI Risk Management Framework 1.0","textPreview":"NIST · AI Risk Management Framework 1.0","textChars":39,"textLines":1,"bbox":[702,400,450,58]}
+{"kind":"textbox","id":"sh/4n2l0vu9","slide":49,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[644,496,54,38]}
+{"kind":"textbox","id":"sh/5ob290bu","slide":49,"text":"AFK Research · private MVP snapshot at 6c76a25","textPreview":"AFK Research · private MVP snapshot at 6c76a25","textChars":46,"textLines":1,"bbox":[702,492,450,58]}
+{"kind":"notes","id":"nt/45z90w","slide":49,"text":"Invite participants to use the speaker-note source blocks throughout the deck for precise links. The AFK Research evidence is private and must not be published without explicit approval.\n\n[Sources]\n- https://peraturan.bpk.go.id/Details/%2039063/uu-no-12-tahun-2012\n- https://arxiv.org/abs/2210.03629\n- https://arxiv.org/abs/2302.04761\n- https://arxiv.org/abs/2304.03442\n- https://arxiv.org/abs/2005.11401\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/\n- https://www.oecd.org/en/publications/policies-supporting-responsible-and-systematic-genai-adoption-in-higher-education_c4e5621f-en.html\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/sources/afk-research-mvp-repository.md\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/syntheses/afk-research-presentation-to-mvp-gap.md"}
+{"kind":"slide","id":"sl/2x8hjj","slide":50,"title":"The lecturer remains the accountable expert.","textShapes":4}
+{"kind":"shape","id":"sh/4nu947a5","slide":50,"bbox":[0,0,870,720]}
+{"kind":"shape","id":"sh/32l8bmtk","slide":50,"bbox":[870,0,370,720]}
+{"kind":"shape","id":"sh/i1cr2hsz","slide":50,"bbox":[1240,0,40,720]}
+{"kind":"textbox","id":"sh/dsnahwrm","slide":50,"text":"The lecturer remains the accountable expert.","textPreview":"The lecturer remains the accountable expert.","textChars":44,"textLines":1,"bbox":[92,144,700,190]}
+{"kind":"shape","id":"sh/sre98ra1","slide":50,"bbox":[96,370,180,6]}
+{"kind":"textbox","id":"sh/rq5sfm9g","slide":50,"text":"The agent carries context, prepares work, uses bounded tools, and makes the process visible.","textPreview":"The agent carries context, prepares work, uses bounded tools, and makes the process visible.","textChars":92,"textLines":1,"bbox":[96,414,660,120]}
+{"kind":"textbox","id":"sh/qpwr6hsv","slide":50,"text":"BUILD THE SYSTEM.\nKEEP THE JUDGMENT.","textPreview":"BUILD THE SYSTEM. | KEEP THE JUDGMENT.","textChars":36,"textLines":2,"bbox":[918,210,260,210]}
+{"kind":"textbox","id":"sh/1w7alwri","slide":50,"text":"50","textPreview":"50","textChars":2,"textLines":1,"bbox":[1247,650,26,28]}
+{"kind":"notes","id":"nt/2x8hjj","slide":50,"text":"Close by resolving the opening tension. The goal is not autonomous academia. The goal is continuity, leverage, and visible evidence while the lecturer retains accountable judgment.\n\n[Sources]\n- [private-local-root]/dcse-summer-ppt/.brain/wiki/concepts/human-in-the-loop-academic-agent.md\n- https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research\n- https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"}

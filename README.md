@@ -5,20 +5,31 @@ Agents**.
 
 ## Download
 
-[Download the PowerPoint deck](.outputs/agentic-tri-dharma-afk-research.pptx)
+[Download the recommended public PowerPoint deck](.outputs/Agentic_Tri_Dharma_Lecture_with_AFK_Research_Public.pptx)
 
 The deck contains 54 slides covering AI-agent foundations, theories, academic
 workflow design, implementation, and AFK Research product examples.
+
+## Output archive
+
+The [`.outputs`](.outputs/) directory also contains the visible intermediate
+PowerPoint versions, inspection reports, rendered slide images, contact sheets,
+and product-media render folders created during development of the lecture.
+
+The file named
+[`Agentic_Tri_Dharma_Lecture_with_AFK_Research_Public.pptx`](.outputs/Agentic_Tri_Dharma_Lecture_with_AFK_Research_Public.pptx)
+is the recommended presentation. Other decks are retained as development
+iterations and may differ in wording, media treatment, or completeness.
+
+Absolute workstation paths and private-repository URLs were sanitized before
+publication. Hidden build workspaces, nested Git metadata, private research
+notes, and source-repository history are not part of this public export.
 
 ## Create or adapt the deck
 
 1. Download the `.pptx` file.
 2. Open it in Microsoft PowerPoint or a compatible presentation editor.
 3. Duplicate and edit slides while retaining source notes and review gates.
-
-This public repository contains only the reviewed release artifact. Private
-research notes, source captures, build caches, and repository history are not
-included.
 
 ## Product status
 
